@@ -1,0 +1,16 @@
+{
+  "name": "news-in-levels-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scrape News in Levels into a single JSON dataset with Level 1/2/3 variants.",
+  "main": "scraper.js",
+  "scripts": {
+    "scrape": "node scraper.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  }
+}
