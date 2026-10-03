@@ -1,5 +1,31 @@
 [
   {
+    "id": "grammar-for-your-level",
+    "title": "World News for Students of English",
+    "date": "03-10-2026 12:00",
+    "levels": {
+      "1": {
+        "title": "World News for Students of English",
+        "date": "03-10-2026 12:00",
+        "content": "We have a special website for you. The name is www.grammarinlevels.com. You can learn grammar for your level.\n\nYou can send this website to your friends.\n\nWe hope that you like this project.\n\nHave a nice day,\n\nNews in Levels team",
+        "url": "https://www.newsinlevels.com/products/grammar-for-your-level-level-1"
+      },
+      "2": {
+        "title": "World News for Students of English",
+        "date": "03-10-2026 12:00",
+        "content": "Hello students,\n\nWe have a new website for you. The name is www.grammarinlevels.com. You can learn important grammar for your level.\n\nYou can also send a link to this website to your friends.\n\nWe hope that you will like this new project.\n\nHave a nice day,\n\nNews in Levels team",
+        "url": "https://www.newsinlevels.com/products/grammar-for-your-level-level-2"
+      },
+      "3": {
+        "title": "World News for Students of English",
+        "date": "03-10-2026 12:00",
+        "content": "Hello students,\n\nWe have a special website for you. The name is www.grammarinlevels.com. You can learn important grammar for your level.\n\nYou can also send a link to this website to your friends.\n\nWe hope this website will help you understand grammar better.\n\nHave a nice day,\n\nNews in Levels team",
+        "url": "https://www.newsinlevels.com/products/grammar-for-your-level-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-03T11:24:03.089Z"
+  },
+  {
     "id": "who-does-basmati-rice-belong-to",
     "title": "World News for Students of English",
     "date": "02-10-2026 15:00",
@@ -23,7 +49,7 @@
         "url": "https://www.newsinlevels.com/products/who-does-basmati-rice-belong-to-level-3"
       }
     },
-    "scrapedAt": "2026-10-03T04:44:22.996Z"
+    "scrapedAt": "2026-10-03T11:24:02.408Z"
   },
   {
     "id": "first-germany-russia-meeting-since-2022",
@@ -49,7 +75,7 @@
         "url": "https://www.newsinlevels.com/products/first-germany-russia-meeting-since-2022-level-3"
       }
     },
-    "scrapedAt": "2026-10-03T04:44:22.778Z"
+    "scrapedAt": "2026-10-03T11:24:02.758Z"
   },
   {
     "id": "ai-helps-women-in-kenya",
@@ -75,7 +101,7 @@
         "url": "https://www.newsinlevels.com/products/ai-helps-women-in-kenya-level-3"
       }
     },
-    "scrapedAt": "2026-10-03T04:44:23.158Z"
+    "scrapedAt": "2026-10-03T11:24:02.946Z"
   },
   {
     "id": "scotland-has-a-big-problem-with-drugs",
@@ -101,7 +127,7 @@
         "url": "https://www.newsinlevels.com/products/scotland-has-a-big-problem-with-drugs-level-3"
       }
     },
-    "scrapedAt": "2026-10-03T04:44:23.123Z"
+    "scrapedAt": "2026-10-03T11:24:03.210Z"
   },
   {
     "id": "does-duolingo-teach-you-to-speak",
@@ -127,7 +153,7 @@
         "url": "https://www.newsinlevels.com/products/does-duolingo-teach-you-to-speak-level-3"
       }
     },
-    "scrapedAt": "2026-10-03T04:44:25.951Z"
+    "scrapedAt": "2026-10-03T11:24:05.794Z"
   },
   {
     "id": "chinese-president-visits-the-us",
@@ -153,7 +179,7 @@
         "url": "https://www.newsinlevels.com/products/chinese-president-visits-the-us-level-3"
       }
     },
-    "scrapedAt": "2026-10-03T04:44:26.047Z"
+    "scrapedAt": "2026-10-03T11:24:06.097Z"
   },
   {
     "id": "a-concert-for-bears",
@@ -179,7 +205,7 @@
         "url": "https://www.newsinlevels.com/products/a-concert-for-bears-level-3"
       }
     },
-    "scrapedAt": "2026-10-03T04:44:26.239Z"
+    "scrapedAt": "2026-10-03T11:24:05.966Z"
   },
   {
     "id": "empty-flats-in-london",
@@ -205,7 +231,7 @@
         "url": "https://www.newsinlevels.com/products/empty-flats-in-london-level-3"
       }
     },
-    "scrapedAt": "2026-10-03T04:44:26.190Z"
+    "scrapedAt": "2026-10-03T11:24:06.188Z"
   },
   {
     "id": "malaysias-transport-minister-resigns",
@@ -231,7 +257,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-transport-minister-resigns-level-3"
       }
     },
-    "scrapedAt": "2026-10-03T04:44:26.328Z"
+    "scrapedAt": "2026-10-03T11:24:06.710Z"
   },
   {
     "id": "this-game-is-your-elevator-to-english",
@@ -257,7 +283,7 @@
         "url": "https://www.newsinlevels.com/products/this-game-is-your-elevator-to-english-level-3"
       }
     },
-    "scrapedAt": "2026-10-03T04:44:26.239Z"
+    "scrapedAt": "2026-10-03T11:24:08.616Z"
   },
   {
     "id": "the-doorway-effect",
@@ -283,7 +309,7 @@
         "url": "https://www.newsinlevels.com/products/the-doorway-effect-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:42.014Z"
+    "scrapedAt": "2026-10-03T11:24:09.069Z"
   },
   {
     "id": "greenland-and-antarctica-lose-ice",
@@ -309,7 +335,7 @@
         "url": "https://www.newsinlevels.com/products/greenland-and-antarctica-lose-ice-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:42.125Z"
+    "scrapedAt": "2026-10-03T11:24:09.119Z"
   },
   {
     "id": "are-you-dead-app",
@@ -335,7 +361,7 @@
         "url": "https://www.newsinlevels.com/products/are-you-dead-app-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:42.343Z"
+    "scrapedAt": "2026-10-03T11:24:09.314Z"
   },
   {
     "id": "liberland",
@@ -361,7 +387,7 @@
         "url": "https://www.newsinlevels.com/products/liberland-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:42.760Z"
+    "scrapedAt": "2026-10-03T11:24:09.308Z"
   },
   {
     "id": "how-snowflakes-form",
@@ -387,7 +413,7 @@
         "url": "https://www.newsinlevels.com/products/how-snowflakes-form-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:43.125Z"
+    "scrapedAt": "2026-10-03T11:24:09.970Z"
   },
   {
     "id": "ed-sheeran-has-problems-with-his-tour",
@@ -413,7 +439,7 @@
         "url": "https://www.newsinlevels.com/products/ed-sheeran-has-problems-with-his-tour-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:43.205Z"
+    "scrapedAt": "2026-10-03T11:24:11.741Z"
   },
   {
     "id": "teens-cannot-read",
@@ -439,7 +465,7 @@
         "url": "https://www.newsinlevels.com/products/teens-cannot-read-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:45.029Z"
+    "scrapedAt": "2026-10-03T11:24:12.190Z"
   },
   {
     "id": "trumps-son-in-law-business-or-politics",
@@ -465,7 +491,7 @@
         "url": "https://www.newsinlevels.com/products/trumps-son-in-law-business-or-politics-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:45.051Z"
+    "scrapedAt": "2026-10-03T11:24:11.982Z"
   },
   {
     "id": "new-euro-money",
@@ -491,7 +517,7 @@
         "url": "https://www.newsinlevels.com/products/new-euro-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:45.269Z"
+    "scrapedAt": "2026-10-03T11:24:12.482Z"
   },
   {
     "id": "yemen-war",
@@ -517,7 +543,7 @@
         "url": "https://www.newsinlevels.com/products/yemen-war-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:45.644Z"
+    "scrapedAt": "2026-10-03T11:24:12.519Z"
   },
   {
     "id": "robinson-crusoe",
@@ -543,7 +569,7 @@
         "url": "https://www.newsinlevels.com/products/robinson-crusoe-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:46.241Z"
+    "scrapedAt": "2026-10-03T11:24:13.269Z"
   },
   {
     "id": "ai-bosses-say-that-ai-is-growing-too-fast",
@@ -569,7 +595,7 @@
         "url": "https://www.newsinlevels.com/products/ai-bosses-say-that-ai-is-growing-too-fast-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:46.374Z"
+    "scrapedAt": "2026-10-03T11:24:14.811Z"
   },
   {
     "id": "an-athlete-wins-a-race-while-sick",
@@ -589,13 +615,13 @@
         "url": "https://www.newsinlevels.com/products/an-athlete-wins-a-race-while-sick-level-2"
       },
       "3": {
-        "title": "World News for Students of English",
-        "date": "18-09-2026 07:00",
-        "content": "Australian athlete Joanna Wietrzyk won her age category at a Hyrox indoor fitness competition in Beijing, but her victory created significant controversy.\n\nWhile competing, she suffered severe bowel incontinence and left feces on shared equipment such as rowers and carpeted areas.\n\nWietrzyk finished the race in just over an hour and later shared a photo from a hospital bed on an IV drip with the caption A win is a win. Opinions on the incident are deeply divided. Some fans praised her determination, mental strength, and refusal to give up under extreme physical distress. However, critics, commentators, and fellow participants highlighted the serious biological hazard her condition presented to other competitors. Many questioned why organizers didn’t intervene and stop her to provide medical help, especially since existing rules already penalized spitting and littering. Organizers had to close affected lanes, replace carpet, and deep clean the venue overnight, while debate continues over athlete health and safety protocols.",
+        "title": "Access Restricted",
+        "date": null,
+        "content": "Your location (CN) is not currently allowed to access this site. Please complete the verification below to continue.",
         "url": "https://www.newsinlevels.com/products/an-athlete-wins-a-race-while-sick-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:48.179Z"
+    "scrapedAt": "2026-10-03T11:24:14.886Z"
   },
   {
     "id": "the-brightest-object-in-the-universe",
@@ -621,7 +647,7 @@
         "url": "https://www.newsinlevels.com/products/the-brightest-object-in-the-universe-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:48.002Z"
+    "scrapedAt": "2026-10-03T11:24:15.067Z"
   },
   {
     "id": "children-do-not-play-with-toys-anymore",
@@ -647,7 +673,7 @@
         "url": "https://www.newsinlevels.com/products/children-do-not-play-with-toys-anymore-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:48.349Z"
+    "scrapedAt": "2026-10-03T11:24:15.626Z"
   },
   {
     "id": "a-czech-man-changes-the-world-of-3d-printing",
@@ -673,7 +699,7 @@
         "url": "https://www.newsinlevels.com/products/a-czech-man-changes-the-world-of-3d-printing-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:48.582Z"
+    "scrapedAt": "2026-10-03T11:24:15.920Z"
   },
   {
     "id": "englands-tourist-tax",
@@ -699,7 +725,7 @@
         "url": "https://www.newsinlevels.com/products/englands-tourist-tax-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:49.487Z"
+    "scrapedAt": "2026-10-03T11:24:16.478Z"
   },
   {
     "id": "gamescom",
@@ -725,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/gamescom-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:49.309Z"
+    "scrapedAt": "2026-10-03T11:24:17.847Z"
   },
   {
     "id": "people-in-gambia-do-not-have-electricity",
@@ -751,7 +777,7 @@
         "url": "https://www.newsinlevels.com/products/people-in-gambia-do-not-have-electricity-level-3"
       }
     },
-    "scrapedAt": "2026-10-02T20:12:51.216Z"
+    "scrapedAt": "2026-10-03T11:24:17.922Z"
   },
   {
     "id": "why-our-memories-of-9-11-change",
@@ -803,7 +829,7 @@
         "url": "https://www.newsinlevels.com/products/labubu-maker-learns-from-disney-level-3"
       }
     },
-    "scrapedAt": "2026-10-03T04:44:22.961Z"
+    "scrapedAt": "2026-10-03T11:24:02.745Z"
   },
   {
     "id": "people-save-a-glacier",
@@ -855,6 +881,6 @@
         "url": "https://www.newsinlevels.com/products/tokyo-micro-apartments-level-3"
       }
     },
-    "scrapedAt": "2026-10-03T04:44:23.038Z"
+    "scrapedAt": "2026-10-03T11:24:05.566Z"
   }
 ]
