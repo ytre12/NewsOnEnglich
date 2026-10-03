@@ -55,6 +55,19 @@ function levelFromUrl(url) {
   return match ? Number(match[2]) : null;
 }
 
+// Stable numeric ID generated from the article slug.
+// The same article always gets the same ID, even after another full scrape.
+function numericIdFromSlug(slug) {
+  let hash = 2166136261;
+
+  for (let i = 0; i < slug.length; i += 1) {
+    hash ^= slug.charCodeAt(i);
+    hash = Math.imul(hash, 16777619);
+  }
+
+  return hash >>> 0;
+}
+
 function parseDateToTimestamp(dateText) {
   if (!dateText) return 0;
   const match = dateText.match(DATE_RE);
@@ -87,12 +100,11 @@ async function fetchHtml(url) {
         return await response.text();
       }
 
+      const error = new Error(`HTTP ${response.status} for ${url}`);
       const retryable = response.status === 429 || response.status >= 500;
-      if (!retryable) {
-        throw new Error(`HTTP ${response.status} for ${url}`);
-      }
 
-      throw new Error(`HTTP ${response.status} for ${url}`);
+      if (!retryable) throw error;
+      throw error;
     } catch (error) {
       lastError = error;
 
@@ -223,6 +235,88 @@ function extractDate($) {
   return bodyText.match(DATE_RE)?.[0] || null;
 }
 
+function isWordsBlockText(text) {
+  return /^Difficult words\s*:/i.test(cleanText(text));
+}
+
+// Keep readable HTML formatting from the words block.
+// We preserve <strong> and <b>, keep all text, but remove links and unrelated attributes.
+function serializeWordsNode($, node) {
+  if (node.type === 'text') {
+    return node.data || '';
+  }
+
+  if (node.type !== 'tag') return '';
+
+  const tag = node.name.toLowerCase();
+  const inner = $(node)
+    .contents()
+    .toArray()
+    .map((child) => serializeWordsNode($, child))
+    .join('');
+
+  if (tag === 'strong' || tag === 'b') {
+    return `<${tag}>${inner}</${tag}>`;
+  }
+
+  // Preserve useful inline emphasis too, without attributes.
+  if (tag === 'em' || tag === 'i') {
+    return `<${tag}>${inner}</${tag}>`;
+  }
+
+  if (tag === 'br') return '\n';
+
+  return inner;
+}
+
+function cleanWordsHtml(html) {
+  if (!html) return null;
+
+  const $ = cheerio.load(`<div id="words-root">${html}</div>`, null, false);
+  const root = $('#words-root');
+  let result = serializeWordsNode($, root.get(0));
+
+  result = result
+    .replace(/\u00a0/g, ' ')
+    .replace(/[ \t]+/g, ' ')
+    .replace(/\s*\n\s*/g, '\n')
+    .trim();
+
+  // Store only the actual list, not the site label itself.
+  result = result.replace(/^Difficult words\s*:\s*/i, '').trim();
+
+  return result || null;
+}
+
+function extractWords($) {
+  let words = null;
+
+  // The current site renders the dictionary as a paragraph beginning with "Difficult words:".
+  $('p').each((_, element) => {
+    if (words) return;
+
+    const text = cleanText($(element).text());
+    if (!isWordsBlockText(text)) return;
+
+    words = cleanWordsHtml($(element).html());
+  });
+
+  // Fallback for a future layout where the block is not a <p>.
+  if (!words) {
+    $('body *').each((_, element) => {
+      if (words) return;
+
+      const text = cleanText($(element).text());
+      if (!isWordsBlockText(text)) return;
+      if ($(element).children().length > 0 && $(element).find('p').length > 0) return;
+
+      words = cleanWordsHtml($(element).html());
+    });
+  }
+
+  return words;
+}
+
 function extractContent($) {
   const h1 = $('h1').first();
   if (!h1.length) {
@@ -247,7 +341,7 @@ function extractContent($) {
 
     if (DATE_RE.test(text)) return;
 
-    if (/^Difficult words\s*:/i.test(text)) {
+    if (isWordsBlockText(text)) {
       stopped = true;
       return;
     }
@@ -258,13 +352,15 @@ function extractContent($) {
     }
 
     if (tag !== 'p') {
-      if (/^(?:learn|test|reading|listening|writing|speaking|how to improve)/i.test(text) || text.endsWith('?')) {
+      if (
+        /^(?:learn|test|reading|listening|writing|speaking|how to improve)/i.test(text) ||
+        text.endsWith('?')
+      ) {
         stopped = true;
       }
       return;
     }
 
-    // The page has the actual news as consecutive <p> elements after the title/date.
     content.push(text);
   });
 
@@ -279,6 +375,7 @@ async function scrapeLevel(url, level) {
   const title = cleanTitle(rawTitle);
   const date = extractDate($);
   const content = extractContent($);
+  const words = extractWords($);
 
   if (!title) throw new Error(`No title found for level ${level}: ${url}`);
   if (!content) throw new Error(`No article content found for level ${level}: ${url}`);
@@ -287,6 +384,7 @@ async function scrapeLevel(url, level) {
     title,
     date,
     content,
+    words,
     url,
   };
 }
@@ -300,6 +398,44 @@ async function readExistingData() {
     if (error.code === 'ENOENT') return [];
     throw error;
   }
+}
+
+function normalizeExistingItem(item) {
+  // Migrate the previous slug/string ID format to the new stable numeric ID format.
+  const sourceSlug =
+    typeof item.slug === 'string'
+      ? item.slug
+      : typeof item.id === 'string'
+        ? item.id
+        : null;
+
+  const migratedId =
+    typeof item.id === 'number'
+      ? item.id
+      : sourceSlug
+        ? numericIdFromSlug(sourceSlug)
+        : item.id;
+
+  const normalizedLevels = {};
+  for (const [level, value] of Object.entries(item.levels || {})) {
+    if (!value || typeof value !== 'object') continue;
+
+    normalizedLevels[level] = {
+      title: cleanTitle(value.title || ''),
+      date: value.date || null,
+      content: value.content || '',
+      words: value.words || null,
+      url: value.url || null,
+    };
+  }
+
+  return {
+    ...item,
+    id: migratedId,
+    title: cleanTitle(item.title || ''),
+    date: item.date || null,
+    levels: normalizedLevels,
+  };
 }
 
 function mergeArticle(existing, scraped) {
@@ -328,7 +464,6 @@ async function scrapeArticle(article) {
     try {
       console.log(`  ${article.slug} -> level ${level}`);
       levels[String(level)] = await scrapeLevel(urls[level], level);
-      // Small pause keeps the scraper gentler even with concurrent articles.
       await sleep(120);
     } catch (error) {
       console.error(`  Failed level ${level} for ${article.slug}: ${error.message}`);
@@ -340,7 +475,7 @@ async function scrapeArticle(article) {
   const firstAvailable = levels['1'] || levels['2'] || levels['3'];
 
   return {
-    id: article.slug,
+    id: numericIdFromSlug(article.slug),
     title: cleanTitle(firstAvailable.title || article.title),
     date: firstAvailable.date || null,
     levels,
@@ -358,7 +493,7 @@ async function main() {
 
   await fs.mkdir(path.dirname(DATA_FILE), { recursive: true });
 
-  const existing = await readExistingData();
+  const existing = (await readExistingData()).map(normalizeExistingItem);
   const existingById = new Map(existing.map((item) => [item.id, item]));
 
   const articleLinks = await collectArticleLinks();
@@ -380,7 +515,6 @@ async function main() {
     return parseDateToTimestamp(b.date) - parseDateToTimestamp(a.date);
   });
 
-  // Drop internal timestamps from very old items only when they are absent; keep them useful for debugging.
   await fs.writeFile(DATA_FILE, JSON.stringify(output, null, 2) + '\n', 'utf8');
 
   console.log(`Successful story fetches: ${successCount}`);
