@@ -367,11 +367,12 @@ function extractContent($) {
   return content.join('\n\n').trim();
 }
 
-async function scrapeLevel(url, level) {
+async function scrapeLevel(url, level, articleTitle) {
   const html = await fetchHtml(url);
   const $ = cheerio.load(html);
 
-  const rawTitle = cleanText($('h1').first().text());
+  const pageTitle = cleanText($('h2').first().text());
+  const rawTitle = cleanText(articleTitle || pageTitle || $('h1').first().text());
   const title = cleanTitle(rawTitle);
   const date = extractDate($);
   const content = extractContent($);
@@ -463,7 +464,7 @@ async function scrapeArticle(article) {
   for (const level of [1, 2, 3]) {
     try {
       console.log(`  ${article.slug} -> level ${level}`);
-      levels[String(level)] = await scrapeLevel(urls[level], level);
+      levels[String(level)] = await scrapeLevel(urls[level], level, article.title);
       await sleep(120);
     } catch (error) {
       console.error(`  Failed level ${level} for ${article.slug}: ${error.message}`);
