@@ -1072,33 +1072,5 @@
     },
     "scrapedAt": "2026-10-04T05:15:42.582Z"
   },
-  {
-    "id": 1879785745,
-    "title": "Gamescom",
-    "date": null,
-    "levels": {
-      "1": {
-        "title": "Gamescom",
-        "date": null,
-        "content": "Your location (CN) is not currently allowed to access this site. Please complete the verification below to continue.",
-        "words": null,
-        "url": "https://www.newsinlevels.com/products/gamescom-level-1"
-      },
-      "2": {
-        "title": "Gamescom",
-        "date": "15-09-2026 15:00",
-        "content": "Gamescom is the world’s biggest gaming event, with over 350,000 visitors. The event started with big news, including a new version of The Witcher 3.\n\nAt the show, Xbox celebrated its 25th birthday, and its new leader said the gaming industry needs to make hardware more affordable. Classic games are also coming back; Tomb Raider is getting a modern update called Legacy of Atlantis with better graphics and controls. Smaller game studios are working on big projects too. A small team from Scotland is making a new horror game called Silent Hill Townfall. Furthermore, technology companies like Nvidia showed new AI tools to make game graphics look very real in real time.\n\nGamescom remains an exciting place where fans and developers meet to play new games.",
-        "words": "<strong>affordable</strong> (cheap enough for most people to be able to buy or pay for), <strong>update</strong> (a change which makes something more modern or accurate), <strong>remain</strong> (to continue to be in the same state, condition, or place).",
-        "url": "https://www.newsinlevels.com/products/gamescom-level-2"
-      },
-      "3": {
-        "title": "Gamescom",
-        "date": "15-09-2026 15:00",
-        "content": "Gamescom, the world’s largest in-person gaming convention, opened with Opening Night Live and featured major announcements like a remake of The Witcher 3.\n\nOver 350,000 visitors are expected at the massive event that fills ten halls with major publishers and indie developers.\n\nCEO Asha Sharma marked Xbox’s 25th anniversary and emphasized that the industry must innovate on efficiency and hardware affordability. Classic franchises are also making headlines; Tomb Raider is being reimagined as Legacy of Atlantis with modernized gameplay while it honors Lara Croft’s iconic confidence.\n\nSmaller independent studios are stepping up to handle huge intellectual properties. Scottish team Screenburn is developing Silent Hill Townfall. Tech advancements are equally prominent – Nvidia demonstrates DLSS 5, a generative AI graphics tool that renders hyper-realistic visuals in real time. Gamescom highlights how the industry is adapting to new challenges, balancing iconic remakes with groundbreaking technology to shape gaming’s future.",
-        "words": "<strong>convention</strong> (a large meeting where people with similar interests or jobs gather together), <strong>indie</strong> (made by a small, independent company without backing from a big corporation), <strong>render</strong> (to create a final visual image or video on a computer screen using specialized software).",
-        "url": "https://www.newsinlevels.com/products/gamescom-level-3"
-      }
-    },
-    "scrapedAt": "2026-10-05T05:00:04.955Z"
   }
 ]
