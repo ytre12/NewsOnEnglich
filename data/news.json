@@ -1,5 +1,34 @@
 [
   {
+    "id": 889569892,
+    "title": "A shark in a canal",
+    "date": "06-10-2026 07:00",
+    "levels": {
+      "1": {
+        "title": "A shark in a canal",
+        "date": "06-10-2026 07:00",
+        "content": "A big shark is stuck in a canal in South Korea. The shark is over three meters long. It is in the canal for three weeks now. Local people call the shark Bukangi. Many people go to watch it swim.\n\nRescuers try to help the shark go back to the sea. They use a big net, but the net hit rocks. Experts say that city lights and noise confuse the shark. It cannot find its way out. Rescuers now hope that the ocean water will help the shark swim home naturally.\n\nScientists say warmer seawater brings more sharks near the country.",
+        "words": "<strong>stuck</strong> (when you cannot move or get out of), <strong>confuse</strong> (when someone cannot think clearly or understand a situation), <strong>naturally</strong> (when something happens without any help).",
+        "url": "https://www.newsinlevels.com/products/a-shark-in-a-canal-level-1"
+      },
+      "2": {
+        "title": "A shark in a canal",
+        "date": "06-10-2026 07:00",
+        "content": "A large 3.5-meter shark got stuck in a canal in Busan, South Korea, more than two weeks ago. People gave the shark the nickname Bukangi, and around 600,000 visitors came to see it.\n\nRescue teams tried to guide the shark back to the open ocean twice with the help of water jets and a large 50-meter net. The second rescue attempt failed on Friday because the net got caught on sharp rocks. Experts believe city noise and bright lights are confusing the shark, which finds it difficult to get into the sea. Rescue teams left a net barrier to stop it from swimming deeper into the city. They hope the ocean currents will help it swim out naturally.\n\nScientists say warmer sea waters are bringing more large sharks near South Korea.",
+        "words": "<strong>water jet</strong> (a strong, fast stream of water pushed out with strong force), <strong>attempt</strong> (trying to do something difficult or achieve a goal), <strong>current</strong> (a movement of water flowing in a specific direction).",
+        "url": "https://www.newsinlevels.com/products/a-shark-in-a-canal-level-2"
+      },
+      "3": {
+        "title": "A shark in a canal",
+        "date": "06-10-2026 07:00",
+        "content": "In Busan, South Korea, a 3.5-meter shark has been stuck in a narrow port canal for over two weeks after a second rescue attempt failed.\n\nRescuers tried using a massive 50-meter net to gently herd the animal back out toward the open ocean; however, the operation had to be called off when the net kept snagging on underwater rocks. The shark, believed to be a bronze whaler, has turned into a major local celebrity, and it drew roughly 600,000 visitors to the canal area. Marine experts think noisy surroundings and city lights might be confusing the shark’s senses and make it hard for the animal to navigate out on its own.\n\nRescuers have now positioned the net to keep the animal close to the sea. They hope changing tides will help it swim home. Meanwhile, researchers note that rising sea temperatures are driving significantly more large sharks toward South Korea’s coastlines.",
+        "words": "<strong>herd</strong> (to gather and guide animals or people to move together in a specific direction), <strong>snag</strong> (to catch or get caught on something sharp or rough).",
+        "url": "https://www.newsinlevels.com/products/a-shark-in-a-canal-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-06T13:06:34.260Z"
+  },
+  {
     "id": 481875836,
     "title": "Brazilians have problems with money",
     "date": "05-10-2026 15:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/brazilians-have-problems-with-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:16.777Z"
+    "scrapedAt": "2026-10-06T13:06:34.346Z"
   },
   {
     "id": 1857483805,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/the-swiss-vote-on-neutrality-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:16.757Z"
+    "scrapedAt": "2026-10-06T13:06:34.544Z"
   },
   {
     "id": 1454995031,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/grammar-for-your-level-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:16.993Z"
+    "scrapedAt": "2026-10-06T13:06:34.523Z"
   },
   {
     "id": 1961076135,
@@ -107,13 +136,13 @@
       },
       "3": {
         "title": "Who does Basmati rice belong to?",
-        "date": null,
-        "content": "Your location (CN) is not currently allowed to access this site. Please complete the verification below to continue.",
-        "words": null,
+        "date": "02-10-2026 15:00",
+        "content": "Basmati rice is one of the world’s most valuable rice varieties, and sells for up to twice the price of standard white rice. Both India and Pakistan grow this crop in the historical region of Punjab, which is now divided by an international border.\n\nFor years, both nations have been locked in a legal dispute over the exclusive right to the Basmati name in the EU. Receiving Protected Geographical Indication (PGI) status would grant a valuable market monopoly, but neither country has been able to submit a joint application due to a lack of political cooperation. Although similar disputes, such as Halloumi cheese in divided Cyprus, were resolved through joint EU frameworks, negotiations between India and Pakistan have completely stalled.\n\nWithout an agreement or EU protection, approximately 90% of rice sold globally under the name Basmati comes from other regions. Experts warn that if the EU delays its decision further it may destroy its protection completely.",
+        "words": "<strong>exclusive right</strong> (the official permission given to only one person or group to do or sell something), <strong>monopoly</strong> (complete control of a market or product by one single company or country), <strong>stall</strong> (to stop moving forward or making progress, often unexpectedly).",
         "url": "https://www.newsinlevels.com/products/who-does-basmati-rice-belong-to-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:16.709Z"
+    "scrapedAt": "2026-10-06T13:06:34.608Z"
   },
   {
     "id": 271770423,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/first-germany-russia-meeting-since-2022-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:16.873Z"
+    "scrapedAt": "2026-10-06T13:06:37.179Z"
   },
   {
     "id": 4186222974,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/ai-helps-women-in-kenya-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:19.522Z"
+    "scrapedAt": "2026-10-06T13:06:37.114Z"
   },
   {
     "id": 96635328,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/scotland-has-a-big-problem-with-drugs-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:19.672Z"
+    "scrapedAt": "2026-10-06T13:06:37.279Z"
   },
   {
     "id": 538267388,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/tokyo-micro-apartments-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:19.698Z"
+    "scrapedAt": "2026-10-06T13:06:37.363Z"
   },
   {
     "id": 2003176949,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/does-duolingo-teach-you-to-speak-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:19.786Z"
+    "scrapedAt": "2026-10-06T13:06:37.432Z"
   },
   {
     "id": 2177276485,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/chinese-president-visits-the-us-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:19.813Z"
+    "scrapedAt": "2026-10-06T13:06:37.427Z"
   },
   {
     "id": 219238447,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/a-concert-for-bears-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:19.496Z"
+    "scrapedAt": "2026-10-06T13:06:40.138Z"
   },
   {
     "id": 2344492562,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/empty-flats-in-london-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:22.304Z"
+    "scrapedAt": "2026-10-06T13:06:40.063Z"
   },
   {
     "id": 1023750485,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-transport-minister-resigns-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:22.544Z"
+    "scrapedAt": "2026-10-06T13:06:40.126Z"
   },
   {
     "id": 2004191999,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/this-game-is-your-elevator-to-english-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:22.562Z"
+    "scrapedAt": "2026-10-06T13:06:40.233Z"
   },
   {
     "id": 2676579204,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/the-doorway-effect-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:22.606Z"
+    "scrapedAt": "2026-10-06T13:06:40.132Z"
   },
   {
     "id": 2695896888,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/greenland-and-antarctica-lose-ice-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:22.574Z"
+    "scrapedAt": "2026-10-06T13:06:40.311Z"
   },
   {
     "id": 1367049274,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/are-you-dead-app-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:22.686Z"
+    "scrapedAt": "2026-10-06T13:06:42.862Z"
   },
   {
     "id": 1410443606,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/liberland-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:25.391Z"
+    "scrapedAt": "2026-10-06T13:06:42.950Z"
   },
   {
     "id": 3835029078,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/how-snowflakes-form-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:25.416Z"
+    "scrapedAt": "2026-10-06T13:06:43.021Z"
   },
   {
     "id": 642139066,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/ed-sheeran-has-problems-with-his-tour-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:25.420Z"
+    "scrapedAt": "2026-10-06T13:06:43.049Z"
   },
   {
     "id": 1627526241,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/teens-cannot-read-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:25.584Z"
+    "scrapedAt": "2026-10-06T13:06:42.867Z"
   },
   {
     "id": 2589834317,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/trumps-son-in-law-business-or-politics-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:25.501Z"
+    "scrapedAt": "2026-10-06T13:06:42.887Z"
   },
   {
     "id": 972024100,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/new-euro-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:25.433Z"
+    "scrapedAt": "2026-10-06T13:06:45.600Z"
   },
   {
     "id": 201626710,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/yemen-war-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:28.289Z"
+    "scrapedAt": "2026-10-06T13:06:45.762Z"
   },
   {
     "id": 3843554933,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/robinson-crusoe-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:28.192Z"
+    "scrapedAt": "2026-10-06T13:06:45.779Z"
   },
   {
     "id": 99571931,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/ai-bosses-say-that-ai-is-growing-too-fast-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:28.434Z"
+    "scrapedAt": "2026-10-06T13:06:45.767Z"
   },
   {
     "id": 3307354117,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/an-athlete-wins-a-race-while-sick-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:28.264Z"
+    "scrapedAt": "2026-10-06T13:06:45.947Z"
   },
   {
     "id": 4183309925,
@@ -809,7 +838,7 @@
         "url": "https://www.newsinlevels.com/products/the-brightest-object-in-the-universe-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:28.147Z"
+    "scrapedAt": "2026-10-06T13:06:45.699Z"
   },
   {
     "id": 3586567648,
@@ -838,7 +867,7 @@
         "url": "https://www.newsinlevels.com/products/children-do-not-play-with-toys-anymore-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:28.395Z"
+    "scrapedAt": "2026-10-06T13:06:48.618Z"
   },
   {
     "id": 3354772512,
@@ -861,13 +890,13 @@
       },
       "3": {
         "title": "A Czech man changes the world of 3D printing",
-        "date": "16-09-2026 15:00",
-        "content": "Czech visionary Josef Průša has redefined additive manufacturing through his pioneering 3D printing technology.\n\nOriginally a student fascinated by music equipment, he engineered his own self-replicating 3D printer, an innovation that soon became an industry standard.\n\nIn 2012, he left university to establish Prusa Research, which has since evolved into a global enterprise based in Prague. The firm employs more than 1,200 people, exports worldwide, and generates annual revenues exceeding 160 million euros. Its award-winning machines are used by leading institutions such as NASA, CERN, and MIT, as well as numerous startups.\n\nPrůša’s philosophy centers on decentralizing production and stimulating European innovation. By making high-quality 3D printing accessible, he envisions a future where creativity, technology, and sustainability merge to reshape manufacturing across the continent.",
-        "words": "<strong>visionary</strong> (a person with original ideas about what the future could be like), <strong>decentralize</strong> (to spread control or production away from one main place to several smaller ones), <strong>merge</strong> (to join two or more things together to become one).",
+        "date": null,
+        "content": "Your location (CN) is not currently allowed to access this site. Please complete the verification below to continue.",
+        "words": null,
         "url": "https://www.newsinlevels.com/products/a-czech-man-changes-the-world-of-3d-printing-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:31.217Z"
+    "scrapedAt": "2026-10-06T13:06:48.526Z"
   },
   {
     "id": 3369563248,
@@ -1012,7 +1041,7 @@
         "url": "https://www.newsinlevels.com/products/bluefin-tuna-is-back-level-3"
       }
     },
-    "scrapedAt": "2026-10-06T05:47:16.838Z"
+    "scrapedAt": "2026-10-06T13:06:34.410Z"
   },
   {
     "id": 2803197471,
