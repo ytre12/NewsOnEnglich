@@ -1,5 +1,34 @@
 [
   {
+    "id": 4172865108,
+    "title": "Disney Animal Kingdom",
+    "date": "08-10-2026 15:00",
+    "levels": {
+      "1": {
+        "title": "Disney Animal Kingdom",
+        "date": "08-10-2026 15:00",
+        "content": "Disney loves animals and wants to help them. They have a big hospital for animals.\n\nThe staff prepares 1,500 different diets. They give the animals 4,500 kilograms of food every day. They want to save threatened animals, like lions, giraffes, and rhinos, and help them live in their homes.\n\nDisney gives lots of money to protect animals. They use bees to keep elephants away from farms. They want to help butterflies by planting milkweed in gardens.",
+        "words": "<strong>staff</strong> (people who work in one company), <strong>threatened animal</strong> (an animal which is in danger and may not exist anymore), <strong>milkweed</strong> (a plant which has white milky sap, and butterflies like it).",
+        "url": "https://www.newsinlevels.com/products/disney-animal-kingdom-level-1"
+      },
+      "2": {
+        "title": "Disney Animal Kingdom",
+        "date": "08-10-2026 15:00",
+        "content": "Disney’s Animal Kingdom worked for 25 years to increase the population of threatened animals such as lions, giraffes, and rhinos.\n\nThey have a large animal hospital which takes care of all animals, not just the popular ones. The staff manages 1,500 diets and feeds 4,500 kilograms of food to animals every day. Disney also supports wildlife conservation with 120 million dollars. They partnered with researchers to use bees to keep elephants away from African farms. Now they want to help threatened butterflies, like the monarch, by creating pollinator gardens.\n\nOn Earth Day, conservation experts asked people to grow their own pollinator gardens which help their local animal kingdom. Even you can plant milkweed and create your own pollinator garden.",
+        "words": "<strong>threatened</strong> (someone or something in danger), <strong>wildlife conservation</strong> (protecting plants and animals and their homes), <strong>pollinator garden</strong> (a special garden in which people grow plants that produce food for insects and other small animals).",
+        "url": "https://www.newsinlevels.com/products/disney-animal-kingdom-level-2"
+      },
+      "3": {
+        "title": "Disney Animal Kingdom",
+        "date": "08-10-2026 15:00",
+        "content": "For 25 years, Disney’s Animal Kingdom has been leading worldwide conservation efforts to increase the populations of threatened animals and restore their habitats.\n\nWith one of the world’s largest veterinarian hospitals, the park cares for all animal species, not just the big charismatic ones. The Animal Nutrition Center staff oversees 1,500 different diets and delivers 10,000 pounds of food to animals every day. The Disney Conservation Fund has directed 120 million dollars to help save wildlife. The team designs wildlife and animal habitats in the parks, such as Wishing Star Lake, created for struggling bird populations in Shanghai Disney Resort. The hope is that the threatened and endangered butterflies, including the monarch, will thrive in pollinator gardens across all the Disney properties.\n\nOn Earth Day, the conservation experts encourage everyone to grow a pollinator garden to help care for their local animal kingdom.",
+        "words": "<strong>conservation</strong> (protecting earth’s resources for future generations), <strong>charismatic</strong> (likable and naturally drawing attention), <strong>pollinator garden</strong> (a garden designed to grow specific nectar and pollen-producing plants).",
+        "url": "https://www.newsinlevels.com/products/disney-animal-kingdom-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-08T23:08:58.043Z"
+  },
+  {
     "id": 538702530,
     "title": "Are wind turbines safe for birds?",
     "date": "08-10-2026 07:00",
@@ -13,9 +42,9 @@
       },
       "2": {
         "title": "Are wind turbines safe for birds?",
-        "date": null,
-        "content": "Your location (SG) is not currently allowed to access this site. Please complete the verification below to continue.",
-        "words": null,
+        "date": "08-10-2026 07:00",
+        "content": "European countries are building many new wind turbines in the sea to create clean energy, and scientists want to know if these big turbines are dangerous for migrating birds.\n\nEvery year, millions of birds fly across the North Sea, but checking for accidents at sea is difficult, especially at night. To solve this problem, researchers installed sixteen special thermal cameras and AI on a sea turbine. During a one-year test, the cameras recorded millions of bird flights, but they only found two confirmed bird collisions. Other recent studies also show that almost all birds learn to fly around the turbines safely.\n\nEven though these results are good news, nature experts say we must keep using technology and careful planning to protect wild birds and their habitats.",
+        "words": "<strong>wind turbine</strong> (a tall structure which turns wind power into electricity), <strong>thermal camera</strong> (a special which records heat), <strong>habitat</strong> (the natural home or environment of an animal or plant species).",
         "url": "https://www.newsinlevels.com/products/are-wind-turbines-safe-for-birds-level-2"
       },
       "3": {
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/are-wind-turbines-safe-for-birds-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:32.030Z"
+    "scrapedAt": "2026-10-08T23:08:57.994Z"
   },
   {
     "id": 820406029,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/indias-luxury-fashion-industry-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:32.436Z"
+    "scrapedAt": "2026-10-08T23:08:58.589Z"
   },
   {
     "id": 579872748,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/a-woman-still-lives-after-an-execution-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:32.231Z"
+    "scrapedAt": "2026-10-08T23:08:58.639Z"
   },
   {
     "id": 55521327,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/gen-z-and-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:32.346Z"
+    "scrapedAt": "2026-10-08T23:08:58.934Z"
   },
   {
     "id": 889569892,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/a-shark-in-a-canal-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:32.190Z"
+    "scrapedAt": "2026-10-08T23:09:01.044Z"
   },
   {
     "id": 481875836,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/brazilians-have-problems-with-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:34.948Z"
+    "scrapedAt": "2026-10-08T23:09:01.032Z"
   },
   {
     "id": 1857483805,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/the-swiss-vote-on-neutrality-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:35.137Z"
+    "scrapedAt": "2026-10-08T23:09:01.187Z"
   },
   {
     "id": 1454995031,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/grammar-for-your-level-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:34.983Z"
+    "scrapedAt": "2026-10-08T23:09:01.733Z"
   },
   {
     "id": 1961076135,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/who-does-basmati-rice-belong-to-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:35.068Z"
+    "scrapedAt": "2026-10-08T23:09:01.920Z"
   },
   {
     "id": 271770423,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/first-germany-russia-meeting-since-2022-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:35.195Z"
+    "scrapedAt": "2026-10-08T23:09:02.279Z"
   },
   {
     "id": 4186222974,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/ai-helps-women-in-kenya-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:35.248Z"
+    "scrapedAt": "2026-10-08T23:09:04.040Z"
   },
   {
     "id": 96635328,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/scotland-has-a-big-problem-with-drugs-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:37.810Z"
+    "scrapedAt": "2026-10-08T23:09:04.095Z"
   },
   {
     "id": 538267388,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/tokyo-micro-apartments-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:37.682Z"
+    "scrapedAt": "2026-10-08T23:09:04.109Z"
   },
   {
     "id": 2003176949,
@@ -397,13 +426,13 @@
       },
       "3": {
         "title": "Does Duolingo teach you to speak?",
-        "date": null,
-        "content": "Your location (CN) is not currently allowed to access this site. Please complete the verification below to continue.",
-        "words": null,
+        "date": "30-09-2026 07:00",
+        "content": "A viral post by a user who lost a 2,061-day Duolingo streak exposed a fundamental flaw in the language-learning platform: years of daily app use failed to deliver actual conversational fluency.\n\nDuolingo achieved massive financial success; it reached 1 billion dollars in revenue in 2025. How? By prioritizing gamification features like notifications, streak freezes, and leaderboards.\n\nHowever, the company faced severe backlash after firing contractors to replace language courses with lower-quality generative AI content. This hyper-focus on user engagement over educational value eventually triggered a massive market correction. Duolingo’s stock plummeted roughly 80 percent from its peak near 544 dollars down to around 101 dollars by spring 2026. Investors grew skeptical as daily active user growth slowed, and law firms opened securities fraud investigations regarding potentially misleading growth metrics.\n\nThe dramatic financial collapse demonstrated that while Duolingo successfully optimized user habits, push notifications, and short-term corporate revenue, it failed to teach users how to speak new languages fluently.",
+        "words": "<strong>gamification</strong> (the practice of adding game-like features, such as points, levels, or badges, to non-game activities to make them more engaging), <strong>hyper-focus</strong> (an intense, complete concentration on one specific goal, task, or feature while ignoring everything else), <strong>securities fraud</strong> (the illegal practice of lying, hiding facts, or giving false information to investors about a company’s financial health), <strong>metrics</strong> (data points used to track, evaluate, and assess performance or growth).",
         "url": "https://www.newsinlevels.com/products/does-duolingo-teach-you-to-speak-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:37.748Z"
+    "scrapedAt": "2026-10-08T23:09:04.567Z"
   },
   {
     "id": 2177276485,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/chinese-president-visits-the-us-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:37.821Z"
+    "scrapedAt": "2026-10-08T23:09:04.861Z"
   },
   {
     "id": 219238447,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/a-concert-for-bears-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:37.720Z"
+    "scrapedAt": "2026-10-08T23:09:05.245Z"
   },
   {
     "id": 2344492562,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/empty-flats-in-london-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:37.817Z"
+    "scrapedAt": "2026-10-08T23:09:06.863Z"
   },
   {
     "id": 1023750485,
@@ -506,9 +535,9 @@
       },
       "2": {
         "title": "Malaysia’s transport minister resigns",
-        "date": null,
-        "content": "Your location (SG) is not currently allowed to access this site. Please complete the verification below to continue.",
-        "words": null,
+        "date": "28-09-2026 07:00",
+        "content": "Malaysia’s Transport Minister offered to quit his government job. He is angry because the country’s king gave a special pardon to former Prime Minister Najib Razak.\n\nUnder this new rule, Najib can leave prison and stay under house arrest if he pays a large fine. Loke said his party is strongly against corruption and believes that no one is above the law. But to keep the country’s government stable, only Anthony Loke offered to step down. Other ministers from his party will stay in their posts so the Prime Minister’s government doesn’t fall.\n\nLoke promised that big national transport projects will continue as planned without any problems.",
+        "words": "<strong>pardon</strong> (when a guilty person is officially freed), <strong>house arrest</strong> (when a person is forced to stay inside their own home instead of going to prison), <strong>corruption</strong> (when people in power do illegal things).",
         "url": "https://www.newsinlevels.com/products/malaysias-transport-minister-resigns-level-2"
       },
       "3": {
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-transport-minister-resigns-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:40.054Z"
+    "scrapedAt": "2026-10-08T23:09:07.126Z"
   },
   {
     "id": 2004191999,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/this-game-is-your-elevator-to-english-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:40.480Z"
+    "scrapedAt": "2026-10-08T23:09:06.941Z"
   },
   {
     "id": 2676579204,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/the-doorway-effect-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:40.510Z"
+    "scrapedAt": "2026-10-08T23:09:07.314Z"
   },
   {
     "id": 2695896888,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/greenland-and-antarctica-lose-ice-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:40.540Z"
+    "scrapedAt": "2026-10-08T23:09:07.374Z"
   },
   {
     "id": 1367049274,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/are-you-dead-app-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:40.315Z"
+    "scrapedAt": "2026-10-08T23:09:07.912Z"
   },
   {
     "id": 1410443606,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/liberland-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:40.267Z"
+    "scrapedAt": "2026-10-08T23:09:09.589Z"
   },
   {
     "id": 3835029078,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/how-snowflakes-form-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:42.804Z"
+    "scrapedAt": "2026-10-08T23:09:10.068Z"
   },
   {
     "id": 642139066,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/ed-sheeran-has-problems-with-his-tour-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:43.241Z"
+    "scrapedAt": "2026-10-08T23:09:10.028Z"
   },
   {
     "id": 1627526241,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/teens-cannot-read-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:43.144Z"
+    "scrapedAt": "2026-10-08T23:09:09.981Z"
   },
   {
     "id": 2589834317,
@@ -767,9 +796,9 @@
       },
       "2": {
         "title": "Trump’s son-in-law: business or politics?",
-        "date": "22-09-2026 07:00",
-        "content": "Jared Kushner, the son-in-law of Donald Trump, is one of the most powerful diplomats in the United States. He grew up in a wealthy real estate family and later joined Trump’s team as a close adviser.\n\nAlthough security officials worried about his foreign business connections, he was given special access to high-level diplomatic talks in places like Ukraine and the Middle East. Many critics worry about conflicts of interest because Kushner created a business that received billions of dollars from Saudi Arabia. But foreign leaders often work with him because they know he speaks directly to the president.\n\nExperts say having a family member act as a private businessman and international diplomat creates a new and unusual situation in modern American history.",
-        "words": "<strong>diplomat</strong> (an official who represents their country in talks and relations with other nations), <strong>real estate</strong> (land and buildings), <strong>conflict of interest</strong> (a situation where a person’s private life or business gains could unfairly influence their official duty or job decisions).",
+        "date": null,
+        "content": "Your location (CN) is not currently allowed to access this site. Please complete the verification below to continue.",
+        "words": null,
         "url": "https://www.newsinlevels.com/products/trumps-son-in-law-business-or-politics-level-2"
       },
       "3": {
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/trumps-son-in-law-business-or-politics-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:43.143Z"
+    "scrapedAt": "2026-10-08T23:09:10.167Z"
   },
   {
     "id": 972024100,
@@ -809,7 +838,7 @@
         "url": "https://www.newsinlevels.com/products/new-euro-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:43.328Z"
+    "scrapedAt": "2026-10-08T23:09:11.107Z"
   },
   {
     "id": 201626710,
@@ -825,9 +854,9 @@
       },
       "2": {
         "title": "Yemen war",
-        "date": null,
-        "content": "Your location (CN) is not currently allowed to access this site. Please complete the verification below to continue.",
-        "words": null,
+        "date": "21-09-2026 07:00",
+        "content": "Fighting in Yemen is getting worse as Houthi forces attack Saudi-backed government troops in the Al Jawf area. Houthi media showed videos of destroyed military trucks, rockets, and heavy fighting in the desert.\n\nThe Houthis say they killed many enemy soldiers and destroyed their weapons during several days of conflict. At the same time, the Saudi-backed government released air force pictures showing strikes against Houthi fighters and equipment to stop their advance.\n\nBecause of the heavy fighting and air attacks, many families escaped their homes. People walked at night without food or water while bullets flew around them. Many displaced families now live in simple tents in camps near Aden, and hope the dangerous conflict will stop soon.",
+        "words": "<strong>enemy</strong> (a person, group, or country that fights against you), <strong>advance</strong> (moving forward toward a destination or goal), <strong>displaced</strong> (when someone must leave home because of war or a dangerous situation).",
         "url": "https://www.newsinlevels.com/products/yemen-war-level-2"
       },
       "3": {
@@ -838,7 +867,7 @@
         "url": "https://www.newsinlevels.com/products/yemen-war-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:43.273Z"
+    "scrapedAt": "2026-10-08T23:09:12.355Z"
   },
   {
     "id": 3843554933,
@@ -867,7 +896,7 @@
         "url": "https://www.newsinlevels.com/products/robinson-crusoe-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:45.783Z"
+    "scrapedAt": "2026-10-08T23:09:12.714Z"
   },
   {
     "id": 99571931,
@@ -1128,7 +1157,7 @@
         "url": "https://www.newsinlevels.com/products/an-artist-paints-on-water-level-3"
       }
     },
-    "scrapedAt": "2026-10-08T13:08:32.247Z"
+    "scrapedAt": "2026-10-08T23:08:57.838Z"
   },
   {
     "id": 539751993,
