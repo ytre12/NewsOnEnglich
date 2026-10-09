@@ -1,16 +1,59 @@
-# React + Vite
+# News in Levels scraper
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Node.js scraper for `https://www.newsinlevels.com/`.
 
-Currently, two official plugins are available:
+The scraper groups Level 1, Level 2 and Level 3 pages into one JSON record per story and writes the result to `data/news.json`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## JSON shape
 
-## React Compiler
+```json
+[
+  {
+    "id": "who-does-basmati-rice-belong-to",
+    "title": "Who does Basmati rice belong to?",
+    "date": "02-10-2026 15:00",
+    "levels": {
+      "1": {
+        "title": "Who does Basmati rice belong to?",
+        "date": "02-10-2026 15:00",
+        "content": "...",
+        "url": "https://www.newsinlevels.com/products/who-does-basmati-rice-belong-to-level-1/"
+      },
+      "2": {
+        "title": "Who does Basmati rice belong to?",
+        "date": "02-10-2026 15:00",
+        "content": "...",
+        "url": "https://www.newsinlevels.com/products/who-does-basmati-rice-belong-to-level-2/"
+      },
+      "3": {
+        "title": "Who does Basmati rice belong to?",
+        "date": "02-10-2026 15:00",
+        "content": "...",
+        "url": "https://www.newsinlevels.com/products/who-does-basmati-rice-belong-to-level-3/"
+      }
+    },
+    "scrapedAt": "2026-10-02T00:00:00.000Z"
+  }
+]
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Local run
 
-## Expanding the Oxlint configuration
+```bash
+npm install
+npm run scrape
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Recent mode is the default and scrapes the first 3 listing pages:
+
+```bash
+SCRAPE_MODE=recent RECENT_PAGES=3 node scraper.js
+```
+
+For the whole archive:
+
+```bash
+SCRAPE_MODE=full node scraper.js
+```
+
+The scheduled GitHub Action uses `recent`, while `workflow_dispatch` lets you choose `recent` or `full` manually.

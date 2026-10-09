@@ -1,16 +1,21 @@
 {
   "name": "english-news",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "scrape": "node scraper.js"
+  },
+  "engines": {
+    "node": ">=20"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",
+    "cheerio": "^1.1.2",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "tailwindcss": "^4.3.3"
