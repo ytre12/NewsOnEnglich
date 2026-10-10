@@ -1,9 +1,10 @@
-const fs = require('node:fs/promises');
-const path = require('node:path');
-const cheerio = require('cheerio');
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import * as cheerio from 'cheerio';
 
 const BASE_URL = 'https://www.newsinlevels.com/';
-const DATA_FILE = path.join(__dirname, 'data', 'news.json');
+const DATA_FILE = path.join(path.dirname(fileURLToPath(import.meta.url)), 'data', 'news.json');
 
 const MODE = process.env.SCRAPE_MODE || 'recent';
 const RECENT_PAGES = Number(process.env.RECENT_PAGES || 3);
