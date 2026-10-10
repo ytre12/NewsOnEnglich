@@ -12,9 +12,17 @@ function App() {
   const [currentNews, setCurrentNews] = useState(true);
   const [currentNewsId, setCurrentNewsId] = useState(1);
   const [currentLevel, setCurrentLevel] = useState(1);
+  const [error, setError] = useState("");
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    getNews().then(setData).catch(console.error);
+    getNews()
+      .then(setData)
+      .catch((error) => {
+        console.error(error);
+        setError(error.message);
+      })
+      .finally(() => setLoading(false));
   }, []);
 
   const postsPerPage = 10;
@@ -37,6 +45,16 @@ function App() {
   return (
     <>
       <Header />
+      {loading && (
+        <div className="flex justify-center p-8 font-semibold">
+          <p>Loading ...</p>
+        </div>
+      )}
+      {error && (
+        <div className="flex justify-center p-8 font-semibold">
+          <p>{error}</p>
+        </div>
+      )}
 
       {!currentNews && (
         <FullNews
@@ -56,8 +74,7 @@ function App() {
                 title={article.title}
                 date={article.date}
                 mainText={article.levels?.[1]?.content ?? ""}
-                onClick={() => openNewsPage(article.id)}
-                setLevel={setCurrentLevel}
+                onLevelClick={(level) => openNewsPage(article.id, level)}
               />
             ))}
         </div>
@@ -81,7 +98,6 @@ function App() {
           })}
         </div>
       )}
-      {console.log(data)}
     </>
   );
 }
