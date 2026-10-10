@@ -25,11 +25,15 @@ function App() {
       .finally(() => setLoading(false));
   }, []);
 
+  // A card previews Level 1, so hide records that have no vocabulary for it.
+  const articlesWithWords = data.filter(
+    (article) => typeof article.levels?.["1"]?.words === "string" && article.levels["1"].words.trim(),
+  );
   const postsPerPage = 10;
-  const totalPages = Math.ceil(data.length / postsPerPage);
+  const totalPages = Math.ceil(articlesWithWords.length / postsPerPage);
   const startIndex = (currentPage - 1) * postsPerPage;
 
-  const visibleNews = data?.slice(startIndex, startIndex + postsPerPage) ?? [];
+  const visibleNews = articlesWithWords.slice(startIndex, startIndex + postsPerPage);
 
   function openNewsPage(id, level) {
     setCurrentNews(false);
@@ -74,6 +78,9 @@ function App() {
                 title={article.title}
                 date={article.date}
                 mainText={article.levels?.[1]?.content ?? ""}
+                levels={Object.keys(article.levels ?? {}).filter(
+                  (level) => typeof article.levels[level]?.words === "string" && article.levels[level].words.trim(),
+                )}
                 onLevelClick={(level) => openNewsPage(article.id, level)}
               />
             ))}

@@ -7,6 +7,15 @@ export default function FullNews({ data, id, closeWindow, level, setLevel }) {
     return <p>News not found</p>;
   }
 
+  const selectedLevel = article.levels?.[level];
+  const availableLevels = Object.keys(article.levels ?? {}).filter(
+    (itemLevel) => typeof article.levels[itemLevel]?.words === "string" && article.levels[itemLevel].words.trim(),
+  );
+
+  if (!selectedLevel?.words || !selectedLevel.content) {
+    return <p>This level is not available.</p>;
+  }
+
   return (
     <div className="my-[30px] mx-[28px] flex justify-center">
       <section className="bg-[#FFFFFF] rounded-2xl px-6 py-6 max-w-[750px]">
@@ -23,7 +32,7 @@ export default function FullNews({ data, id, closeWindow, level, setLevel }) {
           </h3>
         </div>
         <p className="text-justify text-[#747474] text-[15px] mb-8 min-[750px]:text-[17px]">
-          {article.levels[level].content}
+          {selectedLevel.content}
         </p>
         <div className="text-justify text-[#747474] text-[15px] mb-5 min-[750px]:text-[17px]">
           <span className="inline-block text-[#195A94] font-bold text-[14px] pr-2 min-[750px]:text-[17px]">
@@ -32,14 +41,19 @@ export default function FullNews({ data, id, closeWindow, level, setLevel }) {
 
           <span
             dangerouslySetInnerHTML={{
-              __html: article.levels?.[level]?.words ?? "",
+              __html: selectedLevel.words,
             }}
           />
         </div>
         <div className="flex gap-2 justify-end mt-5 mb-9">
-          <Button title={"Level"} level={1} onClick={() => setLevel(1)} />
-          <Button title={"Level"} level={2} onClick={() => setLevel(2)} />
-          <Button title={"Level"} level={3} onClick={() => setLevel(3)} />
+          {availableLevels.map((itemLevel) => (
+            <Button
+              key={itemLevel}
+              title={"Level"}
+              level={itemLevel}
+              onClick={() => setLevel(Number(itemLevel))}
+            />
+          ))}
         </div>
         <Button onClick={() => closeWindow()} title={"< Back to Menu"} />
       </section>

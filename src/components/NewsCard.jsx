@@ -1,6 +1,6 @@
 import Button from "./Button";
 
-export default function NewsCard({ title, date, onLevelClick, mainText = "" }) {
+export default function NewsCard({ title, date, onLevelClick, mainText = "", levels = [] }) {
   return (
     <div className="bg-[#FFFFFF] rounded-2xl px-6 py-6 max-w-[480px] min-[900px]:px-9 min-[900px]:py-9 min-[900px]:max-w-[520px]">
       <h1 className="text-[#195A94] font-semibold text-[24px] mb-2 mt-2 min-[750px]:text-[26px]">
@@ -15,27 +15,14 @@ export default function NewsCard({ title, date, onLevelClick, mainText = "" }) {
         {"..."}
       </p>
       <div className="flex gap-2 justify-end mt-7">
-        <Button
-          title={"Level"}
-          level={1}
-          onClick={() => {
-            onLevelClick(1);
-          }}
-        />
-        <Button
-          title={"Level"}
-          level={2}
-          onClick={() => {
-            onLevelClick(2);
-          }}
-        />
-        <Button
-          title={"Level"}
-          level={3}
-          onClick={() => {
-            onLevelClick(3);
-          }}
-        />
+        {levels.map((level) => (
+          <Button
+            key={level}
+            title={"Level"}
+            level={level}
+            onClick={() => onLevelClick(Number(level))}
+          />
+        ))}
       </div>
     </div>
   );

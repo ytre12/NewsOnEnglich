@@ -381,6 +381,7 @@ async function scrapeLevel(url, level, articleTitle) {
 
   if (!title) throw new Error(`No title found for level ${level}: ${url}`);
   if (!content) throw new Error(`No article content found for level ${level}: ${url}`);
+  if (!words) throw new Error(`No words section found for level ${level}: ${url}`);
 
   return {
     title,
@@ -472,7 +473,8 @@ async function scrapeArticle(article) {
     }
   }
 
-  if (Object.keys(levels).length === 0) return null;
+  // Level 1 is shown on every news card, so do not publish stories without it.
+  if (!levels['1']?.words) return null;
 
   const firstAvailable = levels['1'] || levels['2'] || levels['3'];
 
@@ -513,7 +515,9 @@ async function main() {
     successCount += 1;
   }
 
-  const output = [...existingById.values()].sort((a, b) => {
+  const output = [...existingById.values()]
+    .filter((item) => typeof item.levels?.['1']?.words === 'string' && item.levels['1'].words.trim())
+    .sort((a, b) => {
     return parseDateToTimestamp(b.date) - parseDateToTimestamp(a.date);
   });
 
