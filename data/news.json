@@ -26,7 +26,36 @@
         "url": "https://www.newsinlevels.com/products/french-students-protest-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:07.651Z"
+    "scrapedAt": "2026-10-11T05:06:58.446Z"
+  },
+  {
+    "id": 1209302248,
+    "title": "Is the internet dead?",
+    "date": "09-10-2026 07:00",
+    "levels": {
+      "1": {
+        "title": "Is the internet dead?",
+        "date": "09-10-2026 07:00",
+        "content": "Is the internet dying? Today, many computers and AI tools write texts on the web. More than half of web traffic comes from bots, not real people.\n\nAI tools take words from human writers and make short summaries. Because of this, people do not visit real websites. Real writers lose their jobs and money. When they stop making new texts, AI will start learning from bad AI texts. This will bring more mistakes in news and health tips.\n\nTo help, we should check who writes a text, click on real web pages, and help real writers.",
+        "words": "<strong>traffic</strong> (how many people or bots visit a website), <strong>bot</strong> (a computer program which works alone), <strong>summary</strong> (a short text which gives you the main idea of a longer text).",
+        "url": "https://www.newsinlevels.com/products/is-the-internet-dead-level-1"
+      },
+      "2": {
+        "title": "Is the internet dead?",
+        "date": "09-10-2026 07:00",
+        "content": "Many people worry that the internet is dying because AI is creating too much text and too many images. Today, automated bots make up more than 60% of web activity, and many new websites use AI to write articles.\n\nThis problem is called the dead internet theory. Tech companies know this is dangerous because AI tools copy work from real human writers. When people read quick AI summaries, they don’t click on the original websites, so human writers lose money and close their businesses.\n\nIn the future, AI will train on bad AI-generated content, spread mistakes, false news, and wrong health advice. To stay safe, readers should always check who wrote an article, look at real source websites, and support human journalists.",
+        "words": "<strong>automated</strong> (done by machines or computers instead of people), <strong>human</strong> (about real people), <strong>AI-generated</strong> (created by AI).",
+        "url": "https://www.newsinlevels.com/products/is-the-internet-dead-level-2"
+      },
+      "3": {
+        "title": "Is the internet dead?",
+        "date": "09-10-2026 07:00",
+        "content": "Do you ever feel like the internet is getting weirder and less useful? You are not alone. More and more people worry AI is slowly killing the web by flooding it with cheap, machine-made articles.\n\nRight now, bots make up over 60% of all web traffic, and AI writes a huge chunk of new pages. It is part of the dead internet theory, the idea that real human content is vanishing. Even big tech bosses know there is a problem. Their smart AI search tools steal summaries from human writers, so people stop clicking on actual websites. That means real newsrooms lose money and go bust. Once human writers disappear, AI will start learning from its own low-quality content and create lots of mistakes and bad advice. To save the web, we need to click on original sources, check who wrote what, and support real human journalists.",
+        "words": "<strong>chunk</strong> (a large piece or part of something), <strong>vanish</strong> (to disappear completely and suddenly), <strong>go bust</strong> (to lose all money and be forced to close a business).",
+        "url": "https://www.newsinlevels.com/products/is-the-internet-dead-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-11T05:06:58.844Z"
   },
   {
     "id": 4172865108,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/disney-animal-kingdom-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:07.523Z"
+    "scrapedAt": "2026-10-11T05:06:58.916Z"
   },
   {
     "id": 538702530,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/are-wind-turbines-safe-for-birds-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:08.060Z"
+    "scrapedAt": "2026-10-11T05:06:59.123Z"
   },
   {
     "id": 820406029,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/indias-luxury-fashion-industry-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:09.586Z"
+    "scrapedAt": "2026-10-11T05:07:00.910Z"
   },
   {
     "id": 579872748,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/a-woman-still-lives-after-an-execution-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:09.879Z"
+    "scrapedAt": "2026-10-11T05:07:00.808Z"
   },
   {
     "id": 55521327,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/gen-z-and-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:09.817Z"
+    "scrapedAt": "2026-10-11T05:07:00.835Z"
   },
   {
     "id": 889569892,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/a-shark-in-a-canal-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:10.410Z"
+    "scrapedAt": "2026-10-11T05:07:01.616Z"
   },
   {
     "id": 481875836,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/brazilians-have-problems-with-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:10.305Z"
+    "scrapedAt": "2026-10-11T05:07:01.605Z"
   },
   {
     "id": 1857483805,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/the-swiss-vote-on-neutrality-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:10.455Z"
+    "scrapedAt": "2026-10-11T05:07:01.909Z"
   },
   {
     "id": 1961076135,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/who-does-basmati-rice-belong-to-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:11.994Z"
+    "scrapedAt": "2026-10-11T05:07:03.451Z"
   },
   {
     "id": 271770423,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/first-germany-russia-meeting-since-2022-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:12.214Z"
+    "scrapedAt": "2026-10-11T05:07:03.633Z"
   },
   {
     "id": 4186222974,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/ai-helps-women-in-kenya-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:12.670Z"
+    "scrapedAt": "2026-10-11T05:07:04.292Z"
   },
   {
     "id": 96635328,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/scotland-has-a-big-problem-with-drugs-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:12.779Z"
+    "scrapedAt": "2026-10-11T05:07:04.379Z"
   },
   {
     "id": 538267388,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/tokyo-micro-apartments-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:12.824Z"
+    "scrapedAt": "2026-10-11T05:07:04.588Z"
   },
   {
     "id": 2003176949,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/does-duolingo-teach-you-to-speak-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:13.870Z"
+    "scrapedAt": "2026-10-11T05:07:05.511Z"
   },
   {
     "id": 2177276485,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/chinese-president-visits-the-us-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:14.638Z"
+    "scrapedAt": "2026-10-11T05:07:06.202Z"
   },
   {
     "id": 219238447,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/a-concert-for-bears-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:14.663Z"
+    "scrapedAt": "2026-10-11T05:07:06.255Z"
   },
   {
     "id": 2344492562,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/empty-flats-in-london-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:15.322Z"
+    "scrapedAt": "2026-10-11T05:07:06.977Z"
   },
   {
     "id": 1023750485,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-transport-minister-resigns-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:15.224Z"
+    "scrapedAt": "2026-10-11T05:07:07.079Z"
   },
   {
     "id": 2004191999,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/this-game-is-your-elevator-to-english-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:15.237Z"
+    "scrapedAt": "2026-10-11T05:07:07.052Z"
   },
   {
     "id": 2676579204,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/the-doorway-effect-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:16.182Z"
+    "scrapedAt": "2026-10-11T05:07:08.094Z"
   },
   {
     "id": 2695896888,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/greenland-and-antarctica-lose-ice-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:17.086Z"
+    "scrapedAt": "2026-10-11T05:07:08.855Z"
   },
   {
     "id": 1367049274,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/are-you-dead-app-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:17.250Z"
+    "scrapedAt": "2026-10-11T05:07:08.991Z"
   },
   {
     "id": 1410443606,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/liberland-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:17.647Z"
+    "scrapedAt": "2026-10-11T05:07:09.633Z"
   },
   {
     "id": 3835029078,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/how-snowflakes-form-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:17.724Z"
+    "scrapedAt": "2026-10-11T05:07:09.843Z"
   },
   {
     "id": 642139066,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/ed-sheeran-has-problems-with-his-tour-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:17.775Z"
+    "scrapedAt": "2026-10-11T05:07:09.727Z"
   },
   {
     "id": 1627526241,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/teens-cannot-read-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:18.768Z"
+    "scrapedAt": "2026-10-11T05:07:10.792Z"
   },
   {
     "id": 2589834317,
@@ -809,7 +838,7 @@
         "url": "https://www.newsinlevels.com/products/trumps-son-in-law-business-or-politics-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:19.634Z"
+    "scrapedAt": "2026-10-11T05:07:11.709Z"
   },
   {
     "id": 972024100,
@@ -1099,7 +1128,7 @@
         "url": "https://www.newsinlevels.com/products/physics-nobel-prize-level-3"
       }
     },
-    "scrapedAt": "2026-10-10T21:25:07.515Z"
+    "scrapedAt": "2026-10-11T05:06:58.389Z"
   },
   {
     "id": 2967088392,
