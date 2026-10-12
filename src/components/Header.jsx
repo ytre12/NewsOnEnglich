@@ -1,3 +1,5 @@
+import Button from "./Button";
+
 const date = new Date();
 
 const formattedDate = `${String(date.getDate()).padStart(2, "0")} - ${date.toLocaleDateString(
@@ -5,7 +7,7 @@ const formattedDate = `${String(date.getDate()).padStart(2, "0")} - ${date.toLoc
   { month: "short" },
 )} - ${date.getFullYear()}`;
 
-export default function Header() {
+export default function Header({ openFavorite, closeFavorite, menuIsOpen }) {
   return (
     <header className="my-[30px] mx-[28px] min-[700px]:mx-[70px] min-[700px]:my-[60px] min-[1250px]:mx-[100px] ">
       <h1 className="text-[#195A94] font-extrabold text-[30px] leading-[33px] min-[750px]:text-[36px]">
@@ -15,6 +17,25 @@ export default function Header() {
         {formattedDate}
       </p>
       <div className="bg-[#747474] h-[1px] my-3 min-[900px]:h-[2px]"></div>
+      {!menuIsOpen ? (
+        <div className="flex justify-between items-center my-6">
+          <Button
+            title={"Open Favorites"}
+            level={false}
+            onClick={openFavorite}
+          />
+          <Button title={"Today"} level={false} />
+        </div>
+      ) : (
+        <div className="flex justify-between items-center my-6">
+          <Button
+            title={"< Back to menu"}
+            level={false}
+            onClick={closeFavorite}
+          />
+          <p></p>
+        </div>
+      )}
     </header>
   );
 }

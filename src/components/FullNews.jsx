@@ -1,6 +1,14 @@
 import Button from "./Button";
 
-export default function FullNews({ data, id, closeWindow, level, setLevel }) {
+export default function FullNews({
+  data,
+  id,
+  closeWindow,
+  level,
+  setLevel,
+  addToFavorite,
+  isFavorite,
+}) {
   const article = data.find((item) => item.id === id);
 
   if (!article) {
@@ -9,7 +17,9 @@ export default function FullNews({ data, id, closeWindow, level, setLevel }) {
 
   const selectedLevel = article.levels?.[level];
   const availableLevels = Object.keys(article.levels ?? {}).filter(
-    (itemLevel) => typeof article.levels[itemLevel]?.words === "string" && article.levels[itemLevel].words.trim(),
+    (itemLevel) =>
+      typeof article.levels[itemLevel]?.words === "string" &&
+      article.levels[itemLevel].words.trim(),
   );
 
   if (!selectedLevel?.words || !selectedLevel.content) {
@@ -55,7 +65,13 @@ export default function FullNews({ data, id, closeWindow, level, setLevel }) {
             />
           ))}
         </div>
-        <Button onClick={() => closeWindow()} title={"< Back to Menu"} />
+        <div className="flex justify-between items-baseline">
+          <Button onClick={() => closeWindow()} title={"< Back to Menu"} />
+          <Button
+            onClick={() => addToFavorite(id)}
+            title={isFavorite ? "Remove from favorites" : "Add to favorites"}
+          />
+        </div>
       </section>
     </div>
   );
