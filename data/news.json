@@ -1,5 +1,34 @@
 [
   {
+    "id": 1482548838,
+    "title": "2026 Chemistry Nobel Prize",
+    "date": "15-10-2026 07:00",
+    "levels": {
+      "1": {
+        "title": "2026 Chemistry Nobel Prize",
+        "date": "15-10-2026 07:00",
+        "content": "Two scientists win the Nobel Prize in Chemistry. They solve a secret about molecules.\n\nMolecules are very small parts of life. Many molecules have two forms, like a left hand and a right hand. Nature only uses one form to make living things grow. This discovery helps doctors and scientists make safer medicine. Sometimes, one form of a drug can help a sick person, but the other form can be dangerous or bad.\n\nNow, scientists know how to make only the good and safe form of a drug. This discovery saves many lives and helps people stay healthy every day.",
+        "words": "<strong>secret</strong> (something what most people do not know about), <strong>discovery</strong> (finding or learning about something new for the first time), <strong>dangerous</strong> (not safe).",
+        "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-1"
+      },
+      "2": {
+        "title": "2026 Chemistry Nobel Prize",
+        "date": "15-10-2026 07:00",
+        "content": "The Nobel Prize in Chemistry was given to two scientists, Henri Kagan and Kenso Soai. They solved a big science mystery about molecules which look like mirror images.\n\nIn nature, many small chemicals come in two forms, like left and right hands. Living things usually use only one form to create life, but scientists didn’t know why. This discovery is extremely important for making medicine. One mirror-image form of a drug can heal a patient, while the other form might do nothing or even cause harm.\n\nIn the past, mixed drugs caused terrible health problems for many people. Thanks to these two researchers, chemical companies can now make only the good, safe version of a drug. This makes everyday medicines much safer for everyone.",
+        "words": "<strong>mystery</strong> (something difficult to understand or explain), <strong>heal</strong> (to become healthy again), <strong>terrible</strong> (very bad, unpleasant, or shocking).",
+        "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-2"
+      },
+      "3": {
+        "title": "2026 Chemistry Nobel Prize",
+        "date": "15-10-2026 07:00",
+        "content": "The 2026 Nobel Prize in Chemistry has been awarded to Henri Kagan and Kenso Soai for solving a long-standing scientific mystery regarding molecular mirror images.\n\nMany chemical molecules exist in two mirror-image forms, much like a person’s left and right hands. In nature, living things almost always use only one version, while the other form is absent or inactive. Producing just the helpful version has historically been a huge challenge for chemical manufacturing. Controlling this balance is critical for medicine because two mirror-image molecules can have vastly different effects on the human body. For instance, while one version of a drug acts as a helpful painkiller, its mirror image can be inactive or even highly dangerous, as seen in historical medical tragedies.\n\nThe duo’s discovery of unique chemical processes allows scientists to selectively produce the safe, effective version of a molecule. This breakthrough has revolutionized the pharmaceutical industry and made everyday medicines far safer and more effective.",
+        "words": "<strong>absent</strong> (not present or not existing in a place), <strong>duo</strong> (two people who work or perform together), <strong>revolutionize</strong> (to completely change the way something is done or made).",
+        "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-15T11:10:26.421Z"
+  },
+  {
     "id": 427067333,
     "title": "A women’s village",
     "date": "14-10-2026 15:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/a-womens-village-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:04.793Z"
+    "scrapedAt": "2026-10-15T11:10:26.548Z"
   },
   {
     "id": 882950779,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/a-couple-sells-fake-taylor-swift-tickets-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:04.385Z"
+    "scrapedAt": "2026-10-15T11:10:26.636Z"
   },
   {
     "id": 599892767,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-durian-is-becoming-popular-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:04.557Z"
+    "scrapedAt": "2026-10-15T11:10:26.600Z"
   },
   {
     "id": 4233363327,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/lithuania-and-nuclear-weapons-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:04.439Z"
+    "scrapedAt": "2026-10-15T11:10:26.720Z"
   },
   {
     "id": 3288655299,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/indonesias-vice-president-has-problems-with-school-papers-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:04.682Z"
+    "scrapedAt": "2026-10-15T11:10:29.045Z"
   },
   {
     "id": 883173375,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/a-lab-worker-dies-in-russia-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:07.177Z"
+    "scrapedAt": "2026-10-15T11:10:29.230Z"
   },
   {
     "id": 1982986862,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/french-students-protest-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:07.289Z"
+    "scrapedAt": "2026-10-15T11:10:29.218Z"
   },
   {
     "id": 1209302248,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/is-the-internet-dead-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:07.306Z"
+    "scrapedAt": "2026-10-15T11:10:29.253Z"
   },
   {
     "id": 4172865108,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/disney-animal-kingdom-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:07.477Z"
+    "scrapedAt": "2026-10-15T11:10:29.335Z"
   },
   {
     "id": 538702530,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/are-wind-turbines-safe-for-birds-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:07.456Z"
+    "scrapedAt": "2026-10-15T11:10:31.590Z"
   },
   {
     "id": 820406029,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/indias-luxury-fashion-industry-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:10.108Z"
+    "scrapedAt": "2026-10-15T11:10:31.545Z"
   },
   {
     "id": 579872748,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/a-woman-still-lives-after-an-execution-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:09.799Z"
+    "scrapedAt": "2026-10-15T11:10:31.853Z"
   },
   {
     "id": 55521327,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/gen-z-and-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:10.322Z"
+    "scrapedAt": "2026-10-15T11:10:31.753Z"
   },
   {
     "id": 889569892,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/a-shark-in-a-canal-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:10.114Z"
+    "scrapedAt": "2026-10-15T11:10:31.945Z"
   },
   {
     "id": 481875836,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/brazilians-have-problems-with-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:10.181Z"
+    "scrapedAt": "2026-10-15T11:10:32.132Z"
   },
   {
     "id": 1857483805,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/the-swiss-vote-on-neutrality-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:10.325Z"
+    "scrapedAt": "2026-10-15T11:10:34.507Z"
   },
   {
     "id": 1961076135,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/who-does-basmati-rice-belong-to-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:13.074Z"
+    "scrapedAt": "2026-10-15T11:10:34.659Z"
   },
   {
     "id": 271770423,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/first-germany-russia-meeting-since-2022-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:12.819Z"
+    "scrapedAt": "2026-10-15T11:10:34.616Z"
   },
   {
     "id": 4186222974,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/ai-helps-women-in-kenya-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:12.922Z"
+    "scrapedAt": "2026-10-15T11:10:34.760Z"
   },
   {
     "id": 96635328,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/scotland-has-a-big-problem-with-drugs-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:13.263Z"
+    "scrapedAt": "2026-10-15T11:10:35.132Z"
   },
   {
     "id": 538267388,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/tokyo-micro-apartments-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:13.212Z"
+    "scrapedAt": "2026-10-15T11:10:36.977Z"
   },
   {
     "id": 2003176949,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/does-duolingo-teach-you-to-speak-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:15.329Z"
+    "scrapedAt": "2026-10-15T11:10:37.429Z"
   },
   {
     "id": 2177276485,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/chinese-president-visits-the-us-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:15.555Z"
+    "scrapedAt": "2026-10-15T11:10:37.833Z"
   },
   {
     "id": 219238447,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/a-concert-for-bears-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:15.803Z"
+    "scrapedAt": "2026-10-15T11:10:37.461Z"
   },
   {
     "id": 2344492562,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/empty-flats-in-london-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:16.110Z"
+    "scrapedAt": "2026-10-15T11:10:37.719Z"
   },
   {
     "id": 1023750485,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-transport-minister-resigns-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:15.928Z"
+    "scrapedAt": "2026-10-15T11:10:37.838Z"
   },
   {
     "id": 2004191999,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/this-game-is-your-elevator-to-english-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:16.329Z"
+    "scrapedAt": "2026-10-15T11:10:39.739Z"
   },
   {
     "id": 2676579204,
@@ -809,7 +838,7 @@
         "url": "https://www.newsinlevels.com/products/the-doorway-effect-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:18.322Z"
+    "scrapedAt": "2026-10-15T11:10:40.491Z"
   },
   {
     "id": 2695896888,
@@ -1331,7 +1360,7 @@
         "url": "https://www.newsinlevels.com/products/data-on-sweet-drinks-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T04:03:04.325Z"
+    "scrapedAt": "2026-10-15T11:10:26.519Z"
   },
   {
     "id": 2280796817,
