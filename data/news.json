@@ -1,5 +1,34 @@
 [
   {
+    "id": 429529056,
+    "title": "Young people and concussion",
+    "date": "15-10-2026 15:00",
+    "levels": {
+      "1": {
+        "title": "Young people and concussion",
+        "date": "15-10-2026 15:00",
+        "content": "Hannah Parmenter hits her head hard when she is playing soccer at age 11. She is 21 years old now. She still has problems today.\n\nMany young people hit their heads when they play sports. Rest is the best thing for people with head injuries. That is what doctors think in the past. But now, doctors say that going back to school soon might be better. Children who miss less school have fewer problems later. This means that going back to school helps the brain feel better.\n\nDoctors say that parents should help kids be with their friends, not worry about school, sleep well, and exercise a little. Doctors can help kids with head injuries. Parents should not just wait for them to feel better.",
+        "words": "<strong>hit</strong> (to bring the head in contact with an object), <strong>injury</strong> (when someone gets hurt).",
+        "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-1"
+      },
+      "2": {
+        "title": "Young people and concussion",
+        "date": "15-10-2026 15:00",
+        "content": "Hannah Parmenter, who is now 21, got a serious concussion when she was 11 while playing soccer. She still has problems from the concussion today.\n\n1.7 million to 3 million young people get concussions every year from playing sports. Doctors used to think that rest was the best treatment for concussions in children. But these days, researchers think that returning to school soon after a concussion might be better. Children who missed less school had fewer problems after two weeks. This means that returning to school and daily life may help the brain recover.\n\nDoctors recommend that parents with children who get concussions should help them socialize, not miss too much school, sleep well, and do light exercise. The research shows that doctors can help kids with concussions, and they should not just wait for them to get better.",
+        "words": "<strong>concussion</strong> (brain injury), <strong>treatment</strong> (medical care), <strong>recover</strong> (to be healthy again).",
+        "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-2"
+      },
+      "3": {
+        "title": "Young people and concussion",
+        "date": "15-10-2026 15:00",
+        "content": "According to data, 1.7 million to 3 million young people suffer concussions each year while playing sports.\n\nPreviously, the treatment for concussions in young people was rest. However, researchers at Children’s National Hospital in Washington, D.C. suggest that rest may no longer be the best treatment for young people with concussions. Pediatric neuropsychologist Dr. Chris Vaughan said that there was a time when a diagnosis involved a couple of fingers and if the patient could stand, they could return to play.\n\nResearchers found that children who missed less school after a concussion had fewer lingering symptoms, indicating that returning to school and daily life may be therapeutic for the brain. The study suggests that parents with children who suffer concussions should push socialization, reduce school-related stress, maintain a normal sleep/wake schedule, and encourage light-to-moderate physical activity. The findings reinforce the idea that there are things that can be done to help treat concussions in children and that it is not a wait-and-see type of injury.",
+        "words": "<strong>lingering</strong> (lasting for a long time), <strong>socialization</strong> (the activity with others), <strong>reinforce</strong> (to strengthen or support).",
+        "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-15T16:41:25.212Z"
+  },
+  {
     "id": 1482548838,
     "title": "2026 Chemistry Nobel Prize",
     "date": "15-10-2026 07:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:26.421Z"
+    "scrapedAt": "2026-10-15T16:41:25.218Z"
   },
   {
     "id": 427067333,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/a-womens-village-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:26.548Z"
+    "scrapedAt": "2026-10-15T16:41:25.184Z"
   },
   {
     "id": 882950779,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/a-couple-sells-fake-taylor-swift-tickets-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:26.636Z"
+    "scrapedAt": "2026-10-15T16:41:25.480Z"
   },
   {
     "id": 599892767,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-durian-is-becoming-popular-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:26.600Z"
+    "scrapedAt": "2026-10-15T16:41:25.406Z"
   },
   {
     "id": 4233363327,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/lithuania-and-nuclear-weapons-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:26.720Z"
+    "scrapedAt": "2026-10-15T16:41:28.007Z"
   },
   {
     "id": 3288655299,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/indonesias-vice-president-has-problems-with-school-papers-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:29.045Z"
+    "scrapedAt": "2026-10-15T16:41:27.956Z"
   },
   {
     "id": 883173375,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/a-lab-worker-dies-in-russia-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:29.230Z"
+    "scrapedAt": "2026-10-15T16:41:27.951Z"
   },
   {
     "id": 1982986862,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/french-students-protest-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:29.218Z"
+    "scrapedAt": "2026-10-15T16:41:27.895Z"
   },
   {
     "id": 1209302248,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/is-the-internet-dead-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:29.253Z"
+    "scrapedAt": "2026-10-15T16:41:28.217Z"
   },
   {
     "id": 4172865108,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/disney-animal-kingdom-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:29.335Z"
+    "scrapedAt": "2026-10-15T16:41:30.446Z"
   },
   {
     "id": 538702530,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/are-wind-turbines-safe-for-birds-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:31.590Z"
+    "scrapedAt": "2026-10-15T16:41:30.369Z"
   },
   {
     "id": 820406029,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/indias-luxury-fashion-industry-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:31.545Z"
+    "scrapedAt": "2026-10-15T16:41:30.556Z"
   },
   {
     "id": 579872748,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/a-woman-still-lives-after-an-execution-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:31.853Z"
+    "scrapedAt": "2026-10-15T16:41:30.667Z"
   },
   {
     "id": 55521327,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/gen-z-and-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:31.753Z"
+    "scrapedAt": "2026-10-15T16:41:30.934Z"
   },
   {
     "id": 889569892,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/a-shark-in-a-canal-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:31.945Z"
+    "scrapedAt": "2026-10-15T16:41:30.738Z"
   },
   {
     "id": 481875836,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/brazilians-have-problems-with-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:32.132Z"
+    "scrapedAt": "2026-10-15T16:41:33.185Z"
   },
   {
     "id": 1857483805,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/the-swiss-vote-on-neutrality-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:34.507Z"
+    "scrapedAt": "2026-10-15T16:41:33.323Z"
   },
   {
     "id": 1961076135,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/who-does-basmati-rice-belong-to-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:34.659Z"
+    "scrapedAt": "2026-10-15T16:41:33.370Z"
   },
   {
     "id": 271770423,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/first-germany-russia-meeting-since-2022-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:34.616Z"
+    "scrapedAt": "2026-10-15T16:41:33.301Z"
   },
   {
     "id": 4186222974,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/ai-helps-women-in-kenya-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:34.760Z"
+    "scrapedAt": "2026-10-15T16:41:33.818Z"
   },
   {
     "id": 96635328,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/scotland-has-a-big-problem-with-drugs-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:35.132Z"
+    "scrapedAt": "2026-10-15T16:41:35.645Z"
   },
   {
     "id": 538267388,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/tokyo-micro-apartments-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:36.977Z"
+    "scrapedAt": "2026-10-15T16:41:35.882Z"
   },
   {
     "id": 2003176949,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/does-duolingo-teach-you-to-speak-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:37.429Z"
+    "scrapedAt": "2026-10-15T16:41:35.796Z"
   },
   {
     "id": 2177276485,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/chinese-president-visits-the-us-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:37.833Z"
+    "scrapedAt": "2026-10-15T16:41:35.868Z"
   },
   {
     "id": 219238447,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/a-concert-for-bears-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:37.461Z"
+    "scrapedAt": "2026-10-15T16:41:35.953Z"
   },
   {
     "id": 2344492562,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/empty-flats-in-london-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:37.719Z"
+    "scrapedAt": "2026-10-15T16:41:36.733Z"
   },
   {
     "id": 1023750485,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-transport-minister-resigns-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:37.838Z"
+    "scrapedAt": "2026-10-15T16:41:38.367Z"
   },
   {
     "id": 2004191999,
@@ -809,7 +838,7 @@
         "url": "https://www.newsinlevels.com/products/this-game-is-your-elevator-to-english-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:39.739Z"
+    "scrapedAt": "2026-10-15T16:41:38.574Z"
   },
   {
     "id": 2676579204,
@@ -1360,7 +1389,7 @@
         "url": "https://www.newsinlevels.com/products/data-on-sweet-drinks-level-3"
       }
     },
-    "scrapedAt": "2026-10-15T11:10:26.519Z"
+    "scrapedAt": "2026-10-15T16:41:25.239Z"
   },
   {
     "id": 2280796817,
