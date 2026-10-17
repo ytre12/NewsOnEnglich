@@ -8,6 +8,15 @@ import Button from "./components/Button";
 import FullNews from "./components/FullNews";
 import Favorite from "./components/Favorite";
 
+function getTodayKey() {
+  const today = new Date();
+  const day = String(today.getDate()).padStart(2, "0");
+  const month = String(today.getMonth() + 1).padStart(2, "0");
+  const year = today.getFullYear();
+
+  return `${day}-${month}-${year}`;
+}
+
 function App() {
   const [data, setData] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
@@ -18,6 +27,8 @@ function App() {
   const [favoriteIds, setFavoriteIds] = useState(getFavorites);
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(true);
+  const [today, setToday] = useState(false);
+  const [todayKey] = useState(getTodayKey);
 
   useEffect(() => {
     getNews()
@@ -35,11 +46,17 @@ function App() {
       article.levels["1"].words.trim(),
   );
 
+  const todayNews = articlesWithWords.filter(
+    (article) =>
+      typeof article.date === "string" && article.date.startsWith(todayKey),
+  );
+  const newsToShow = today ? todayNews : articlesWithWords;
+
   const postsPerPage = 10;
-  const totalPages = Math.ceil(articlesWithWords.length / postsPerPage);
+  const totalPages = Math.ceil(newsToShow.length / postsPerPage);
   const startIndex = (currentPage - 1) * postsPerPage;
 
-  const visibleNews = articlesWithWords.slice(
+  const visibleNews = newsToShow.slice(
     startIndex,
     startIndex + postsPerPage,
   );
@@ -73,12 +90,19 @@ function App() {
     setFavoriteIds(removeFavoriteItem(id));
   }
 
+  function toggleTodayNews() {
+    setToday((current) => !current);
+    setCurrentPage(1);
+  }
+
   return (
     <>
       <Header
         openFavorite={openFavoritePage}
         closeFavorite={closeFavoritePage}
         menuIsOpen={menuIsOpen}
+        todayNews={today}
+        toggleToday={toggleTodayNews}
       />
 
       {loading && (
@@ -152,6 +176,9 @@ function App() {
             );
           })}
         </div>
+      )}
+      {currentNews && !menuIsOpen && today && todayNews.length === 0 && !loading && (
+        <p className="text-center p-8">No news published today.</p>
       )}
     </>
   );

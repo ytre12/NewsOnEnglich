@@ -1,4 +1,4 @@
-import HistoryCard from "./HistoryCard";
+import FavoriteCard from "./FavoriteCard";
 
 export default function Favorite({
   articles,
@@ -24,11 +24,11 @@ export default function Favorite({
       <div className="w-full mx-auto flex justify-center">
         <div className="grid min-[1100px]:grid-cols-2 mx-6 gap-6 min-[1000px]:gap-15">
           {newsToRender.map((article) => (
-            <HistoryCard
+            <FavoriteCard
               key={article.id}
               title={article.title}
               date={article.date}
-              dellFromHistory={() => removeFavorite(article.id)}
+              onRemoveFavorite={() => removeFavorite(article.id)}
               openNewsPage={() => openNewsPage(article.id, 1)}
             />
           ))}

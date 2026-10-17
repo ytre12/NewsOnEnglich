@@ -7,7 +7,13 @@ const formattedDate = `${String(date.getDate()).padStart(2, "0")} - ${date.toLoc
   { month: "short" },
 )} - ${date.getFullYear()}`;
 
-export default function Header({ openFavorite, closeFavorite, menuIsOpen }) {
+export default function Header({
+  openFavorite,
+  closeFavorite,
+  menuIsOpen,
+  todayNews,
+  toggleToday,
+}) {
   return (
     <header className="my-[30px] mx-[28px] min-[700px]:mx-[70px] min-[700px]:my-[60px] min-[1250px]:mx-[100px] ">
       <h1 className="text-[#195A94] font-extrabold text-[30px] leading-[33px] min-[750px]:text-[36px]">
@@ -24,7 +30,11 @@ export default function Header({ openFavorite, closeFavorite, menuIsOpen }) {
             level={false}
             onClick={openFavorite}
           />
-          <Button title={"Today"} level={false} />
+          <Button
+            title={todayNews ? "All news" : "Today"}
+            level={false}
+            onClick={toggleToday}
+          />
         </div>
       ) : (
         <div className="flex justify-between items-center my-6">

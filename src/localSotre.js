@@ -1,5 +1,4 @@
 const FAVORITES_KEY = "favorite";
-const HISTORY_KEY = "history";
 
 function readList(key) {
   try {
@@ -19,21 +18,10 @@ export function getFavorites() {
   return readList(FAVORITES_KEY);
 }
 
-export function getHistory() {
-  return readList(HISTORY_KEY);
-}
-
 export function removeFavoriteItem(id) {
   const updated = getFavorites().filter((savedId) => savedId !== id);
 
   writeToStorage(FAVORITES_KEY, updated);
-  return updated;
-}
-
-export function removeHistoryItem(id) {
-  const updated = getHistory().filter((savedId) => savedId !== id);
-
-  writeToStorage(HISTORY_KEY, updated);
   return updated;
 }
 
@@ -45,17 +33,5 @@ export function toggleFavorite(id) {
     : [...favorites, id];
 
   writeToStorage(FAVORITES_KEY, updated);
-  return updated;
-}
-
-export function addHistoryItem(id) {
-  const history = getHistory();
-
-  const updated = [id, ...history.filter((savedId) => savedId !== id)].slice(
-    0,
-    20,
-  );
-
-  writeToStorage(HISTORY_KEY, updated);
   return updated;
 }
