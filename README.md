@@ -185,4 +185,3 @@ This is an independent educational and portfolio project. It is not affiliated w
 A license for this project's original code has not yet been selected. No `LICENSE` file is currently included.
 
 Third-party news content is separate from the application code and is not covered by a code license for this project.
->>>>>>> 7494db8 (add read me)
