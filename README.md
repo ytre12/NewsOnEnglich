@@ -9,8 +9,8 @@ A React app for reading English news at three difficulty levels.
 ## Screenshots
 
 ![News list](docs/main.png)
-![Article levels](newsLevel.png)
-![Favorite Sistem](favorite.png)
+![Article levels](docs/newsLevel.png)
+![Favorite Sistem](docs/favorite.png)
 
 ## Features
 
