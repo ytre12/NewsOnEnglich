@@ -6,15 +6,7 @@ A React application for practising English by reading news at three difficulty l
 
 ## Screenshots
 
-
 ![News in English app showcase](docs/portfolio-showcase.png)
-
-## Features
-
-- Read news at Levels 1, 2, and 3
-- Filter articles published today
-- Browse articles with pagination
-- Save favorite articles in your browser using local storage
 
 ## Features
 
@@ -62,14 +54,6 @@ npm ci
 
 npm run dev
 ```
-
-## News source
-
-News articles are sourced from [News in Levels](https://www.newsinlevels.com/). This project is for educational and portfolio purposes and is not intended for commercial use.
-=======
-Open the local URL printed by Vite. No `.env` file or API key is required for the current frontend.
-
-Local development loads the remote dataset configured in `src/fetch.js`. Editing or scraping `data/news.json` locally does not automatically change what the frontend displays. To test another dataset, point `DATA_URL` to a URL that serves it.
 
 ## Available scripts
 
