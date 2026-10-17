@@ -6,7 +6,7 @@ A React application for practising English by reading news at three difficulty l
 
 ## Screenshots
 
-<<<<<<< HEAD
+
 ![News in English app showcase](docs/portfolio-showcase.png)
 
 ## Features
@@ -15,8 +15,6 @@ A React application for practising English by reading news at three difficulty l
 - Filter articles published today
 - Browse articles with pagination
 - Save favorite articles in your browser using local storage
-=======
-![News list, article reading view, and favorites](docs/portfolio-showcase.png)
 
 ## Features
 
@@ -25,7 +23,6 @@ A React application for practising English by reading news at three difficulty l
 - Browse news with pagination: 10 articles per page.
 - Add and remove favorites, saved in the current browser.
 - Use responsive layouts on mobile and desktop.
->>>>>>> 7494db8 (add read me)
 
 ## Built with
 
@@ -58,12 +55,14 @@ The news-update workflow is scheduled every six hours (UTC) and can also be star
 
 ```bash
 git clone https://github.com/ytre12/NewsOnEnglich.git
+
 cd NewsOnEnglich
+
 npm ci
+
 npm run dev
 ```
 
-<<<<<<< HEAD
 ## News source
 
 News articles are sourced from [News in Levels](https://www.newsinlevels.com/). This project is for educational and portfolio purposes and is not intended for commercial use.
@@ -174,17 +173,6 @@ The GitHub workflow explicitly sets concurrency to `6` for either mode. Keep req
 - The Today filter compares article dates with the user's local calendar date, calculated when the app opens. Reload after midnight to refresh it.
 - Article selection and difficulty level are not stored in the URL. Reloading resets the current reading view, and individual articles do not yet have shareable app links.
 - Automated behavior tests are not yet implemented.
-
-## Roadmap
-
-These are planned improvements, not existing features:
-
-- [ ] Validate incoming news data and add a retry action for loading failures.
-- [ ] Add URL-based navigation for articles, levels, and favorites.
-- [ ] Add automated tests for core reading and favorites flows.
-- [ ] Run lint and tests in CI before deployment.
-- [ ] Improve keyboard accessibility and pagination for large datasets.
-- [ ] Add search by article title.
 
 ## Content source
 
