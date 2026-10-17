@@ -15,7 +15,7 @@ A React app for reading English news at three difficulty levels.
 - Read news at Levels 1, 2, and 3
 - Filter articles published today
 - Browse articles with pagination
-- Save favorite articles in the browser
+- Save favorite articles in your browser using local storage
 
 ## Built with
 
@@ -34,3 +34,8 @@ git clone https://github.com/ytre12/NewsOnEnglich.git
 cd NewsOnEnglich
 npm ci
 npm run dev
+```
+
+## News source
+
+News articles are sourced from [News in Levels](https://www.newsinlevels.com/). This project is for educational and portfolio purposes and is not intended for commercial use.
