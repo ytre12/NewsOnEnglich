@@ -1,5 +1,34 @@
 [
   {
+    "id": 2359391957,
+    "title": "Hackers attack French supermarkets",
+    "date": "19-10-2026 15:00",
+    "levels": {
+      "1": {
+        "title": "Hackers attack French supermarkets",
+        "date": "19-10-2026 15:00",
+        "content": "Hackers attack big supermarkets in France. They use computers to make store fridges very hot. Because of the heat, a lot of meat, milk, and food goes bad. Workers must throw it away. Some stores are even on fire.\n\nThe hackers break into an old software system. This system controls the fridges. Many stores lose a lot of money. They must turn off their machines to be safe.\n\nThe French government is now looking for the people who do this bad thing. People are worried. They see that computer systems can be easy to break.",
+        "words": "<strong>fridge</strong> (a large appliance which keeps food fresh and cold), <strong>heat</strong> (when something is hot), <strong>turn off</strong> (to stop a machine or light).",
+        "url": "https://www.newsinlevels.com/products/hackers-attack-french-supermarkets-level-1"
+      },
+      "2": {
+        "title": "Hackers attack French supermarkets",
+        "date": "19-10-2026 15:00",
+        "content": "Big supermarkets in France suffered a strange cyberattack when hackers took control of their refrigerators and freezers.\n\nThe hackers remotely raised the temperatures inside the appliances, which ruined huge amounts of fresh food like meat and dairy, and even started small fires in some stores.\n\nBig retail companies were badly hit, and lost millions of euros. Experts say the hackers broke into old software, which stores use to manage their fridges from afar. Because the software was outdated, the system was not secure. Store managers turned off remote controls to keep their shops safe.\n\nFrench authorities are investigating the attack to find out who is responsible. They also worry that more similar attack may come in the future.",
+        "words": "<strong>remotely</strong> (from a distance), <strong>outdated</strong> (old, not modern), <strong>investigate</strong> (to examine a crime or problem to discover the truth).",
+        "url": "https://www.newsinlevels.com/products/hackers-attack-french-supermarkets-level-2"
+      },
+      "3": {
+        "title": "Hackers attack French supermarkets",
+        "date": "19-10-2026 15:00",
+        "content": "Major supermarket chains across France were hit by an unprecedented cyberattack that targeted commercial refrigeration systems.\n\nHackers remotely took control of thermostats in hundreds of stores, and raised temperatures in fridges and freezers to as high as 50°C.\n\nThe sudden heat caused thousands of tons of fresh and frozen food, including meat, dairy, and juice, to spoil completely. This resulted in millions of dollars in damages and even triggered fires at several locations. The attack exploited security vulnerabilities in outdated control software, which allowed store managers to control appliances remotely. Major retailers like Intermarché and Carrefour were heavily affected, and forced some locations to manually disconnect their refrigeration units to prevent further tampering.\n\nFrench authorities and national cybersecurity agencies have launched an urgent criminal investigation into the incident, and raised serious concerns about the safety and security of essential infrastructure.",
+        "words": "<strong>unprecedented</strong> (an illegal attempt to damage, or steal data from computer systems or networks), <strong>thermostat</strong> (a device that automatically controls temperature in an appliance or building), <strong>vulnerability</strong> (a weakness in a system or software), <strong>tamper </strong>(to change something in order to cause damage or gain an advantage).",
+        "url": "https://www.newsinlevels.com/products/hackers-attack-french-supermarkets-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-19T22:11:07.480Z"
+  },
+  {
     "id": 3542127812,
     "title": "The best countries to retire",
     "date": "19-10-2026 07:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/the-best-countries-to-retire-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:36.509Z"
+    "scrapedAt": "2026-10-19T22:11:07.457Z"
   },
   {
     "id": 2797384667,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/the-strange-business-of-roman-abramovich-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:36.744Z"
+    "scrapedAt": "2026-10-19T22:11:07.637Z"
   },
   {
     "id": 1428559781,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/indias-big-river-project-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:36.759Z"
+    "scrapedAt": "2026-10-19T22:11:07.872Z"
   },
   {
     "id": 429529056,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:36.730Z"
+    "scrapedAt": "2026-10-19T22:11:10.744Z"
   },
   {
     "id": 1482548838,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:39.082Z"
+    "scrapedAt": "2026-10-19T22:11:10.295Z"
   },
   {
     "id": 427067333,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/a-womens-village-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:39.379Z"
+    "scrapedAt": "2026-10-19T22:11:10.338Z"
   },
   {
     "id": 882950779,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/a-couple-sells-fake-taylor-swift-tickets-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:39.695Z"
+    "scrapedAt": "2026-10-19T22:11:10.624Z"
   },
   {
     "id": 599892767,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-durian-is-becoming-popular-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:40.359Z"
+    "scrapedAt": "2026-10-19T22:11:10.527Z"
   },
   {
     "id": 4233363327,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/lithuania-and-nuclear-weapons-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:39.677Z"
+    "scrapedAt": "2026-10-19T22:11:10.665Z"
   },
   {
     "id": 3288655299,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/indonesias-vice-president-has-problems-with-school-papers-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:40.216Z"
+    "scrapedAt": "2026-10-19T22:11:13.863Z"
   },
   {
     "id": 883173375,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/a-lab-worker-dies-in-russia-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:42.139Z"
+    "scrapedAt": "2026-10-19T22:11:13.519Z"
   },
   {
     "id": 1982986862,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/french-students-protest-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:42.396Z"
+    "scrapedAt": "2026-10-19T22:11:13.723Z"
   },
   {
     "id": 1209302248,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/is-the-internet-dead-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:42.508Z"
+    "scrapedAt": "2026-10-19T22:11:13.649Z"
   },
   {
     "id": 4172865108,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/disney-animal-kingdom-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:43.207Z"
+    "scrapedAt": "2026-10-19T22:11:13.513Z"
   },
   {
     "id": 538702530,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/are-wind-turbines-safe-for-birds-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:43.377Z"
+    "scrapedAt": "2026-10-19T22:11:16.189Z"
   },
   {
     "id": 820406029,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/indias-luxury-fashion-industry-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:45.376Z"
+    "scrapedAt": "2026-10-19T22:11:16.370Z"
   },
   {
     "id": 579872748,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/a-woman-still-lives-after-an-execution-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:45.360Z"
+    "scrapedAt": "2026-10-19T22:11:16.445Z"
   },
   {
     "id": 55521327,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/gen-z-and-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:45.629Z"
+    "scrapedAt": "2026-10-19T22:11:16.611Z"
   },
   {
     "id": 889569892,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/a-shark-in-a-canal-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:45.556Z"
+    "scrapedAt": "2026-10-19T22:11:16.791Z"
   },
   {
     "id": 481875836,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/brazilians-have-problems-with-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:46.510Z"
+    "scrapedAt": "2026-10-19T22:11:16.868Z"
   },
   {
     "id": 1857483805,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/the-swiss-vote-on-neutrality-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:46.604Z"
+    "scrapedAt": "2026-10-19T22:11:19.011Z"
   },
   {
     "id": 1961076135,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/who-does-basmati-rice-belong-to-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:48.876Z"
+    "scrapedAt": "2026-10-19T22:11:19.222Z"
   },
   {
     "id": 271770423,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/first-germany-russia-meeting-since-2022-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:48.622Z"
+    "scrapedAt": "2026-10-19T22:11:19.320Z"
   },
   {
     "id": 4186222974,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/ai-helps-women-in-kenya-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:48.548Z"
+    "scrapedAt": "2026-10-19T22:11:19.622Z"
   },
   {
     "id": 96635328,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/scotland-has-a-big-problem-with-drugs-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:50.211Z"
+    "scrapedAt": "2026-10-19T22:11:19.635Z"
   },
   {
     "id": 538267388,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/tokyo-micro-apartments-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:49.906Z"
+    "scrapedAt": "2026-10-19T22:11:22.845Z"
   },
   {
     "id": 2003176949,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/does-duolingo-teach-you-to-speak-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:51.231Z"
+    "scrapedAt": "2026-10-19T22:11:22.203Z"
   },
   {
     "id": 2177276485,
@@ -1447,7 +1476,7 @@
         "url": "https://www.newsinlevels.com/products/robot-saves-grain-level-3"
       }
     },
-    "scrapedAt": "2026-10-19T12:42:36.403Z"
+    "scrapedAt": "2026-10-19T22:11:07.501Z"
   },
   {
     "id": 3886257463,
