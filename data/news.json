@@ -1,5 +1,34 @@
 [
   {
+    "id": 2720559862,
+    "title": "Farming in Iceland",
+    "date": "20-10-2026 15:00",
+    "levels": {
+      "1": {
+        "title": "Farming in Iceland",
+        "date": "20-10-2026 15:00",
+        "content": "Iceland is a cold island with very little land for farming. But the country has a lot of clean electricity, pure water, and natural heat.\n\nPeople are using these things to grow food in new ways. One man builds an underground farm to grow sweet strawberries. Other workers use warm air from data centers to grow fresh greens in small containers.\n\nNear power stations, a company grows small green plants in big tanks. It uses cold outside air and green energy. They turn these plants into healthy food supplements. These smart ideas help Iceland grow more of its own food.",
+        "words": "<strong>pure</strong> (clean), <strong>power station</strong> (a factory which makes electricity), <strong>supplement</strong> (a product which you take and it gives you extra nutrients in your diet).",
+        "url": "https://www.newsinlevels.com/products/farming-in-iceland-level-1"
+      },
+      "2": {
+        "title": "Farming in Iceland",
+        "date": "20-10-2026 15:00",
+        "content": "Iceland has cold weather and very little farmland, but it has plenty of clean energy, hot water, and natural heat. Because of this, clever innovators are finding new ways to grow food indoors.\n\nFor example, a former tech worker opened an underground farm where thousands of sweet Japanese strawberries grow successfully.\n\nOther startups are using waste heat from computer data centers inside shipping containers to grow fresh greens, which helps Iceland import less food from abroad. Near geothermal plants, companies are also growing microalgae in huge tanks. They use Iceland’s natural cold air to keep the tanks cool and clean geothermal energy to run the facility. These algae are then dried and used to make healthy dietary supplements.\n\nAll these examples show how Iceland turns its harsh climate into a great advantage.",
+        "words": "<strong>innovator</strong> (a person who introduces new methods, ideas, or products), <strong>shipping container</strong> (a large metal box used to transport goods on ships, trucks, and trains), <strong>geothermal plant</strong> (a facility which uses heat from inside the earth to make electricity or provide heating).",
+        "url": "https://www.newsinlevels.com/products/farming-in-iceland-level-2"
+      },
+      "3": {
+        "title": "Farming in Iceland",
+        "date": "20-10-2026 15:00",
+        "content": "Despite its cold climate, limited farmland, and remote location, Iceland is using its natural resources, including geothermal heat, pure water, and clean renewable electricity, to transform food production.\n\nInnovators are building indoor and underground farms to grow crops that are usually difficult to cultivate in the North. For example, a former IT worker set up an underground farm growing thousands of sweet Japanese strawberries, which they sell locally. Other startups are finding clever ways to repurpose waste heat from data centers by channeling it into modified shipping containers to grow microgreens and fresh produce, which helps reduce the country’s heavy reliance on imported food.\n\nAdditionally, advanced aquaculture facilities cultivate large amounts of microalgae in 10,000-liter reactors. They produce valuable natural compounds for dietary supplements and prove that the island’s unique environment offers a sustainable advantage for agricultural innovation.",
+        "words": "<strong>geothermal</strong> (relating to or produced by the natural heat inside the earth), <strong>cultivate</strong> (to grow and care for plants or crops under controlled conditions), <strong>microgreens</strong> (very small vegetable greens harvested soon after the first leaves appear, valued for intense flavor and nutrients).",
+        "url": "https://www.newsinlevels.com/products/farming-in-iceland-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-20T16:38:27.057Z"
+  },
+  {
     "id": 3165723216,
     "title": "Why does tech cost more?",
     "date": "20-10-2026 07:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/why-does-tech-cost-more-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:09.871Z"
+    "scrapedAt": "2026-10-20T16:38:27.102Z"
   },
   {
     "id": 2359391957,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/hackers-attack-french-supermarkets-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:10.165Z"
+    "scrapedAt": "2026-10-20T16:38:27.338Z"
   },
   {
     "id": 3542127812,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/the-best-countries-to-retire-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:10.187Z"
+    "scrapedAt": "2026-10-20T16:38:27.140Z"
   },
   {
     "id": 2797384667,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/the-strange-business-of-roman-abramovich-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:10.173Z"
+    "scrapedAt": "2026-10-20T16:38:30.901Z"
   },
   {
     "id": 1428559781,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/indias-big-river-project-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:12.947Z"
+    "scrapedAt": "2026-10-20T16:38:30.896Z"
   },
   {
     "id": 429529056,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:12.906Z"
+    "scrapedAt": "2026-10-20T16:38:31.482Z"
   },
   {
     "id": 1482548838,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:13.165Z"
+    "scrapedAt": "2026-10-20T16:38:30.679Z"
   },
   {
     "id": 427067333,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/a-womens-village-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:13.260Z"
+    "scrapedAt": "2026-10-20T16:38:30.871Z"
   },
   {
     "id": 882950779,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/a-couple-sells-fake-taylor-swift-tickets-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:13.481Z"
+    "scrapedAt": "2026-10-20T16:38:30.598Z"
   },
   {
     "id": 599892767,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-durian-is-becoming-popular-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:13.475Z"
+    "scrapedAt": "2026-10-20T16:38:33.848Z"
   },
   {
     "id": 4233363327,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/lithuania-and-nuclear-weapons-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:16.314Z"
+    "scrapedAt": "2026-10-20T16:38:33.860Z"
   },
   {
     "id": 3288655299,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/indonesias-vice-president-has-problems-with-school-papers-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:16.309Z"
+    "scrapedAt": "2026-10-20T16:38:33.806Z"
   },
   {
     "id": 883173375,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/a-lab-worker-dies-in-russia-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:16.335Z"
+    "scrapedAt": "2026-10-20T16:38:33.994Z"
   },
   {
     "id": 1982986862,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/french-students-protest-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:16.497Z"
+    "scrapedAt": "2026-10-20T16:38:34.592Z"
   },
   {
     "id": 1209302248,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/is-the-internet-dead-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:16.615Z"
+    "scrapedAt": "2026-10-20T16:38:36.897Z"
   },
   {
     "id": 4172865108,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/disney-animal-kingdom-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:19.400Z"
+    "scrapedAt": "2026-10-20T16:38:36.933Z"
   },
   {
     "id": 538702530,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/are-wind-turbines-safe-for-birds-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:19.407Z"
+    "scrapedAt": "2026-10-20T16:38:36.624Z"
   },
   {
     "id": 820406029,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/indias-luxury-fashion-industry-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:19.417Z"
+    "scrapedAt": "2026-10-20T16:38:36.938Z"
   },
   {
     "id": 579872748,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/a-woman-still-lives-after-an-execution-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:19.450Z"
+    "scrapedAt": "2026-10-20T16:38:36.833Z"
   },
   {
     "id": 55521327,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/gen-z-and-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:19.689Z"
+    "scrapedAt": "2026-10-20T16:38:37.388Z"
   },
   {
     "id": 889569892,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/a-shark-in-a-canal-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:19.623Z"
+    "scrapedAt": "2026-10-20T16:38:39.427Z"
   },
   {
     "id": 481875836,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/brazilians-have-problems-with-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:22.475Z"
+    "scrapedAt": "2026-10-20T16:38:40.822Z"
   },
   {
     "id": 1857483805,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/the-swiss-vote-on-neutrality-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:22.469Z"
+    "scrapedAt": "2026-10-20T16:38:40.321Z"
   },
   {
     "id": 1961076135,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/who-does-basmati-rice-belong-to-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:22.532Z"
+    "scrapedAt": "2026-10-20T16:38:39.817Z"
   },
   {
     "id": 271770423,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/first-germany-russia-meeting-since-2022-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:22.717Z"
+    "scrapedAt": "2026-10-20T16:38:40.316Z"
   },
   {
     "id": 4186222974,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/ai-helps-women-in-kenya-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:22.372Z"
+    "scrapedAt": "2026-10-20T16:38:42.164Z"
   },
   {
     "id": 96635328,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/scotland-has-a-big-problem-with-drugs-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:24.990Z"
+    "scrapedAt": "2026-10-20T16:38:42.329Z"
   },
   {
     "id": 538267388,
@@ -1563,7 +1592,7 @@
         "url": "https://www.newsinlevels.com/products/madagascar-political-crisis-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T11:14:10.144Z"
+    "scrapedAt": "2026-10-20T16:38:27.185Z"
   },
   {
     "id": 2988497037,
