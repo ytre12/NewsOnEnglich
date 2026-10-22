@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="npm" />
   <img src="https://img.shields.io/badge/github_pages-%23222222.svg?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white&amp;logoSize=auto" alt="GitHub Pages" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&amp;logo=vim&amp;logoColor=white" alt="Vim" />
 </p>
 
 <p align="center">
