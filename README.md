@@ -1,23 +1,53 @@
-# News in English by Levels
+<h1 align="center">News in English by Levels</h1>
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![GithubGithub Pagespages](https://img.shields.io/badge/github_pages-%23222222.svg?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p align="center">
+  <strong>Read the news. Build your vocabulary. Choose your level.</strong>
+  <br />
+  A React application for practising English at three difficulty levels.
+  <br />
+  Built as an educational and portfolio project.
+</p>
 
+<p align="center">
+  <a href="https://ytre12.github.io/NewsOnEnglich/"><strong>Open live demo</strong></a>
+  &nbsp;·&nbsp;
+  <a href="#features">Features</a>
+  &nbsp;·&nbsp;
+  <a href="#run-locally">Run locally</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ytre12/NewsOnEnglich/actions/workflows/deploy.yml">Deployment status</a>
+</p>
 
-A React application for practising English by reading news at three difficulty levels. Built as an educational and portfolio project.
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS" />
+</p>
 
-[Open the live app](https://ytre12.github.io/NewsOnEnglich/) · [Deployment status](https://github.com/ytre12/NewsOnEnglich/actions/workflows/deploy.yml)
+<p align="center">
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/github_pages-%23222222.svg?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white&amp;logoSize=auto" alt="GitHub Pages" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&amp;logo=vim&amp;logoColor=white" alt="Vim" />
+</p>
+
+---
 
 ## Screenshots
 
+<<<<<<< HEAD
 ![News in English app showcase](docs/portfolio-showcase.png)
+
+## Features
+
+- Read news at Levels 1, 2, and 3
+- Filter articles published today
+- Browse articles with pagination
+- Save favorite articles in your browser using local storage
+=======
+![News list, article reading view, and favorites](docs/portfolio-showcase.png)
 
 ## Features
 
@@ -26,6 +56,7 @@ A React application for practising English by reading news at three difficulty l
 - Browse news with pagination: 10 articles per page.
 - Add and remove favorites, saved in the current browser.
 - Use responsive layouts on mobile and desktop.
+>>>>>>> 7494db8 (add read me)
 
 ## Built with
 
@@ -58,13 +89,19 @@ The news-update workflow is scheduled every six hours (UTC) and can also be star
 
 ```bash
 git clone https://github.com/ytre12/NewsOnEnglich.git
-
 cd NewsOnEnglich
-
 npm ci
-
 npm run dev
 ```
+
+<<<<<<< HEAD
+## News source
+
+News articles are sourced from [News in Levels](https://www.newsinlevels.com/). This project is for educational and portfolio purposes and is not intended for commercial use.
+=======
+Open the local URL printed by Vite. No `.env` file or API key is required for the current frontend.
+
+Local development loads the remote dataset configured in `src/fetch.js`. Editing or scraping `data/news.json` locally does not automatically change what the frontend displays. To test another dataset, point `DATA_URL` to a URL that serves it.
 
 ## Available scripts
 
@@ -169,6 +206,17 @@ The GitHub workflow explicitly sets concurrency to `6` for either mode. Keep req
 - Article selection and difficulty level are not stored in the URL. Reloading resets the current reading view, and individual articles do not yet have shareable app links.
 - Automated behavior tests are not yet implemented.
 
+## Roadmap
+
+These are planned improvements, not existing features:
+
+- [ ] Validate incoming news data and add a retry action for loading failures.
+- [ ] Add URL-based navigation for articles, levels, and favorites.
+- [ ] Add automated tests for core reading and favorites flows.
+- [ ] Run lint and tests in CI before deployment.
+- [ ] Improve keyboard accessibility and pagination for large datasets.
+- [ ] Add search by article title.
+
 ## Content source
 
 News articles and vocabulary are sourced from [News in Levels](https://www.newsinlevels.com/).
@@ -180,3 +228,4 @@ This is an independent educational and portfolio project. It is not affiliated w
 A license for this project's original code has not yet been selected. No `LICENSE` file is currently included.
 
 Third-party news content is separate from the application code and is not covered by a code license for this project.
+>>>>>>> 7494db8 (add read me)
