@@ -1,38 +1,23 @@
-<h1 align="center">News in English by Levels</h1>
+# News in English by Levels
 
-<p align="center">
-  <strong>Read the news. Build your vocabulary. Choose your level.</strong>
-  <br />
-  A React application for practising English at three difficulty levels.
-  <br />
-  Built as an educational and portfolio project.
-</p>
+**Read the news. Build your vocabulary. Choose your level.**
 
-<p align="center">
-  <a href="https://ytre12.github.io/NewsOnEnglich/"><strong>Open live demo</strong></a>
-  &nbsp;·&nbsp;
-  <a href="#features">Features</a>
-  &nbsp;·&nbsp;
-  <a href="#run-locally">Run locally</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/ytre12/NewsOnEnglich/actions/workflows/deploy.yml">Deployment status</a>
-</p>
+A React application for practising English at three difficulty levels.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS" />
-</p>
+[Live demo](https://ytre12.github.io/NewsOnEnglich/) · [Features](#features) · [Run locally](#run-locally)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/github_pages-%23222222.svg?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white&amp;logoSize=auto" alt="GitHub Pages" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&amp;logo=vim&amp;logoColor=white" alt="Vim" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white)
+
+---
 ---
 
 ## Screenshots
