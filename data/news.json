@@ -1,5 +1,34 @@
 [
   {
+    "id": 1254724743,
+    "title": "Kenya and plastics",
+    "date": "22-10-2026 15:00",
+    "levels": {
+      "1": {
+        "title": "Kenya and plastics",
+        "date": "22-10-2026 15:00",
+        "content": "Kenya’s biggest landfill is called Dandora. It is in Nairobi. It is one of the biggest landfills in the world.\n\nDandora is full of throwaway plastics. People use most of these plastics only once. Then they throw it away. Kenya is trying hard to be cleaner. Kenya wants a strict global rule on plastics. Countries are talking about it now. In 2017, Kenya makes tough laws about plastic bags. People can go to jail or pay a lot of money if they use plastic bags.\n\nNow, a new law says that companies must handle their products’ waste, not consumers. A Kenyan milk company changes its bottles to clear ones. It is easier to recycle these bottles. People like this change. It shows that Kenyans care more about this problem than before.",
+        "words": "<strong>landfill</strong> (a place where people put things which they do not need anymore, and it looks like a mountain), <strong>waste</strong> (things which people and companies throw away), <strong>consumer</strong> (a person who buys things).",
+        "url": "https://www.newsinlevels.com/products/kenya-and-plastics-level-1"
+      },
+      "2": {
+        "title": "Kenya and plastics",
+        "date": "22-10-2026 15:00",
+        "content": "Kenya’s Dandora landfill in Nairobi is one of the world’s largest landfills. The site is full of single-use plastics, although the country is trying hard to be more eco-friendly.\n\nKenya wants a global deal on plastics, and delegates are meeting to discuss the first deal on plastic pollution. In 2017, Kenya implemented strict laws against plastic bags, with severe penalties for their use. The recent law makes producers responsible for plastic waste, rather than consumers.\n\nA Kenyan dairy company responded to the new law by switching to clear PET milk bottles. Many people welcomed this because it became easier to recycle milk bottles. This shows that Kenyans are changing their mindset and they want to deal with the problem of plastic pollution.",
+        "words": "<strong>single-use</strong> (a thing which people use only once and throw away), <strong>penalty</strong> (something you have to do or pay if you break a law or rule), <strong>mindset</strong> (a person’s way of thinking and opinions).",
+        "url": "https://www.newsinlevels.com/products/kenya-and-plastics-level-2"
+      },
+      "3": {
+        "title": "Kenya and plastics",
+        "date": "22-10-2026 15:00",
+        "content": "Kenya’s Dandora is Nairobi’s main dumping ground and one of the world’s largest landfills. It’s filled with single-use plastics despite Kenya’s efforts to reduce its environmental impact.\n\nThe country advocates for a binding international agreement on plastics as delegates gather to discuss the first-ever treaty on plastic pollution. In 2017, Kenya imposed stringent laws against plastic bags, risking imprisonment or hefty fines.\n\nThe recent Waste Management law places responsibility on producers rather than consumers. Biof Foods, a Kenyan dairy company, adapted by replacing white PET milk bottles with clear ones, receiving positive feedback from recyclers. The shift in mindset, influenced by recent legislation, reflects a growing environmental consciousness among Kenyans.",
+        "words": "<strong>binding</strong> (obligatory), <strong>stringent</strong> (strict or extremely limiting), <strong>consciousness</strong> (awareness).",
+        "url": "https://www.newsinlevels.com/products/kenya-and-plastics-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-22T16:56:21.101Z"
+  },
+  {
     "id": 687254074,
     "title": "Pumpkin festival",
     "date": "22-10-2026 07:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/pumpkin-festival-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:52.499Z"
+    "scrapedAt": "2026-10-22T16:56:20.983Z"
   },
   {
     "id": 3651233834,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/space-elevator-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:52.723Z"
+    "scrapedAt": "2026-10-22T16:56:21.031Z"
   },
   {
     "id": 2664266100,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/bangladesh-is-fighting-a-dangerous-disease-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:52.491Z"
+    "scrapedAt": "2026-10-22T16:56:20.956Z"
   },
   {
     "id": 2720559862,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/farming-in-iceland-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:52.762Z"
+    "scrapedAt": "2026-10-22T16:56:21.179Z"
   },
   {
     "id": 3165723216,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/why-does-tech-cost-more-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:52.686Z"
+    "scrapedAt": "2026-10-22T16:56:23.723Z"
   },
   {
     "id": 2359391957,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/hackers-attack-french-supermarkets-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:55.677Z"
+    "scrapedAt": "2026-10-22T16:56:23.674Z"
   },
   {
     "id": 3542127812,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/the-best-countries-to-retire-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:55.545Z"
+    "scrapedAt": "2026-10-22T16:56:23.769Z"
   },
   {
     "id": 2797384667,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/the-strange-business-of-roman-abramovich-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:55.506Z"
+    "scrapedAt": "2026-10-22T16:56:23.834Z"
   },
   {
     "id": 1428559781,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/indias-big-river-project-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:55.682Z"
+    "scrapedAt": "2026-10-22T16:56:23.794Z"
   },
   {
     "id": 429529056,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:55.761Z"
+    "scrapedAt": "2026-10-22T16:56:26.150Z"
   },
   {
     "id": 1482548838,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:57.843Z"
+    "scrapedAt": "2026-10-22T16:56:26.251Z"
   },
   {
     "id": 427067333,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/a-womens-village-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:58.717Z"
+    "scrapedAt": "2026-10-22T16:56:26.197Z"
   },
   {
     "id": 882950779,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/a-couple-sells-fake-taylor-swift-tickets-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:58.732Z"
+    "scrapedAt": "2026-10-22T16:56:26.440Z"
   },
   {
     "id": 599892767,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-durian-is-becoming-popular-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:58.807Z"
+    "scrapedAt": "2026-10-22T16:56:26.389Z"
   },
   {
     "id": 4233363327,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/lithuania-and-nuclear-weapons-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:58.633Z"
+    "scrapedAt": "2026-10-22T16:56:26.211Z"
   },
   {
     "id": 3288655299,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/indonesias-vice-president-has-problems-with-school-papers-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:58.938Z"
+    "scrapedAt": "2026-10-22T16:56:28.942Z"
   },
   {
     "id": 883173375,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/a-lab-worker-dies-in-russia-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:30:00.790Z"
+    "scrapedAt": "2026-10-22T16:56:28.911Z"
   },
   {
     "id": 1982986862,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/french-students-protest-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:30:01.551Z"
+    "scrapedAt": "2026-10-22T16:56:28.737Z"
   },
   {
     "id": 1209302248,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/is-the-internet-dead-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:30:01.627Z"
+    "scrapedAt": "2026-10-22T16:56:28.884Z"
   },
   {
     "id": 4172865108,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/disney-animal-kingdom-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:30:01.797Z"
+    "scrapedAt": "2026-10-22T16:56:28.934Z"
   },
   {
     "id": 538702530,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/are-wind-turbines-safe-for-birds-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:30:01.707Z"
+    "scrapedAt": "2026-10-22T16:56:31.139Z"
   },
   {
     "id": 820406029,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/indias-luxury-fashion-industry-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:30:03.696Z"
+    "scrapedAt": "2026-10-22T16:56:31.562Z"
   },
   {
     "id": 579872748,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/a-woman-still-lives-after-an-execution-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:30:03.812Z"
+    "scrapedAt": "2026-10-22T16:56:31.890Z"
   },
   {
     "id": 55521327,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/gen-z-and-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:30:04.277Z"
+    "scrapedAt": "2026-10-22T16:56:31.556Z"
   },
   {
     "id": 889569892,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/a-shark-in-a-canal-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:30:04.569Z"
+    "scrapedAt": "2026-10-22T16:56:31.896Z"
   },
   {
     "id": 481875836,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/brazilians-have-problems-with-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:30:04.500Z"
+    "scrapedAt": "2026-10-22T16:56:31.902Z"
   },
   {
     "id": 1857483805,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/the-swiss-vote-on-neutrality-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:30:04.647Z"
+    "scrapedAt": "2026-10-22T16:56:33.782Z"
   },
   {
     "id": 1961076135,
@@ -1650,7 +1679,7 @@
         "url": "https://www.newsinlevels.com/products/town-in-the-sea-level-3"
       }
     },
-    "scrapedAt": "2026-10-22T11:29:52.591Z"
+    "scrapedAt": "2026-10-22T16:56:21.003Z"
   },
   {
     "id": 3558444643,
