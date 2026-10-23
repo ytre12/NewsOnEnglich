@@ -1,5 +1,34 @@
 [
   {
+    "id": 985748562,
+    "title": "A religious leader in court",
+    "date": "23-10-2026 07:00",
+    "levels": {
+      "1": {
+        "title": "A religious leader in court",
+        "date": "23-10-2026 07:00",
+        "content": "A judge in Kenya is deciding a big case against a man named Paul Mackenzie. He is a cult leader. Officials say that Mackenzie and 29 people kill 191 people, mostly children. He takes his followers to a quiet forest.\n\nHe tells them to stop eating so they can see Jesus. Many people starve and die. Police find their bodies in the ground.\n\nThe man says that he does nothing wrong. He does not make anyone stop eating. Sad families are watching the court today. They want to get answers and live normal lives again.",
+        "words": "<strong>cult</strong> (a religious group with extreme ideas), <strong>follower</strong> (a person who likes the teachings or leading of someone), <strong>starve</strong> (to eat no food for a long time).",
+        "url": "https://www.newsinlevels.com/products/a-religious-leader-in-court-level-1"
+      },
+      "2": {
+        "title": "A religious leader in court",
+        "date": "23-10-2026 07:00",
+        "content": "A court in Kenya is delivering a verdict in a mass murder case involving a cult leader named Paul Mackenzie. Mackenzie and 29 followers are accused of killing 191 people, mostly young children.\n\nThe man led hundreds of people into a forest in southern Kenya. He convinced them that the world was ending and told them to stop eating so they could go to heaven. Police found many bodies buried in mass graves in the forest.\n\nFamilies who lost their children and loved ones are still deeply hurt by the tragedy. Mackenzie and his followers say they are not guilty and they didn’t force anyone to stop eating. Today, families are hoping the judge’s decision will bring them peace.",
+        "words": "<strong>mass murder</strong> (killing a large number of people at the same time or over a short period), <strong>cult</strong> (a religious group with extreme beliefs), <strong>mass grave</strong> (a single grave with many dead bodies).",
+        "url": "https://www.newsinlevels.com/products/a-religious-leader-in-court-level-2"
+      },
+      "3": {
+        "title": "A religious leader in court",
+        "date": "23-10-2026 07:00",
+        "content": "A judge in Kenya has begun delivering a verdict in a landmark mass murder trial involving doomsday preacher Paul Mackenzie and 29 of his followers.\n\nThe group faces charges over the deaths of 191 people, almost all of whom were children.\n\nMackenzie established a remote camp in a forest, where he convinced hundreds of devotees that the end of the world was approaching. He instructed his followers to starve themselves to death so they could meet Jesus faster. He ordered that children be starved first, followed by women, and finally men. Police later uncovered hundreds of decomposed bodies in shallow mass graves scattered throughout the forest.\n\nDespite the horrific allegations and extensive physical evidence, Mackenzie and his co-defendants have pleaded not guilty, and claimed that no one was forced to die. Grieving families who lost entire households are waiting for the court’s verdict, and they hope it will finally bring closure.",
+        "words": "<strong>preacher</strong> (a person who gives religious speeches), <strong>devotee</strong> (a strong believer or follower), <strong>allegation</strong> (a statement claiming that someone has done something wrong or illegal, made without proof yet).",
+        "url": "https://www.newsinlevels.com/products/a-religious-leader-in-court-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-23T11:19:49.559Z"
+  },
+  {
     "id": 1254724743,
     "title": "Kenya and plastics",
     "date": "22-10-2026 15:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/kenya-and-plastics-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:10:59.178Z"
+    "scrapedAt": "2026-10-23T11:19:49.445Z"
   },
   {
     "id": 687254074,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/pumpkin-festival-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:10:59.243Z"
+    "scrapedAt": "2026-10-23T11:19:49.759Z"
   },
   {
     "id": 3651233834,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/space-elevator-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:10:59.254Z"
+    "scrapedAt": "2026-10-23T11:19:49.595Z"
   },
   {
     "id": 2664266100,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/bangladesh-is-fighting-a-dangerous-disease-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:10:59.250Z"
+    "scrapedAt": "2026-10-23T11:19:49.703Z"
   },
   {
     "id": 2720559862,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/farming-in-iceland-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:10:59.418Z"
+    "scrapedAt": "2026-10-23T11:19:52.794Z"
   },
   {
     "id": 3165723216,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/why-does-tech-cost-more-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:02.106Z"
+    "scrapedAt": "2026-10-23T11:19:52.691Z"
   },
   {
     "id": 2359391957,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/hackers-attack-french-supermarkets-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:02.226Z"
+    "scrapedAt": "2026-10-23T11:19:52.719Z"
   },
   {
     "id": 3542127812,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/the-best-countries-to-retire-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:02.061Z"
+    "scrapedAt": "2026-10-23T11:19:52.742Z"
   },
   {
     "id": 2797384667,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/the-strange-business-of-roman-abramovich-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:02.147Z"
+    "scrapedAt": "2026-10-23T11:19:53.052Z"
   },
   {
     "id": 1428559781,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/indias-big-river-project-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:02.445Z"
+    "scrapedAt": "2026-10-23T11:19:56.049Z"
   },
   {
     "id": 429529056,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:04.398Z"
+    "scrapedAt": "2026-10-23T11:19:55.960Z"
   },
   {
     "id": 1482548838,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:04.487Z"
+    "scrapedAt": "2026-10-23T11:19:55.845Z"
   },
   {
     "id": 427067333,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/a-womens-village-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:04.736Z"
+    "scrapedAt": "2026-10-23T11:19:55.972Z"
   },
   {
     "id": 882950779,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/a-couple-sells-fake-taylor-swift-tickets-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:05.131Z"
+    "scrapedAt": "2026-10-23T11:19:56.041Z"
   },
   {
     "id": 599892767,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-durian-is-becoming-popular-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:04.896Z"
+    "scrapedAt": "2026-10-23T11:19:56.333Z"
   },
   {
     "id": 4233363327,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/lithuania-and-nuclear-weapons-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:05.047Z"
+    "scrapedAt": "2026-10-23T11:19:59.114Z"
   },
   {
     "id": 3288655299,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/indonesias-vice-president-has-problems-with-school-papers-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:07.327Z"
+    "scrapedAt": "2026-10-23T11:19:59.295Z"
   },
   {
     "id": 883173375,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/a-lab-worker-dies-in-russia-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:07.188Z"
+    "scrapedAt": "2026-10-23T11:19:59.121Z"
   },
   {
     "id": 1982986862,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/french-students-protest-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:07.766Z"
+    "scrapedAt": "2026-10-23T11:19:59.176Z"
   },
   {
     "id": 1209302248,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/is-the-internet-dead-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:08.007Z"
+    "scrapedAt": "2026-10-23T11:19:59.154Z"
   },
   {
     "id": 4172865108,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/disney-animal-kingdom-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:08.040Z"
+    "scrapedAt": "2026-10-23T11:20:02.313Z"
   },
   {
     "id": 538702530,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/are-wind-turbines-safe-for-birds-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:09.982Z"
+    "scrapedAt": "2026-10-23T11:20:02.134Z"
   },
   {
     "id": 820406029,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/indias-luxury-fashion-industry-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:09.904Z"
+    "scrapedAt": "2026-10-23T11:20:02.118Z"
   },
   {
     "id": 579872748,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/a-woman-still-lives-after-an-execution-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:10.026Z"
+    "scrapedAt": "2026-10-23T11:20:02.274Z"
   },
   {
     "id": 55521327,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/gen-z-and-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:10.432Z"
+    "scrapedAt": "2026-10-23T11:20:02.337Z"
   },
   {
     "id": 889569892,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/a-shark-in-a-canal-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:10.870Z"
+    "scrapedAt": "2026-10-23T11:20:02.324Z"
   },
   {
     "id": 481875836,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/brazilians-have-problems-with-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:11.267Z"
+    "scrapedAt": "2026-10-23T11:20:05.401Z"
   },
   {
     "id": 1857483805,
@@ -809,7 +838,7 @@
         "url": "https://www.newsinlevels.com/products/the-swiss-vote-on-neutrality-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T04:11:12.619Z"
+    "scrapedAt": "2026-10-23T11:20:05.408Z"
   },
   {
     "id": 1961076135,
@@ -1650,7 +1679,7 @@
         "url": "https://www.newsinlevels.com/products/robot-saves-grain-level-3"
       }
     },
-    "scrapedAt": "2026-10-20T04:18:02.777Z"
+    "scrapedAt": "2026-10-23T11:19:49.553Z"
   },
   {
     "id": 3886257463,
