@@ -1,5 +1,34 @@
 [
   {
+    "id": 1440195825,
+    "title": "Israel’s election and Iran",
+    "date": "23-10-2026 15:00",
+    "levels": {
+      "1": {
+        "title": "Israel’s election and Iran",
+        "date": "23-10-2026 15:00",
+        "content": "Israel is getting ready for a big election. The conflict with Iran is an important topic. Many people want to keep fighting Iran.\n\nOpponents of Prime Minister Benjamin Netanyahu say that he does not win the war. But he says that he will do it. Other politicians say that Iran still has nuclear materials. Israel is a dangerous country for them. Others want to bomb Iranian oil and energy sites to hurt its government.\n\nSome leaders also worry that Netanyahu may start new attacks just before the election. It can make more people vote for him.",
+        "words": "<strong>election</strong> (when people choose a leader), <strong>topic</strong> (what you speak or think about), <strong>opponent</strong> (a person who has different ideas than the leader).",
+        "url": "https://www.newsinlevels.com/products/israels-election-and-iran-level-1"
+      },
+      "2": {
+        "title": "Israel’s election and Iran",
+        "date": "23-10-2026 15:00",
+        "content": "The ongoing war with Iran is the main topic in the upcoming Israeli elections. Most Israeli voters want attacks against Iran to continue. Opposition parties strongly criticize Prime Minister Benjamin Netanyahu for not winning.\n\nOpposition leaders warn that Iran still holds dangerous amounts of uranium which could quickly be turned into nuclear weapons. Other politicians propose bombing Iran’s energy facilities to destroy its economy and overthrow the government.\n\nAlthough politicians agree that Iran is an enemy, they fear Netanyahu may restart military strikes right before election day to get votes or delay the election process. They argue that winning the election is the priority, while future military steps should wait until a new leader is in place.",
+        "words": "<strong>upcoming</strong> (happening in the near future), <strong>overthrow</strong> (to remove a leader of government by force), <strong>priority</strong> (something more important than other things).",
+        "url": "https://www.newsinlevels.com/products/israels-election-and-iran-level-2"
+      },
+      "3": {
+        "title": "Israel’s election and Iran",
+        "date": "23-10-2026 15:00",
+        "content": "As Israel approaches its national election, security strategy toward Iran has become a central campaign issue.\n\nPublic opinion polls show that a majority of Israeli voters oppose stopping military attacks on Iran. This leaves Prime Minister Benjamin Netanyahu open to criticism from opposition rivals who argue he failed to achieve total victory. The lead opposition candidate contends the conflict remains unfinished and highlights that Tehran keeps hundreds of kilograms of highly enriched uranium capable of producing multiple nuclear weapons. Other opposition figures support aggressive military action, including targeting Iranian energy infrastructure to collapse the regime’s economy. While the opposition shares the goal of confronting regional adversaries and expanding diplomatic alliances, critics warn that their proposed policies rely heavily on continuous military dominance. Meanwhile, opposition leaders express concern that Netanyahu might intentionally reignite hostilities with Iran before the vote to change public opinion or disrupt the upcoming election.",
+        "words": "<strong>contend</strong> (to assert something strongly in an argument), <strong>adversary</strong> (an opponent or enemy in a conflict), <strong>reignite</strong> (to restart a conflict).",
+        "url": "https://www.newsinlevels.com/products/israels-election-and-iran-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-23T16:48:26.632Z"
+  },
+  {
     "id": 985748562,
     "title": "A religious leader in court",
     "date": "23-10-2026 07:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/a-religious-leader-in-court-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:49.559Z"
+    "scrapedAt": "2026-10-23T16:48:26.202Z"
   },
   {
     "id": 1254724743,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/kenya-and-plastics-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:49.445Z"
+    "scrapedAt": "2026-10-23T16:48:26.343Z"
   },
   {
     "id": 687254074,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/pumpkin-festival-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:49.759Z"
+    "scrapedAt": "2026-10-23T16:48:26.990Z"
   },
   {
     "id": 3651233834,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/space-elevator-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:49.595Z"
+    "scrapedAt": "2026-10-23T16:48:27.590Z"
   },
   {
     "id": 2664266100,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/bangladesh-is-fighting-a-dangerous-disease-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:49.703Z"
+    "scrapedAt": "2026-10-23T16:48:29.303Z"
   },
   {
     "id": 2720559862,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/farming-in-iceland-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:52.794Z"
+    "scrapedAt": "2026-10-23T16:48:29.782Z"
   },
   {
     "id": 3165723216,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/why-does-tech-cost-more-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:52.691Z"
+    "scrapedAt": "2026-10-23T16:48:29.571Z"
   },
   {
     "id": 2359391957,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/hackers-attack-french-supermarkets-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:52.719Z"
+    "scrapedAt": "2026-10-23T16:48:29.906Z"
   },
   {
     "id": 3542127812,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/the-best-countries-to-retire-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:52.742Z"
+    "scrapedAt": "2026-10-23T16:48:29.845Z"
   },
   {
     "id": 2797384667,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/the-strange-business-of-roman-abramovich-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:53.052Z"
+    "scrapedAt": "2026-10-23T16:48:31.874Z"
   },
   {
     "id": 1428559781,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/indias-big-river-project-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:56.049Z"
+    "scrapedAt": "2026-10-23T16:48:32.141Z"
   },
   {
     "id": 429529056,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:55.960Z"
+    "scrapedAt": "2026-10-23T16:48:32.436Z"
   },
   {
     "id": 1482548838,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:55.845Z"
+    "scrapedAt": "2026-10-23T16:48:32.570Z"
   },
   {
     "id": 427067333,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/a-womens-village-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:55.972Z"
+    "scrapedAt": "2026-10-23T16:48:32.583Z"
   },
   {
     "id": 882950779,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/a-couple-sells-fake-taylor-swift-tickets-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:56.041Z"
+    "scrapedAt": "2026-10-23T16:48:32.772Z"
   },
   {
     "id": 599892767,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-durian-is-becoming-popular-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:56.333Z"
+    "scrapedAt": "2026-10-23T16:48:34.736Z"
   },
   {
     "id": 4233363327,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/lithuania-and-nuclear-weapons-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:59.114Z"
+    "scrapedAt": "2026-10-23T16:48:35.102Z"
   },
   {
     "id": 3288655299,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/indonesias-vice-president-has-problems-with-school-papers-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:59.295Z"
+    "scrapedAt": "2026-10-23T16:48:35.279Z"
   },
   {
     "id": 883173375,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/a-lab-worker-dies-in-russia-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:59.121Z"
+    "scrapedAt": "2026-10-23T16:48:35.760Z"
   },
   {
     "id": 1982986862,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/french-students-protest-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:59.176Z"
+    "scrapedAt": "2026-10-23T16:48:35.897Z"
   },
   {
     "id": 1209302248,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/is-the-internet-dead-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:59.154Z"
+    "scrapedAt": "2026-10-23T16:48:37.739Z"
   },
   {
     "id": 4172865108,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/disney-animal-kingdom-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:20:02.313Z"
+    "scrapedAt": "2026-10-23T16:48:37.973Z"
   },
   {
     "id": 538702530,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/are-wind-turbines-safe-for-birds-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:20:02.134Z"
+    "scrapedAt": "2026-10-23T16:48:38.040Z"
   },
   {
     "id": 820406029,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/indias-luxury-fashion-industry-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:20:02.118Z"
+    "scrapedAt": "2026-10-23T16:48:38.088Z"
   },
   {
     "id": 579872748,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/a-woman-still-lives-after-an-execution-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:20:02.274Z"
+    "scrapedAt": "2026-10-23T16:48:38.624Z"
   },
   {
     "id": 55521327,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/gen-z-and-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:20:02.337Z"
+    "scrapedAt": "2026-10-23T16:48:38.867Z"
   },
   {
     "id": 889569892,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/a-shark-in-a-canal-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:20:02.324Z"
+    "scrapedAt": "2026-10-23T16:48:40.435Z"
   },
   {
     "id": 481875836,
@@ -809,7 +838,7 @@
         "url": "https://www.newsinlevels.com/products/brazilians-have-problems-with-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:20:05.401Z"
+    "scrapedAt": "2026-10-23T16:48:40.756Z"
   },
   {
     "id": 1857483805,
@@ -1679,7 +1708,7 @@
         "url": "https://www.newsinlevels.com/products/robot-saves-grain-level-3"
       }
     },
-    "scrapedAt": "2026-10-23T11:19:49.553Z"
+    "scrapedAt": "2026-10-23T16:48:26.469Z"
   },
   {
     "id": 3886257463,
