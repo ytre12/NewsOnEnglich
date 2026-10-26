@@ -1,5 +1,34 @@
 [
   {
+    "id": 1599145571,
+    "title": "To buy or to rent?",
+    "date": "26-10-2026 15:00",
+    "levels": {
+      "1": {
+        "title": "To buy or to rent?",
+        "date": "26-10-2026 15:00",
+        "content": "Twin sisters Morgan and Lisa move into the same kind of house. Morgan buys her home. Lisa rents hers.\n\nMorgan must pay a lot of money in the beginning. She repairs the house when things break. After 30 years, Morgan pays off her home loan, and her house becomes worth a lot of money. She buys the house for 400,000 dollars. After 30 years, she can sell it for 1.3 million. Lisa pays rent every month. She does not pay for repairs. She saves money. She has a retirement account. After 30 years, she pays 900,000 dollars for rent. But she has 500,000 in her retirement account.\n\nIn the end, Morgan makes more money by buying. But Lisa is free to move. She can spend on hobbies, not a house.",
+        "words": "<strong>twin sister</strong> (a girl who is born at the same time to the same mother as another child), <strong>rent</strong> (the money which you pay when you live in someone’s house or flat), <strong>retirement account</strong> (an account where you save money for the time after finishing work).",
+        "url": "https://www.newsinlevels.com/products/to-buy-or-to-rent-level-1"
+      },
+      "2": {
+        "title": "To buy or to rent?",
+        "date": "26-10-2026 15:00",
+        "content": "To see if buying or renting a home is better, we can follow twin sisters Morgan and Lisa over 30 years.\n\nMorgan bought a house for 400,000 dollars and she used a mortgage loan. She had to pay a large down payment and all repair costs herself. She spent 1.4 million in total, but her house became worth 1.3 million. On the other hand, Lisa rented her house, which means she started with much smaller costs. Her landlord paid for all home repairs, and Lisa invested her saved cash into a retirement account. After 30 years, Lisa spent 900,000 dollars on rent, but her investments grew to 500,000.\n\nWhile buying gave Morgan a stronger financial outcome in the long run, renting provided Lisa with more freedom, flexibility to move, and lower monthly costs early on.",
+        "words": "<strong>mortgage loan</strong> (a bank loan for buying a house), <strong>down payment</strong> (the money which you pay at the beginning when you buy a house), <strong>landlord</strong> (a person or company which owns a house or flat and rents it).",
+        "url": "https://www.newsinlevels.com/products/to-buy-or-to-rent-level-2"
+      },
+      "3": {
+        "title": "To buy or to rent?",
+        "date": "26-10-2026 15:00",
+        "content": "Using the example of twin sisters Morgan and Lisa living in identical houses, we can explore the financial realities of buying versus renting a home over 30 years.\n\nMorgan bought her home for 400,000 dollars, paid a 50,000 down payment and closing costs, followed by fixed monthly mortgage payments, property taxes, maintenance, and repair expenses. Lisa opted to rent. She started at 1,800 dollars a month with significantly lower initial costs, and invested her unused down payment capital into a diversified retirement fund.\n\nOver three decades, Morgan spent 1.4 million dollars on housing and repairs, but her home grew in value to 1.3 million, which gave her long-term equity and lower future costs once the mortgage was paid off. On the other hand, Lisa spent 900,000 dollars in total rent, but her invested savings grew to 500,000. While Morgan achieved a better overall financial net position, Lisa enjoyed lower short-term expenses, freedom from maintenance responsibilities, and geographic flexibility.",
+        "words": "<strong>down payment</strong> (a cash payment made when buying a house or expensive item, covering a part of the total price), <strong>initial</strong> (happening at the beginning of a process or event), <strong>equity</strong> (the financial value of a property minus the remaining mortgage debt owed on it).",
+        "url": "https://www.newsinlevels.com/products/to-buy-or-to-rent-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-26T22:29:45.325Z"
+  },
+  {
     "id": 3593771987,
     "title": "A man attacks a politician in Australia",
     "date": "26-10-2026 07:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/a-man-attacks-a-politician-in-australia-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:14.630Z"
+    "scrapedAt": "2026-10-26T22:29:45.388Z"
   },
   {
     "id": 1440195825,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/israels-election-and-iran-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:14.673Z"
+    "scrapedAt": "2026-10-26T22:29:45.489Z"
   },
   {
     "id": 985748562,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/a-religious-leader-in-court-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:14.794Z"
+    "scrapedAt": "2026-10-26T22:29:45.551Z"
   },
   {
     "id": 1254724743,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/kenya-and-plastics-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:14.765Z"
+    "scrapedAt": "2026-10-26T22:29:48.159Z"
   },
   {
     "id": 687254074,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/pumpkin-festival-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:17.191Z"
+    "scrapedAt": "2026-10-26T22:29:48.013Z"
   },
   {
     "id": 3651233834,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/space-elevator-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:18.026Z"
+    "scrapedAt": "2026-10-26T22:29:48.168Z"
   },
   {
     "id": 2664266100,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/bangladesh-is-fighting-a-dangerous-disease-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:17.794Z"
+    "scrapedAt": "2026-10-26T22:29:48.227Z"
   },
   {
     "id": 2720559862,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/farming-in-iceland-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:17.859Z"
+    "scrapedAt": "2026-10-26T22:29:48.256Z"
   },
   {
     "id": 3165723216,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/why-does-tech-cost-more-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:18.113Z"
+    "scrapedAt": "2026-10-26T22:29:48.330Z"
   },
   {
     "id": 2359391957,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/hackers-attack-french-supermarkets-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:17.962Z"
+    "scrapedAt": "2026-10-26T22:29:50.784Z"
   },
   {
     "id": 3542127812,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/the-best-countries-to-retire-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:20.224Z"
+    "scrapedAt": "2026-10-26T22:29:51.200Z"
   },
   {
     "id": 2797384667,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/the-strange-business-of-roman-abramovich-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:21.209Z"
+    "scrapedAt": "2026-10-26T22:29:50.998Z"
   },
   {
     "id": 1428559781,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/indias-big-river-project-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:20.988Z"
+    "scrapedAt": "2026-10-26T22:29:50.898Z"
   },
   {
     "id": 429529056,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:21.178Z"
+    "scrapedAt": "2026-10-26T22:29:50.966Z"
   },
   {
     "id": 1482548838,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:21.166Z"
+    "scrapedAt": "2026-10-26T22:29:53.497Z"
   },
   {
     "id": 427067333,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/a-womens-village-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:23.316Z"
+    "scrapedAt": "2026-10-26T22:29:53.516Z"
   },
   {
     "id": 882950779,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/a-couple-sells-fake-taylor-swift-tickets-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:23.279Z"
+    "scrapedAt": "2026-10-26T22:29:53.581Z"
   },
   {
     "id": 599892767,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-durian-is-becoming-popular-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:24.360Z"
+    "scrapedAt": "2026-10-26T22:29:53.700Z"
   },
   {
     "id": 4233363327,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/lithuania-and-nuclear-weapons-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:24.606Z"
+    "scrapedAt": "2026-10-26T22:29:53.672Z"
   },
   {
     "id": 3288655299,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/indonesias-vice-president-has-problems-with-school-papers-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:24.446Z"
+    "scrapedAt": "2026-10-26T22:29:53.666Z"
   },
   {
     "id": 883173375,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/a-lab-worker-dies-in-russia-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:24.663Z"
+    "scrapedAt": "2026-10-26T22:29:56.105Z"
   },
   {
     "id": 1982986862,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/french-students-protest-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:26.475Z"
+    "scrapedAt": "2026-10-26T22:29:56.299Z"
   },
   {
     "id": 1209302248,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/is-the-internet-dead-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:27.574Z"
+    "scrapedAt": "2026-10-26T22:29:56.146Z"
   },
   {
     "id": 4172865108,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/disney-animal-kingdom-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:27.746Z"
+    "scrapedAt": "2026-10-26T22:29:56.456Z"
   },
   {
     "id": 538702530,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/are-wind-turbines-safe-for-birds-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:27.853Z"
+    "scrapedAt": "2026-10-26T22:29:56.289Z"
   },
   {
     "id": 820406029,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/indias-luxury-fashion-industry-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:27.761Z"
+    "scrapedAt": "2026-10-26T22:29:58.148Z"
   },
   {
     "id": 579872748,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/a-woman-still-lives-after-an-execution-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:28.939Z"
+    "scrapedAt": "2026-10-26T22:29:58.897Z"
   },
   {
     "id": 55521327,
@@ -1737,7 +1766,7 @@
         "url": "https://www.newsinlevels.com/products/a-robot-makes-fries-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T12:36:14.614Z"
+    "scrapedAt": "2026-10-26T22:29:45.436Z"
   },
   {
     "id": 2078033741,
