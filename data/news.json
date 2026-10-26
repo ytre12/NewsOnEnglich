@@ -1,5 +1,34 @@
 [
   {
+    "id": 3593771987,
+    "title": "A man attacks a politician in Australia",
+    "date": "26-10-2026 07:00",
+    "levels": {
+      "1": {
+        "title": "A man attacks a politician in Australia",
+        "date": "26-10-2026 07:00",
+        "content": "An Australian politician named Helen Haines is badly hurt. A man in a car attacks her outside her office. She loses a leg in the hospital.\n\nThe driver hits her on purpose. A local barber helps stop the driver. Police catch him. He is 43 years old. Australian leaders are very sad and shocked.\n\nHaines is a kind person who works hard for her area. Australian Prime Minister asks people to stop using bad and angry words in politics. Many people wish Haines to get well soon.",
+        "words": "<strong>on purpose</strong> (when you do something and you plan it before), <strong>barber</strong> (a person who cuts and styles people’s hair and men’s beards), <strong>shocked</strong> (very surprised and upset).",
+        "url": "https://www.newsinlevels.com/products/a-man-attacks-a-politician-in-australia-level-1"
+      },
+      "2": {
+        "title": "A man attacks a politician in Australia",
+        "date": "26-10-2026 07:00",
+        "content": "An Australian politician named Helen Haines is fighting for her life after a driver deliberately hit her with a car outside her office. She suffered severe injuries, and doctors had to amputate her leg.\n\nA brave local barber stopped the driver and took away a knife he had before police arrested him. Police charged a 43-year-old man in connection with the attack. Australian Prime Minister condemned the attack and asked leaders to stop angry political language across the country. People know Haines as a popular politician who works closely with her local community. This terrible event shocked Australians and raised serious worries about safety for politicians who normally meet people easily in public.",
+        "words": "<strong>deliberately</strong> (done on purpose), <strong>amputate</strong> (to cut off a part of the body), <strong>condemn</strong> (to openly say that you disagree with something).",
+        "url": "https://www.newsinlevels.com/products/a-man-attacks-a-politician-in-australia-level-2"
+      },
+      "3": {
+        "title": "A man attacks a politician in Australia",
+        "date": "26-10-2026 07:00",
+        "content": "Independent Australian lawmaker Helen Haines remains in critical condition following a shocking vehicle attack outside her electorate office in Wangaratta, Victoria.\n\nA 43-year-old suspect allegedly rammed his car into her while she was standing near the trunk of her vehicle, and then backed up to strike her again. A local barber disarmed and held the suspect until police arrived. Authorities have charged the suspect, while counterterrorism units and federal police assist with the investigation. The attack resulted in the amputation of one of the woman’s legs, and surgeons are working to save her other leg.\n\nHaines is known for her political integrity and independent work representing regional interests, and she is widely respected across party lines. Prime Minister Anthony Albanese called the event a deliberate act and warned against growing hostility and rhetoric directed at elected officials. The incident has raised deep concerns about security and the changing safety of public access to politicians in Australia.",
+        "words": "<strong>electorate office</strong> (an office maintained by an elected representative in their local district to serve and meet with local citizens), <strong>amputation</strong> (the surgical removal of a limb or part of the body), <strong>hostility</strong> (aggressive, unfriendly behavior or feelings towards someone), <strong>rhetoric </strong>(language used to influence people, often used in political debates).",
+        "url": "https://www.newsinlevels.com/products/a-man-attacks-a-politician-in-australia-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-26T12:36:14.630Z"
+  },
+  {
     "id": 1440195825,
     "title": "Israel’s election and Iran",
     "date": "23-10-2026 15:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/israels-election-and-iran-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:08:55.384Z"
+    "scrapedAt": "2026-10-26T12:36:14.673Z"
   },
   {
     "id": 985748562,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/a-religious-leader-in-court-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:08:55.775Z"
+    "scrapedAt": "2026-10-26T12:36:14.794Z"
   },
   {
     "id": 1254724743,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/kenya-and-plastics-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:08:55.969Z"
+    "scrapedAt": "2026-10-26T12:36:14.765Z"
   },
   {
     "id": 687254074,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/pumpkin-festival-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:08:56.618Z"
+    "scrapedAt": "2026-10-26T12:36:17.191Z"
   },
   {
     "id": 3651233834,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/space-elevator-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:08:58.253Z"
+    "scrapedAt": "2026-10-26T12:36:18.026Z"
   },
   {
     "id": 2664266100,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/bangladesh-is-fighting-a-dangerous-disease-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:08:58.514Z"
+    "scrapedAt": "2026-10-26T12:36:17.794Z"
   },
   {
     "id": 2720559862,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/farming-in-iceland-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:08:58.474Z"
+    "scrapedAt": "2026-10-26T12:36:17.859Z"
   },
   {
     "id": 3165723216,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/why-does-tech-cost-more-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:08:58.903Z"
+    "scrapedAt": "2026-10-26T12:36:18.113Z"
   },
   {
     "id": 2359391957,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/hackers-attack-french-supermarkets-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:08:58.711Z"
+    "scrapedAt": "2026-10-26T12:36:17.962Z"
   },
   {
     "id": 3542127812,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/the-best-countries-to-retire-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:08:59.866Z"
+    "scrapedAt": "2026-10-26T12:36:20.224Z"
   },
   {
     "id": 2797384667,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/the-strange-business-of-roman-abramovich-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:01.883Z"
+    "scrapedAt": "2026-10-26T12:36:21.209Z"
   },
   {
     "id": 1428559781,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/indias-big-river-project-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:01.787Z"
+    "scrapedAt": "2026-10-26T12:36:20.988Z"
   },
   {
     "id": 429529056,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:01.514Z"
+    "scrapedAt": "2026-10-26T12:36:21.178Z"
   },
   {
     "id": 1482548838,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:01.923Z"
+    "scrapedAt": "2026-10-26T12:36:21.166Z"
   },
   {
     "id": 427067333,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/a-womens-village-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:02.930Z"
+    "scrapedAt": "2026-10-26T12:36:23.316Z"
   },
   {
     "id": 882950779,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/a-couple-sells-fake-taylor-swift-tickets-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:03.936Z"
+    "scrapedAt": "2026-10-26T12:36:23.279Z"
   },
   {
     "id": 599892767,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-durian-is-becoming-popular-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:04.282Z"
+    "scrapedAt": "2026-10-26T12:36:24.360Z"
   },
   {
     "id": 4233363327,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/lithuania-and-nuclear-weapons-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:04.671Z"
+    "scrapedAt": "2026-10-26T12:36:24.606Z"
   },
   {
     "id": 3288655299,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/indonesias-vice-president-has-problems-with-school-papers-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:05.034Z"
+    "scrapedAt": "2026-10-26T12:36:24.446Z"
   },
   {
     "id": 883173375,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/a-lab-worker-dies-in-russia-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:04.667Z"
+    "scrapedAt": "2026-10-26T12:36:24.663Z"
   },
   {
     "id": 1982986862,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/french-students-protest-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:06.880Z"
+    "scrapedAt": "2026-10-26T12:36:26.475Z"
   },
   {
     "id": 1209302248,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/is-the-internet-dead-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:07.093Z"
+    "scrapedAt": "2026-10-26T12:36:27.574Z"
   },
   {
     "id": 4172865108,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/disney-animal-kingdom-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:07.770Z"
+    "scrapedAt": "2026-10-26T12:36:27.746Z"
   },
   {
     "id": 538702530,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/are-wind-turbines-safe-for-birds-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:07.887Z"
+    "scrapedAt": "2026-10-26T12:36:27.853Z"
   },
   {
     "id": 820406029,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/indias-luxury-fashion-industry-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:08.061Z"
+    "scrapedAt": "2026-10-26T12:36:27.761Z"
   },
   {
     "id": 579872748,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/a-woman-still-lives-after-an-execution-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:08.943Z"
+    "scrapedAt": "2026-10-26T12:36:28.939Z"
   },
   {
     "id": 55521327,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/gen-z-and-money-level-3"
       }
     },
-    "scrapedAt": "2026-10-26T04:09:09.930Z"
+    "scrapedAt": "2026-10-26T12:36:29.821Z"
   },
   {
     "id": 889569892,
@@ -1680,6 +1709,35 @@
       }
     },
     "scrapedAt": "2026-10-05T05:00:05.013Z"
+  },
+  {
+    "id": 1456250401,
+    "title": "One Year ago: A robot makes fries",
+    "date": "30-10-2025 15:00",
+    "levels": {
+      "1": {
+        "title": "One Year ago: A robot makes fries",
+        "date": "30-10-2025 15:00",
+        "content": "In California, US, company Miso Robotics makes a special robot. The robot helps in restaurants.\n\nThe robot has arms. Robots in car factories have similar arms. At first, the robot only turns burgers. Workers think that the robot can do other things, too.\n\nNow, the robot makes french fries, fried onions, and other meals. A computer controls the robot.\n\nThe robot works faster than people. It can do more tasks at the same time. The robot knows exactly when the food is ready.\n\nThe robot does tasks which nobody wants to do. Workers are happy that somebody does this demanding work. The work is easier for them at night.",
+        "words": "<strong>control</strong> (to have power over something), <strong>exactly</strong> (right), <strong>demanding</strong> (very difficult).",
+        "url": "https://www.newsinlevels.com/products/a-robot-makes-fries-level-1"
+      },
+      "2": {
+        "title": "One Year ago: A robot makes fries",
+        "date": "30-10-2025 15:00",
+        "content": "In California, US, Miso Robotics developed a robot which works in fast food restaurants.\n\nAt first, the robot only turned burgers, but workers soon realized that it could do more tasks. Now, the robot does several tasks at once. For example, it prepares french fries or onion rings.\n\nWhen an order comes, a worker sends instructions to the robot. The robot uses special arms that look similar to those in car factories. The robot’s advantage can do many tasks at the same time, which saves a lot of time and work.\n\nThe robot uses AI and cameras and is faster than humans. It prepares meals for the right amount of time, and people are happy that they don’t have to do the work, especially at night.",
+        "words": "<strong>instruction</strong> (directions to do something), <strong>advantage</strong> (a thing which makes something special or interesting), <strong>AI</strong> (when a computer controls another computer or robot).",
+        "url": "https://www.newsinlevels.com/products/a-robot-makes-fries-level-2"
+      },
+      "3": {
+        "title": "One Year ago: A robot makes fries",
+        "date": "30-10-2025 15:00",
+        "content": "Flippy 2 is an AI robotic fry station developed by automation company Miso Robotics in California, US.\n\nThe robot completes all the tasks of cooking fried food for fast food restaurants, so it removes much of the human work. The machine also can cook different meals simultaneously, which removes the need for catering staff, and it hurries the drive-through process.\n\nFlippy 2’s robotic arm is similar to a machine in car plants, and cameras and AI power its manufacturing. When an order comes, the robot automatically receives instructions, it takes a frozen product, fries it for the precise amount of time, and puts the finished product in a box.\n\nAccording to Miso’s CEO, the robot works faster, more accurately, more reliably, and happier than most humans. Positions at frying stations are the hardest to fill and retain, so the robot doesn’t take workers’ jobs. People are delighted to have the help, so they can do other tasks.",
+        "words": "<strong>automation</strong> (the use of machines and computers instead of people to do a job), <strong>simultaneously</strong> (at the same time), <strong>retain</strong> (to keep or continue to have).",
+        "url": "https://www.newsinlevels.com/products/a-robot-makes-fries-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-26T12:36:14.614Z"
   },
   {
     "id": 2078033741,
