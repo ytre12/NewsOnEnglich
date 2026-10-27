@@ -1,5 +1,34 @@
 [
   {
+    "id": 2577216895,
+    "title": "No more horses in the streets of New York",
+    "date": "27-10-2026 15:00",
+    "levels": {
+      "1": {
+        "title": "No more horses in the streets of New York",
+        "date": "27-10-2026 15:00",
+        "content": "New York City wants to stop horse carriages in Central Park by 2028. Many people say that working in the city is bad and dangerous for horses.\n\nA bad accident with a horse happens some time ago. A tourist dies. Now, city leaders want to ban the rides. Drivers and workers are sad and angry. They will lose their jobs. They say that carriages are an old tradition. It belongs to New York since the 1800s. City leaders want to help the workers and keep the horses safe.\n\nMany visitors say that it is time to keep the animals safe. There are other ways to see the park than using horses.",
+        "words": "<strong>horse carriage</strong> (a vehicle with wheels which a horse or more horses pull), <strong>ban</strong> (an official stop), <strong>tradition</strong> (something what people do for a long time).",
+        "url": "https://www.newsinlevels.com/products/no-more-horses-in-the-streets-of-new-york-level-1"
+      },
+      "2": {
+        "title": "No more horses in the streets of New York",
+        "date": "27-10-2026 15:00",
+        "content": "New York City is planning to ban horse-drawn carriages in Central Park by June 2028. Animal rights groups criticized the carriages for years and said the horses work in unsafe conditions alongside cars.\n\nSupport for the ban grew stronger after a tourist died in an accident involving a carriage. While the city mayor supports the new law, drivers and union workers are fighting against it. They say the carriages are a famous tradition from the 1800s and that the ban will destroy many jobs. The city plans to help workers transition and promises that the horses will not be killed.\n\nWhile some tourists will miss the classic rides, many people believe it is time to stop using horses for entertainment.",
+        "words": "<strong>union</strong> (an official organization of workers formed to protect their rights and interests), <strong>transition</strong> (the process or period of changing from one state or job to another), <strong>entertainment</strong> (activities provided for people to enjoy).",
+        "url": "https://www.newsinlevels.com/products/no-more-horses-in-the-streets-of-new-york-level-2"
+      },
+      "3": {
+        "title": "No more horses in the streets of New York",
+        "date": "27-10-2026 15:00",
+        "content": "New York City lawmakers will vote on a bill to ban Central Park’s historic horse-drawn carriages by June 2028.\n\nActivists have long argued that operating horses on busy city streets is inhumane and unsafe. Support for the ban surged following a fatal accident in which a young tourist died when a horse bolted. City officials, including the mayor, support the phase-out and propose transition plans to compensate owners and protect horses from being slaughtered. However, the proposal faces strong opposition from drivers and the Transport Workers Union, who argue that the tradition has existed since the 1800s and provides a livelihood for hundreds of workers.\n\nWhile some visitors regret losing an iconic city tradition, others welcome the change and point to modern alternatives that don’t involve animal labor.",
+        "words": "<strong>inhumane</strong> (causing unnecessary suffering to people or animals; without kindness), <strong>bolt</strong> (to suddenly run away out of control, usually because of fear or shock), <strong>phase-out</strong> (ending or stopping something gradually over a period of time).",
+        "url": "https://www.newsinlevels.com/products/no-more-horses-in-the-streets-of-new-york-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-27T17:47:29.075Z"
+  },
+  {
     "id": 4067693699,
     "title": "Musk slows down internet for Ukraine",
     "date": "27-10-2026 07:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/musk-slows-down-internet-for-ukraine-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:19.721Z"
+    "scrapedAt": "2026-10-27T17:47:29.265Z"
   },
   {
     "id": 1599145571,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/to-buy-or-to-rent-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:20.023Z"
+    "scrapedAt": "2026-10-27T17:47:30.030Z"
   },
   {
     "id": 3593771987,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/a-man-attacks-a-politician-in-australia-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:20.070Z"
+    "scrapedAt": "2026-10-27T17:47:29.524Z"
   },
   {
     "id": 1440195825,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/israels-election-and-iran-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:20.064Z"
+    "scrapedAt": "2026-10-27T17:47:32.481Z"
   },
   {
     "id": 985748562,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/a-religious-leader-in-court-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:22.706Z"
+    "scrapedAt": "2026-10-27T17:47:32.363Z"
   },
   {
     "id": 1254724743,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/kenya-and-plastics-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:22.685Z"
+    "scrapedAt": "2026-10-27T17:47:32.475Z"
   },
   {
     "id": 687254074,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/pumpkin-festival-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:22.963Z"
+    "scrapedAt": "2026-10-27T17:47:32.672Z"
   },
   {
     "id": 3651233834,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/space-elevator-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:23.088Z"
+    "scrapedAt": "2026-10-27T17:47:32.657Z"
   },
   {
     "id": 2664266100,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/bangladesh-is-fighting-a-dangerous-disease-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:23.034Z"
+    "scrapedAt": "2026-10-27T17:47:33.300Z"
   },
   {
     "id": 2720559862,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/farming-in-iceland-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:22.862Z"
+    "scrapedAt": "2026-10-27T17:47:35.498Z"
   },
   {
     "id": 3165723216,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/why-does-tech-cost-more-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:25.845Z"
+    "scrapedAt": "2026-10-27T17:47:35.501Z"
   },
   {
     "id": 2359391957,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/hackers-attack-french-supermarkets-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:25.928Z"
+    "scrapedAt": "2026-10-27T17:47:35.469Z"
   },
   {
     "id": 3542127812,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/the-best-countries-to-retire-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:26.026Z"
+    "scrapedAt": "2026-10-27T17:47:35.708Z"
   },
   {
     "id": 2797384667,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/the-strange-business-of-roman-abramovich-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:26.068Z"
+    "scrapedAt": "2026-10-27T17:47:36.417Z"
   },
   {
     "id": 1428559781,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/indias-big-river-project-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:26.048Z"
+    "scrapedAt": "2026-10-27T17:47:38.667Z"
   },
   {
     "id": 429529056,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:28.748Z"
+    "scrapedAt": "2026-10-27T17:47:38.959Z"
   },
   {
     "id": 1482548838,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:28.868Z"
+    "scrapedAt": "2026-10-27T17:47:38.692Z"
   },
   {
     "id": 427067333,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/a-womens-village-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:28.805Z"
+    "scrapedAt": "2026-10-27T17:47:38.152Z"
   },
   {
     "id": 882950779,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/a-couple-sells-fake-taylor-swift-tickets-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:28.955Z"
+    "scrapedAt": "2026-10-27T17:47:38.772Z"
   },
   {
     "id": 599892767,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-durian-is-becoming-popular-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:28.944Z"
+    "scrapedAt": "2026-10-27T17:47:39.492Z"
   },
   {
     "id": 4233363327,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/lithuania-and-nuclear-weapons-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:29.084Z"
+    "scrapedAt": "2026-10-27T17:47:41.204Z"
   },
   {
     "id": 3288655299,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/indonesias-vice-president-has-problems-with-school-papers-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:31.769Z"
+    "scrapedAt": "2026-10-27T17:47:41.404Z"
   },
   {
     "id": 883173375,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/a-lab-worker-dies-in-russia-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:31.718Z"
+    "scrapedAt": "2026-10-27T17:47:41.579Z"
   },
   {
     "id": 1982986862,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/french-students-protest-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:31.783Z"
+    "scrapedAt": "2026-10-27T17:47:41.885Z"
   },
   {
     "id": 1209302248,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/is-the-internet-dead-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:32.045Z"
+    "scrapedAt": "2026-10-27T17:47:42.551Z"
   },
   {
     "id": 4172865108,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/disney-animal-kingdom-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:31.916Z"
+    "scrapedAt": "2026-10-27T17:47:43.933Z"
   },
   {
     "id": 538702530,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/are-wind-turbines-safe-for-birds-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:34.148Z"
+    "scrapedAt": "2026-10-27T17:47:44.337Z"
   },
   {
     "id": 820406029,
@@ -1853,7 +1882,7 @@
         "url": "https://www.newsinlevels.com/products/heineken-sells-less-beer-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T11:53:19.887Z"
+    "scrapedAt": "2026-10-27T17:47:28.998Z"
   },
   {
     "id": 2597350699,
