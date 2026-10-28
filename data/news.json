@@ -1,5 +1,34 @@
 [
   {
+    "id": 4051471249,
+    "title": "AI drones help farmers and the planet",
+    "date": "28-10-2026 15:00",
+    "levels": {
+      "1": {
+        "title": "AI drones help farmers and the planet",
+        "date": "28-10-2026 15:00",
+        "content": "Weeds are wild plants. They grow in fields. Farmers do not want them in their fields.\n\nFarmers use a lot of chemicals. These chemicals kill weeds. But chemicals are not good for nature. Most farming machines are big and expensive. They work only a little bit every year. Another problem is that most chemicals end up in soil and on plants. This way of farming is expensive and it does not work very well.\n\nOne company makes drones. These drones use AI. The drones fly over fields. They find weeds. They spray only weeds. This saves money and the planet, too. The drones save 95% of chemicals.",
+        "words": "<strong>chemical</strong> (a substance which does not come from nature), <strong>soil</strong> (the brown substance in which plants grow), <strong>drone</strong> (a small flying vehicle which a person operates).",
+        "url": "https://www.newsinlevels.com/products/ai-drones-help-farmers-and-the-planet-level-1"
+      },
+      "2": {
+        "title": "AI drones help farmers and the planet",
+        "date": "28-10-2026 15:00",
+        "content": "Farmers need to deal with weeds in a more environmentally friendly way. Global warming makes weeds grow faster which means that farmers must use more chemicals.\n\nThe surprising fact is that 95% of these chemicals go into the soil or they end up on plants. Spraying fields is expensive and very inefficient. Startups like Precision AI are introducing a fresh approach with AI-powered drones which reduce chemical use by up to 90%. Traditional farming uses expensive machines like ground sprayers, which cost a lot and farmers use them only a few weeks a year. Precision AI uses AI drones which scan fields, check plant types, and spray only the weeds. This saves about 95% of chemicals compared to old methods.",
+        "words": "<strong>weed</strong> (a wild plant which grows where people do not want it), <strong>approach</strong> (the way of dealing with a problem or situation), <strong>inefficient</strong> (a person, system, or machine that does not work in the best way and wastes money, time or energy).",
+        "url": "https://www.newsinlevels.com/products/ai-drones-help-farmers-and-the-planet-level-2"
+      },
+      "3": {
+        "title": "AI drones help farmers and the planet",
+        "date": "28-10-2026 15:00",
+        "content": "The urgent need to combat weeds sustainably has been heightened by global warming, which accelerates their growth, posing a threat to crops and food security.\n\nTraditional methods involve excessive chemical spraying, resulting in environmental harm. Startups like Precision AI are introducing innovative solutions, such as AI-enabled crop-spraying drones, which reduce chemical usage by up to 90%. These drones employ AI to precisely identify plant species in real-time, allowing targeted chemical applications to eliminate weeds while minimizing environmental impact.\n\nCurrently, a significant portion of chemicals applied in agriculture goes to waste. Precision AI aims to shift the industry towards a ‘spray as a service’ model, leveraging precision farming technologies. Despite the potential benefits, challenges include navigating international regulations, scaling up the technology, and addressing concerns about job displacement due to autonomous farming.",
+        "words": "<strong>heighten</strong> (to make or become more intense), <strong>leverage</strong> (to use borrowed money for investments), <strong>scale up</strong> (to increase something in size, number, or extent).",
+        "url": "https://www.newsinlevels.com/products/ai-drones-help-farmers-and-the-planet-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-28T22:24:35.704Z"
+  },
+  {
     "id": 1190094529,
     "title": "Sydney must close its beaches",
     "date": "28-10-2026 07:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/sydney-must-close-its-beaches-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:04.926Z"
+    "scrapedAt": "2026-10-28T22:24:35.663Z"
   },
   {
     "id": 2577216895,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/no-more-horses-in-the-streets-of-new-york-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:04.635Z"
+    "scrapedAt": "2026-10-28T22:24:35.858Z"
   },
   {
     "id": 4067693699,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/musk-slows-down-internet-for-ukraine-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:04.918Z"
+    "scrapedAt": "2026-10-28T22:24:35.878Z"
   },
   {
     "id": 1599145571,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/to-buy-or-to-rent-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:04.880Z"
+    "scrapedAt": "2026-10-28T22:24:36.232Z"
   },
   {
     "id": 3593771987,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/a-man-attacks-a-politician-in-australia-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:05.023Z"
+    "scrapedAt": "2026-10-28T22:24:38.458Z"
   },
   {
     "id": 1440195825,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/israels-election-and-iran-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:07.646Z"
+    "scrapedAt": "2026-10-28T22:24:38.624Z"
   },
   {
     "id": 985748562,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/a-religious-leader-in-court-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:07.815Z"
+    "scrapedAt": "2026-10-28T22:24:38.637Z"
   },
   {
     "id": 1254724743,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/kenya-and-plastics-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:07.840Z"
+    "scrapedAt": "2026-10-28T22:24:38.510Z"
   },
   {
     "id": 687254074,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/pumpkin-festival-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:07.781Z"
+    "scrapedAt": "2026-10-28T22:24:38.788Z"
   },
   {
     "id": 3651233834,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/space-elevator-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:07.821Z"
+    "scrapedAt": "2026-10-28T22:24:40.575Z"
   },
   {
     "id": 2664266100,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/bangladesh-is-fighting-a-dangerous-disease-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:09.886Z"
+    "scrapedAt": "2026-10-28T22:24:41.235Z"
   },
   {
     "id": 2720559862,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/farming-in-iceland-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:10.599Z"
+    "scrapedAt": "2026-10-28T22:24:41.285Z"
   },
   {
     "id": 3165723216,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/why-does-tech-cost-more-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:10.648Z"
+    "scrapedAt": "2026-10-28T22:24:41.512Z"
   },
   {
     "id": 2359391957,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/hackers-attack-french-supermarkets-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:10.789Z"
+    "scrapedAt": "2026-10-28T22:24:41.471Z"
   },
   {
     "id": 3542127812,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/the-best-countries-to-retire-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:10.581Z"
+    "scrapedAt": "2026-10-28T22:24:41.506Z"
   },
   {
     "id": 2797384667,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/the-strange-business-of-roman-abramovich-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:12.636Z"
+    "scrapedAt": "2026-10-28T22:24:44.091Z"
   },
   {
     "id": 1428559781,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/indias-big-river-project-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:13.242Z"
+    "scrapedAt": "2026-10-28T22:24:44.029Z"
   },
   {
     "id": 429529056,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:13.577Z"
+    "scrapedAt": "2026-10-28T22:24:44.006Z"
   },
   {
     "id": 1482548838,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:13.592Z"
+    "scrapedAt": "2026-10-28T22:24:44.044Z"
   },
   {
     "id": 427067333,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/a-womens-village-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:13.741Z"
+    "scrapedAt": "2026-10-28T22:24:44.162Z"
   },
   {
     "id": 882950779,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/a-couple-sells-fake-taylor-swift-tickets-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:13.594Z"
+    "scrapedAt": "2026-10-28T22:24:45.771Z"
   },
   {
     "id": 599892767,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-durian-is-becoming-popular-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:15.341Z"
+    "scrapedAt": "2026-10-28T22:24:46.751Z"
   },
   {
     "id": 4233363327,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/lithuania-and-nuclear-weapons-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:16.080Z"
+    "scrapedAt": "2026-10-28T22:24:46.830Z"
   },
   {
     "id": 3288655299,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/indonesias-vice-president-has-problems-with-school-papers-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:16.461Z"
+    "scrapedAt": "2026-10-28T22:24:46.720Z"
   },
   {
     "id": 883173375,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/a-lab-worker-dies-in-russia-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:16.542Z"
+    "scrapedAt": "2026-10-28T22:24:46.956Z"
   },
   {
     "id": 1982986862,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/french-students-protest-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:16.675Z"
+    "scrapedAt": "2026-10-28T22:24:48.582Z"
   },
   {
     "id": 1209302248,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/is-the-internet-dead-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:18.130Z"
+    "scrapedAt": "2026-10-28T22:24:49.224Z"
   },
   {
     "id": 4172865108,
@@ -1911,7 +1940,7 @@
         "url": "https://www.newsinlevels.com/products/russians-like-tea-level-3"
       }
     },
-    "scrapedAt": "2026-10-28T12:29:04.772Z"
+    "scrapedAt": "2026-10-28T22:24:35.711Z"
   },
   {
     "id": 2553818753,
