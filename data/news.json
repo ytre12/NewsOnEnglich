@@ -1,5 +1,34 @@
 [
   {
+    "id": 379475121,
+    "title": "Salmon farming and tech",
+    "date": "29-10-2026 15:00",
+    "levels": {
+      "1": {
+        "title": "Salmon farming and tech",
+        "date": "29-10-2026 15:00",
+        "content": "Salmon farming is a big business. But it has some problems.\n\nNorway and Chile are the biggest salmon producers. The fish often get sick or die. Small parasites attack the fish and make them weak. It is not easy to stop the parasites. Some farms, like Norlock in Norway, use chemicals, fresh water, and even lasers to kill them.\n\nIn Chile, farms use a lot of medicine to keep the fish healthy. But this can hurt the environment. Some farms are now trying a new way of farming. They use big tanks instead of open water. This could help make salmon farming better for the environment.",
+        "words": "<strong>parasite</strong> (an animal or plant which lives on another and feeds from it), <strong>weak</strong> (not strong enough), <strong>environment</strong> (the natural world).",
+        "url": "https://www.newsinlevels.com/products/salmon-farming-and-tech-level-1"
+      },
+      "2": {
+        "title": "Salmon farming and tech",
+        "date": "29-10-2026 15:00",
+        "content": "Salmon farming is a big business and Norway and Chile are the leading producers of farmed salmon. The industry makes billions of dollars, but issues like diseases, fish deaths, and parasites are becoming hard to control.\n\nIn Norway, farms like Norlock are trying to reduce the number of sick fish. They use chemicals, freshwater baths, and even lasers to kill parasites. But even with these new technologies, salmon farming has a lot of problems. Farmed salmon often escape from the nets and can spread disease to wild salmon.\n\nIn Chile, salmon farms use large amounts of antibiotics to fight diseases, but this can also harm the environment and human health. Some salmon farms are trying new methods, like closed aquaculture, where they keep fish in tanks instead of in open water. This could help make salmon farming more sustainable in the future.",
+        "words": "<strong>parasite</strong> (an animal or plant which lives on another animal or plant and feeds from it), <strong>escape</strong> (to get free from a place), <strong>antibiotic</strong> (a medicine which destroys bacteria in the body).",
+        "url": "https://www.newsinlevels.com/products/salmon-farming-and-tech-level-2"
+      },
+      "3": {
+        "title": "Salmon farming and tech",
+        "date": "29-10-2026 15:00",
+        "content": "Salmon farming is a growing, multi-billion-dollar industry. The biggest producers, Norway and Chile, have seen booming profits;\n\nhowever, the industry is facing problems such as mass salmon die-offs, infectious diseases, and environmental damage.\n\nFish farming relies heavily on chemicals and antibiotics to treat parasites that can weaken or kill the fish. A large farm in Norway, Norlock, uses freshwater baths and chemical treatments to combat salmon lice, but these methods can also stress the fish and lead to further health issues. One innovative solution at Norlock involves using laser technology to remove the parasites, reducing infection rates. Also, farms in open sea environments benefit from ocean currents, which can help wash away waste and reduce diseases.\n\nChile’s salmon farms, which are heavily dependent on antibiotics, are also under scrutiny for their environmental impact. New methods like closed aquaculture systems, which keep farmed fish in tanks and prevent contamination, offer hope for a more sustainable future in salmon farming.",
+        "words": "<strong>parasite</strong> (an organism that lives in or on an organism and feeds from it), <strong>innovative</strong> (featuring new methods), <strong>scrutiny</strong> (critical and detailed examination).",
+        "url": "https://www.newsinlevels.com/products/salmon-farming-and-tech-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-29T22:37:25.394Z"
+  },
+  {
     "id": 1024899760,
     "title": "The UK says yes to drilling in the North Sea",
     "date": "29-10-2026 07:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/the-uk-says-yes-to-drilling-in-the-north-sea-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:45.921Z"
+    "scrapedAt": "2026-10-29T22:37:25.229Z"
   },
   {
     "id": 4051471249,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/ai-drones-help-farmers-and-the-planet-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:45.615Z"
+    "scrapedAt": "2026-10-29T22:37:25.332Z"
   },
   {
     "id": 1190094529,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/sydney-must-close-its-beaches-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:45.838Z"
+    "scrapedAt": "2026-10-29T22:37:25.535Z"
   },
   {
     "id": 2577216895,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/no-more-horses-in-the-streets-of-new-york-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:45.780Z"
+    "scrapedAt": "2026-10-29T22:37:25.753Z"
   },
   {
     "id": 4067693699,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/musk-slows-down-internet-for-ukraine-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:45.816Z"
+    "scrapedAt": "2026-10-29T22:37:27.659Z"
   },
   {
     "id": 1599145571,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/to-buy-or-to-rent-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:48.628Z"
+    "scrapedAt": "2026-10-29T22:37:28.204Z"
   },
   {
     "id": 3593771987,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/a-man-attacks-a-politician-in-australia-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:48.700Z"
+    "scrapedAt": "2026-10-29T22:37:28.148Z"
   },
   {
     "id": 1440195825,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/israels-election-and-iran-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:48.854Z"
+    "scrapedAt": "2026-10-29T22:37:28.014Z"
   },
   {
     "id": 985748562,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/a-religious-leader-in-court-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:48.816Z"
+    "scrapedAt": "2026-10-29T22:37:28.673Z"
   },
   {
     "id": 1254724743,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/kenya-and-plastics-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:48.735Z"
+    "scrapedAt": "2026-10-29T22:37:30.308Z"
   },
   {
     "id": 687254074,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/pumpkin-festival-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:51.264Z"
+    "scrapedAt": "2026-10-29T22:37:30.517Z"
   },
   {
     "id": 3651233834,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/space-elevator-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:51.395Z"
+    "scrapedAt": "2026-10-29T22:37:30.757Z"
   },
   {
     "id": 2664266100,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/bangladesh-is-fighting-a-dangerous-disease-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:51.581Z"
+    "scrapedAt": "2026-10-29T22:37:30.605Z"
   },
   {
     "id": 2720559862,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/farming-in-iceland-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:51.530Z"
+    "scrapedAt": "2026-10-29T22:37:30.802Z"
   },
   {
     "id": 3165723216,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/why-does-tech-cost-more-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:51.321Z"
+    "scrapedAt": "2026-10-29T22:37:31.407Z"
   },
   {
     "id": 2359391957,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/hackers-attack-french-supermarkets-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:51.671Z"
+    "scrapedAt": "2026-10-29T22:37:32.940Z"
   },
   {
     "id": 3542127812,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/the-best-countries-to-retire-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:54.249Z"
+    "scrapedAt": "2026-10-29T22:37:33.182Z"
   },
   {
     "id": 2797384667,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/the-strange-business-of-roman-abramovich-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:54.258Z"
+    "scrapedAt": "2026-10-29T22:37:33.755Z"
   },
   {
     "id": 1428559781,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/indias-big-river-project-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:54.199Z"
+    "scrapedAt": "2026-10-29T22:37:33.278Z"
   },
   {
     "id": 429529056,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:54.386Z"
+    "scrapedAt": "2026-10-29T22:37:33.992Z"
   },
   {
     "id": 1482548838,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:54.422Z"
+    "scrapedAt": "2026-10-29T22:37:35.736Z"
   },
   {
     "id": 427067333,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/a-womens-village-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:57.084Z"
+    "scrapedAt": "2026-10-29T22:37:35.834Z"
   },
   {
     "id": 882950779,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/a-couple-sells-fake-taylor-swift-tickets-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:57.324Z"
+    "scrapedAt": "2026-10-29T22:37:35.954Z"
   },
   {
     "id": 599892767,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-durian-is-becoming-popular-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:57.285Z"
+    "scrapedAt": "2026-10-29T22:37:35.899Z"
   },
   {
     "id": 4233363327,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/lithuania-and-nuclear-weapons-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:57.287Z"
+    "scrapedAt": "2026-10-29T22:37:36.676Z"
   },
   {
     "id": 3288655299,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/indonesias-vice-president-has-problems-with-school-papers-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:57.422Z"
+    "scrapedAt": "2026-10-29T22:37:36.793Z"
   },
   {
     "id": 883173375,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/a-lab-worker-dies-in-russia-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:57.404Z"
+    "scrapedAt": "2026-10-29T22:37:38.603Z"
   },
   {
     "id": 1982986862,
@@ -1940,7 +1969,7 @@
         "url": "https://www.newsinlevels.com/products/why-we-say-god-bless-you-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T12:39:45.514Z"
+    "scrapedAt": "2026-10-29T22:37:25.401Z"
   },
   {
     "id": 3435028590,
