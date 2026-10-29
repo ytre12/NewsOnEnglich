@@ -1,5 +1,34 @@
 [
   {
+    "id": 1024899760,
+    "title": "The UK says yes to drilling in the North Sea",
+    "date": "29-10-2026 07:00",
+    "levels": {
+      "1": {
+        "title": "The UK says yes to drilling in the North Sea",
+        "date": "29-10-2026 07:00",
+        "content": "The UK government says yes to getting new gas from under the sea. There is a plan to drill in the North Sea.\n\nLeaders say that this gas will help keep the country safe when energy prices are high. The prime minister says that the country still needs gas, but it also wants clean energy in the future.\n\nMany people are very angry about this decision. They say that getting more gas is bad for the planet. It will not help people get cheaper electricity. They want the government to use clean power like wind and sun instead of oil and gas.",
+        "words": "<strong>drill</strong> (to make a hole in the earth to get oil or gas), <strong>price</strong> (how much money something costs), <strong>decision</strong> (what you do after thinking or talking about it).",
+        "url": "https://www.newsinlevels.com/products/the-uk-says-yes-to-drilling-in-the-north-sea-level-1"
+      },
+      "2": {
+        "title": "The UK says yes to drilling in the North Sea",
+        "date": "29-10-2026 07:00",
+        "content": "The UK government approved a new project to drill for gas in the North Sea. Energy companies say this project will help produce more gas for the country.\n\nLeaders argue that using local gas makes the country safer as global conflict causes energy prices to rise. The prime minister explained that the country still needs gas while moving toward green energy.\n\nEnvironmental groups and green politicians strongly disagree with the plan. They warn that drilling produces harmful emissions and will not lower electricity bills for normal families. Activists argue that the government should focus on renewable energy like wind and solar instead of fossil fuels.",
+        "words": "<strong>approve</strong> (to officially agree), <strong>harmful</strong> (when something hurts living things or the planet), <strong>renewable energy</strong> (energy from natural sources, such as wind, sun, and so on).",
+        "url": "https://www.newsinlevels.com/products/the-uk-says-yes-to-drilling-in-the-north-sea-level-2"
+      },
+      "3": {
+        "title": "The UK says yes to drilling in the North Sea",
+        "date": "29-10-2026 07:00",
+        "content": "The British government has approved drilling at a controversial North Sea gas field, despite strong opposition from environmental groups.\n\nEnergy companies welcomed the decision and predicted the project could supply over six percent of the nation’s gas at peak production. Officials argue that developing domestic resources is necessary to boost national energy security while global conflicts drive up fuel costs. The prime minister stated that although the country remains committed to long-term climate targets, oil and gas will still be needed during the transition to renewable energy.\n\nHowever, climate activists and politicians heavily criticized the approval and warned that increased fossil fuel reliance won’t lower household energy bills because prices are dictated by international markets. They stress that true security requires a faster shift toward clean energy rather than expanding fossil fuel infrastructure.",
+        "words": "<strong>controversial</strong> (causing a lot of angry public discussion and strong disagreement), <strong>dictate</strong> (to state, order, or control authoritatively how something must be done or decide), <strong>reliance</strong> (dependence on someone or something for help or support).",
+        "url": "https://www.newsinlevels.com/products/the-uk-says-yes-to-drilling-in-the-north-sea-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-29T12:39:45.921Z"
+  },
+  {
     "id": 4051471249,
     "title": "AI drones help farmers and the planet",
     "date": "28-10-2026 15:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/ai-drones-help-farmers-and-the-planet-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:19.734Z"
+    "scrapedAt": "2026-10-29T12:39:45.615Z"
   },
   {
     "id": 1190094529,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/sydney-must-close-its-beaches-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:19.849Z"
+    "scrapedAt": "2026-10-29T12:39:45.838Z"
   },
   {
     "id": 2577216895,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/no-more-horses-in-the-streets-of-new-york-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:19.948Z"
+    "scrapedAt": "2026-10-29T12:39:45.780Z"
   },
   {
     "id": 4067693699,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/musk-slows-down-internet-for-ukraine-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:19.705Z"
+    "scrapedAt": "2026-10-29T12:39:45.816Z"
   },
   {
     "id": 1599145571,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/to-buy-or-to-rent-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:19.854Z"
+    "scrapedAt": "2026-10-29T12:39:48.628Z"
   },
   {
     "id": 3593771987,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/a-man-attacks-a-politician-in-australia-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:22.766Z"
+    "scrapedAt": "2026-10-29T12:39:48.700Z"
   },
   {
     "id": 1440195825,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/israels-election-and-iran-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:22.699Z"
+    "scrapedAt": "2026-10-29T12:39:48.854Z"
   },
   {
     "id": 985748562,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/a-religious-leader-in-court-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:22.849Z"
+    "scrapedAt": "2026-10-29T12:39:48.816Z"
   },
   {
     "id": 1254724743,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/kenya-and-plastics-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:22.819Z"
+    "scrapedAt": "2026-10-29T12:39:48.735Z"
   },
   {
     "id": 687254074,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/pumpkin-festival-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:22.792Z"
+    "scrapedAt": "2026-10-29T12:39:51.264Z"
   },
   {
     "id": 3651233834,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/space-elevator-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:25.615Z"
+    "scrapedAt": "2026-10-29T12:39:51.395Z"
   },
   {
     "id": 2664266100,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/bangladesh-is-fighting-a-dangerous-disease-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:25.593Z"
+    "scrapedAt": "2026-10-29T12:39:51.581Z"
   },
   {
     "id": 2720559862,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/farming-in-iceland-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:25.573Z"
+    "scrapedAt": "2026-10-29T12:39:51.530Z"
   },
   {
     "id": 3165723216,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/why-does-tech-cost-more-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:25.887Z"
+    "scrapedAt": "2026-10-29T12:39:51.321Z"
   },
   {
     "id": 2359391957,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/hackers-attack-french-supermarkets-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:25.894Z"
+    "scrapedAt": "2026-10-29T12:39:51.671Z"
   },
   {
     "id": 3542127812,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/the-best-countries-to-retire-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:25.679Z"
+    "scrapedAt": "2026-10-29T12:39:54.249Z"
   },
   {
     "id": 2797384667,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/the-strange-business-of-roman-abramovich-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:28.664Z"
+    "scrapedAt": "2026-10-29T12:39:54.258Z"
   },
   {
     "id": 1428559781,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/indias-big-river-project-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:28.591Z"
+    "scrapedAt": "2026-10-29T12:39:54.199Z"
   },
   {
     "id": 429529056,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:28.620Z"
+    "scrapedAt": "2026-10-29T12:39:54.386Z"
   },
   {
     "id": 1482548838,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:28.806Z"
+    "scrapedAt": "2026-10-29T12:39:54.422Z"
   },
   {
     "id": 427067333,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/a-womens-village-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:28.822Z"
+    "scrapedAt": "2026-10-29T12:39:57.084Z"
   },
   {
     "id": 882950779,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/a-couple-sells-fake-taylor-swift-tickets-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:30.914Z"
+    "scrapedAt": "2026-10-29T12:39:57.324Z"
   },
   {
     "id": 599892767,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-durian-is-becoming-popular-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:31.334Z"
+    "scrapedAt": "2026-10-29T12:39:57.285Z"
   },
   {
     "id": 4233363327,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/lithuania-and-nuclear-weapons-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:31.652Z"
+    "scrapedAt": "2026-10-29T12:39:57.287Z"
   },
   {
     "id": 3288655299,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/indonesias-vice-president-has-problems-with-school-papers-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:31.809Z"
+    "scrapedAt": "2026-10-29T12:39:57.422Z"
   },
   {
     "id": 883173375,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/a-lab-worker-dies-in-russia-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:31.893Z"
+    "scrapedAt": "2026-10-29T12:39:57.404Z"
   },
   {
     "id": 1982986862,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/french-students-protest-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:33.953Z"
+    "scrapedAt": "2026-10-29T12:40:00.167Z"
   },
   {
     "id": 1209302248,
@@ -1911,7 +1940,7 @@
         "url": "https://www.newsinlevels.com/products/why-we-say-god-bless-you-level-3"
       }
     },
-    "scrapedAt": "2026-10-29T05:12:19.736Z"
+    "scrapedAt": "2026-10-29T12:39:45.514Z"
   },
   {
     "id": 3435028590,
