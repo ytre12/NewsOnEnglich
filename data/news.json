@@ -1,5 +1,34 @@
 [
   {
+    "id": 1681805844,
+    "title": "Made in Qatar",
+    "date": "30-10-2026 07:00",
+    "levels": {
+      "1": {
+        "title": "Made in Qatar",
+        "date": "30-10-2026 07:00",
+        "content": "Qatar is making many new things at home. Local farms are producing fresh milk, eggs, and meat. People do not have to buy food from other countries.\n\nThese farms use clean sun power and recycle water to stay green. Small companies are also making healthy juices and plant-based food for schools and shops. They want to sell their food to other countries soon. The country is even building a factory to make electric cars.\n\nPeople in Qatar are happy to buy local goods. They create new jobs and help their country grow.",
+        "words": "<strong>green</strong> (good for the planet), <strong>plant-based</strong> (from plants, not animals), <strong>local</strong> (from a specific area or country).",
+        "url": "https://www.newsinlevels.com/products/made-in-qatar-level-1"
+      },
+      "2": {
+        "title": "Made in Qatar",
+        "date": "30-10-2026 07:00",
+        "content": "Qatar is working hard to create its own products and build strong local businesses. The country wants to rely less on oil and increase its national food security.\n\nLocal farming companies now produce fresh chicken, eggs, and dairy for almost the whole population. They use modern, eco-friendly methods like solar power and water recycling. Also, young business owners are making healthy plant-based foods, juices, and snacks. They are planning to sell them to neighboring countries soon. Qatar is also investing in new technology, such as building its first electric car factory.\n\nThrough these green initiatives, companies are supporting local talent, creating new jobs, and showing the world that their homegrown products offer great quality and sustainability.",
+        "words": "<strong>food security</strong> (when people have enough good food), <strong>initiative</strong> (an important new plan or action), <strong>sustainability</strong> (using natural resources in a way which doesn’t harm the planet).",
+        "url": "https://www.newsinlevels.com/products/made-in-qatar-level-2"
+      },
+      "3": {
+        "title": "Made in Qatar",
+        "date": "30-10-2026 07:00",
+        "content": "Qatar is actively expanding its national production to diversify its economy and build a strong global reputation for homegrown brands.\n\nLocal agricultural and food companies are leading this movement by boosting food security through fully integrated, sustainable farming systems. For example, major local producers have increased fresh poultry supply to meet almost all domestic demand while developing zero-waste operations powered by solar energy and recycled water. At the same time, health-conscious entrepreneurs are introducing plant-based foods and cold-pressed juices to fill gaps in the market. Beyond agriculture, strategic investment firms are supporting unique industrial ventures, including the country’s first electric vehicle factory.\n\nTogether, these initiatives show how Qatar is moving beyond its traditional energy sector. The country empowers local talent and creates high-quality, sustainable products capable of competing on the international stage.",
+        "words": "<strong>reputation</strong> (the opinion that people generally have about how good, reliable, or successful someone or something is), <strong>entrepreneur</strong> (a person who starts and runs their own business), <strong>venture</strong> (a new business activity or project).",
+        "url": "https://www.newsinlevels.com/products/made-in-qatar-level-3"
+      }
+    },
+    "scrapedAt": "2026-10-30T12:31:07.384Z"
+  },
+  {
     "id": 379475121,
     "title": "Salmon farming and tech",
     "date": "29-10-2026 15:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/salmon-farming-and-tech-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:47.455Z"
+    "scrapedAt": "2026-10-30T12:31:07.481Z"
   },
   {
     "id": 1024899760,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/the-uk-says-yes-to-drilling-in-the-north-sea-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:47.047Z"
+    "scrapedAt": "2026-10-30T12:31:07.263Z"
   },
   {
     "id": 4051471249,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/ai-drones-help-farmers-and-the-planet-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:48.089Z"
+    "scrapedAt": "2026-10-30T12:31:07.408Z"
   },
   {
     "id": 1190094529,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/sydney-must-close-its-beaches-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:47.721Z"
+    "scrapedAt": "2026-10-30T12:31:07.389Z"
   },
   {
     "id": 2577216895,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/no-more-horses-in-the-streets-of-new-york-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:47.805Z"
+    "scrapedAt": "2026-10-30T12:31:09.631Z"
   },
   {
     "id": 4067693699,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/musk-slows-down-internet-for-ukraine-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:49.983Z"
+    "scrapedAt": "2026-10-30T12:31:09.890Z"
   },
   {
     "id": 1599145571,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/to-buy-or-to-rent-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:50.617Z"
+    "scrapedAt": "2026-10-30T12:31:10.009Z"
   },
   {
     "id": 3593771987,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/a-man-attacks-a-politician-in-australia-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:50.421Z"
+    "scrapedAt": "2026-10-30T12:31:10.001Z"
   },
   {
     "id": 1440195825,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/israels-election-and-iran-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:50.474Z"
+    "scrapedAt": "2026-10-30T12:31:10.072Z"
   },
   {
     "id": 985748562,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/a-religious-leader-in-court-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:51.297Z"
+    "scrapedAt": "2026-10-30T12:31:12.583Z"
   },
   {
     "id": 1254724743,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/kenya-and-plastics-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:52.671Z"
+    "scrapedAt": "2026-10-30T12:31:12.541Z"
   },
   {
     "id": 687254074,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/pumpkin-festival-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:52.918Z"
+    "scrapedAt": "2026-10-30T12:31:12.640Z"
   },
   {
     "id": 3651233834,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/space-elevator-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:53.388Z"
+    "scrapedAt": "2026-10-30T12:31:12.934Z"
   },
   {
     "id": 2664266100,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/bangladesh-is-fighting-a-dangerous-disease-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:53.108Z"
+    "scrapedAt": "2026-10-30T12:31:12.827Z"
   },
   {
     "id": 2720559862,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/farming-in-iceland-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:53.630Z"
+    "scrapedAt": "2026-10-30T12:31:12.917Z"
   },
   {
     "id": 3165723216,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/why-does-tech-cost-more-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:54.024Z"
+    "scrapedAt": "2026-10-30T12:31:15.004Z"
   },
   {
     "id": 2359391957,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/hackers-attack-french-supermarkets-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:55.786Z"
+    "scrapedAt": "2026-10-30T12:31:15.220Z"
   },
   {
     "id": 3542127812,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/the-best-countries-to-retire-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:55.808Z"
+    "scrapedAt": "2026-10-30T12:31:15.397Z"
   },
   {
     "id": 2797384667,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/the-strange-business-of-roman-abramovich-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:56.083Z"
+    "scrapedAt": "2026-10-30T12:31:15.506Z"
   },
   {
     "id": 1428559781,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/indias-big-river-project-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:56.874Z"
+    "scrapedAt": "2026-10-30T12:31:15.682Z"
   },
   {
     "id": 429529056,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/young-people-and-concussion-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:57.039Z"
+    "scrapedAt": "2026-10-30T12:31:17.900Z"
   },
   {
     "id": 1482548838,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/2026-chemistry-nobel-prize-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:58.946Z"
+    "scrapedAt": "2026-10-30T12:31:17.768Z"
   },
   {
     "id": 427067333,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/a-womens-village-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:59.128Z"
+    "scrapedAt": "2026-10-30T12:31:17.946Z"
   },
   {
     "id": 882950779,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/a-couple-sells-fake-taylor-swift-tickets-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:59.125Z"
+    "scrapedAt": "2026-10-30T12:31:17.928Z"
   },
   {
     "id": 599892767,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/malaysias-durian-is-becoming-popular-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:11:59.239Z"
+    "scrapedAt": "2026-10-30T12:31:17.924Z"
   },
   {
     "id": 4233363327,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/lithuania-and-nuclear-weapons-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:12:00.129Z"
+    "scrapedAt": "2026-10-30T12:31:18.150Z"
   },
   {
     "id": 3288655299,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/indonesias-vice-president-has-problems-with-school-papers-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:12:00.087Z"
+    "scrapedAt": "2026-10-30T12:31:20.987Z"
   },
   {
     "id": 883173375,
@@ -809,7 +838,7 @@
         "url": "https://www.newsinlevels.com/products/a-lab-worker-dies-in-russia-level-3"
       }
     },
-    "scrapedAt": "2026-10-30T05:12:01.883Z"
+    "scrapedAt": "2026-10-30T12:31:21.340Z"
   },
   {
     "id": 1982986862,
@@ -1940,7 +1969,7 @@
         "url": "https://www.newsinlevels.com/products/a-robot-makes-fries-level-3"
       }
     },
-    "scrapedAt": "2026-10-27T04:28:30.859Z"
+    "scrapedAt": "2026-10-30T12:31:07.223Z"
   },
   {
     "id": 2078033741,
