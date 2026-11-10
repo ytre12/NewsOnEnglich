@@ -1,5 +1,63 @@
 [
   {
+    "id": 385560079,
+    "title": "Fake bomb warnings",
+    "date": "10-11-2026 15:00",
+    "levels": {
+      "1": {
+        "title": "Fake bomb warnings",
+        "date": "10-11-2026 15:00",
+        "content": "Many planes in Europe get fake bomb warnings on Friday. The day before, 25 other flights get similar warnings.\n\nOne plane from Rome to Lisbon has a bomb warning, but it lands safely. Police check the plane and find nothing. Four more planes get fake warnings. They fly from France. They land safely. Another plane going from Prague to Rome must land in Venice.\n\nPolice in Europe are looking for the people who make these phone calls. All planes are safe, but officers are still checking everything to keep people safe when they fly.",
+        "words": "<strong>bomb warning</strong> (a message or call warning that a bomb is somewhere), <strong>flight</strong> (a journey by plane), <strong>safely</strong> (in a way which is not risky or harmful).",
+        "url": "https://www.newsinlevels.com/products/fake-bomb-warnings-level-1"
+      },
+      "2": {
+        "title": "Fake bomb warnings",
+        "date": "10-11-2026 15:00",
+        "content": "A series of fake bomb threats disrupted many flights across Europe on Friday. This happened after more than 25 flights faced similar threats on Thursday.\n\nOne Ryanair plane flying from Rome to Lisbon got a warning about a bomb on board. The plane landed safely in Portugal, where police began searching the aircraft. In France, officials reported four more bomb warnings for planes in their airspace. Another flight from Prague to Rome had to land in Venice because of a safety warning. Thankfully, all planes landed safely, and emergency teams checked them carefully.\n\nEuropean police are now investigating who is making these phone calls, but officials don’t know yet if the events are connected.",
+        "words": "<strong>series</strong> (several similar events, things, or people which come one after another), <strong>bomb threat</strong> (a message or call warning that a bomb is placed somewhere), <strong>thankfully</strong> (luckily).",
+        "url": "https://www.newsinlevels.com/products/fake-bomb-warnings-level-2"
+      },
+      "3": {
+        "title": "Fake bomb warnings",
+        "date": "10-11-2026 15:00",
+        "content": "A wave of anonymous bomb threats continued to disrupt European aviation on Friday, following at least 25 reported scares across the continent the previous day.\n\nControl towers placed a Ryanair flight from Rome to Lisbon under high security alert after they received a call warning of an explosive device on board. The aircraft landed safely in Portugal, where security forces immediately launched thorough inspections. Simultaneously, French authorities confirmed four additional bomb alerts involving planes flying over their airspace, all of which landed safely for emergency checks. Elsewhere, a Wizz Air flight from Prague to Rome was diverted to Venice because of a similar security threat.\n\nEuropean law enforcement agencies and judicial police have opened extensive investigations to identify the source of these widespread disruptions. While security teams have found no explosives so far, EU officials stated it remains too early to determine if the coordinated scares are linked.",
+        "words": "<strong>anonymous</strong> (made or done by someone whose name is not known or made public), <strong>simultaneously</strong> (happening, existing, or done at the same time), <strong>judicial police</strong> (branch of law enforcement responsible for criminal investigations and gathering evidence for legal proceedings).",
+        "url": "https://www.newsinlevels.com/products/fake-bomb-warnings-level-3"
+      }
+    },
+    "scrapedAt": "2026-11-10T14:38:41.872Z"
+  },
+  {
+    "id": 1235795971,
+    "title": "A footballer dies",
+    "date": "10-11-2026 07:00",
+    "levels": {
+      "1": {
+        "title": "A footballer dies",
+        "date": "10-11-2026 07:00",
+        "content": "A sad event happens in Spanish football. A 30-year-old player named Jesús de Miguel dies after a big game accident. He hits another player hard during a match. He hits his head and chest.\n\nDoctors take De Miguel to the hospital quickly. At first, he is not well, but he is stable. But everything changes in the night. On Tuesday morning, his football team says that De Miguel dies.\n\nMany players and fans are very sad. Officials stop some matches to remember him and help his sad family.",
+        "words": "<strong>chest</strong> (a person’s body between the neck and the stomach), <strong>hospital</strong> (a building where doctors and nurses look after sick people), <strong>stable</strong> (when something does not change).",
+        "url": "https://www.newsinlevels.com/products/a-footballer-dies-level-1"
+      },
+      "2": {
+        "title": "A footballer dies",
+        "date": "10-11-2026 07:00",
+        "content": "Spanish football is in mourning after Tenerife striker Jesús de Miguel died at age 30. During a second-division match against FC Andorra, he suffered head and chest injuries in a bad collision with the goalkeeper.\n\nDe Miguel collapsed on the field and was rushed to the hospital by paramedics, who had to help him after his heart stopped in the ambulance. On Monday, doctors said his condition was serious but stable, and family members came to visit him. But his health got much worse during the night, and his club confirmed his death on Tuesday morning.\n\nEveryone at the club is heartbroken, and officials postponed some football matches to show respect for his family and friends.",
+        "words": "<strong>mourning</strong> (deep sadness when someone dies), <strong>collision</strong> (moving object or person striking violently against another), <strong>condition</strong> (how a person feels and well they are).",
+        "url": "https://www.newsinlevels.com/products/a-footballer-dies-level-2"
+      },
+      "3": {
+        "title": "A footballer dies",
+        "date": "10-11-2026 07:00",
+        "content": "Tragedy has struck Spanish football following the death of Tenerife striker Jesús de Miguel at the age of 30.\n\nThe forward suffered severe head and chest injuries during a heavy collision with FC Andorra’s goalkeeper, who was sent off for the challenge.\n\nDe Miguel collapsed on the pitch and received emergency treatment while visibly shaken players and fans looked on. Reports indicate he suffered a cardiac arrest in the ambulance on the way to the hospital, where paramedics managed to resuscitate him. Although his condition was initially reported as stable but serious on Monday, his health rapidly deteriorated overnight.\n\nTenerife officially announced his tragic passing early Tuesday morning. The Spanish Football Federation has postponed scheduled Spanish Cup fixtures as the entire football community mourns the loss of the respected player, while authorities begin further investigations into the exact cause of death.",
+        "words": "<strong>cardiac arrest</strong> (a sudden loss of heart function, breathing, and consciousness), <strong>deteriorate</strong> (to become progressively worse in health, quality, or condition), <strong>fixture</strong> (a sports match or event that has been arranged to take place on a specific date).",
+        "url": "https://www.newsinlevels.com/products/a-footballer-dies-level-3"
+      }
+    },
+    "scrapedAt": "2026-11-10T14:38:42.155Z"
+  },
+  {
     "id": 2503567359,
     "title": "Computers in Singapore hospitals stop working",
     "date": "09-11-2026 15:00",
@@ -26,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/computers-in-singapore-hospitals-stop-working-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:03.026Z"
+    "scrapedAt": "2026-11-10T14:38:42.149Z"
   },
   {
     "id": 3376479113,
@@ -55,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/what-happens-if-you-do-not-brush-your-teeth-for-a-year-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:03.448Z"
+    "scrapedAt": "2026-11-10T14:38:42.175Z"
   },
   {
     "id": 1082529748,
@@ -84,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/parents-take-children-out-of-big-schools-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:03.759Z"
+    "scrapedAt": "2026-11-10T14:38:45.166Z"
   },
   {
     "id": 1797778719,
@@ -113,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/hackers-attack-ukrainian-and-russian-emergency-apps-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:03.639Z"
+    "scrapedAt": "2026-11-10T14:38:45.273Z"
   },
   {
     "id": 3054639167,
@@ -142,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/a-bull-in-a-car-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:05.418Z"
+    "scrapedAt": "2026-11-10T14:38:45.336Z"
   },
   {
     "id": 2962393240,
@@ -171,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/patrick-stewart-dies-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:05.689Z"
+    "scrapedAt": "2026-11-10T14:38:45.391Z"
   },
   {
     "id": 23971937,
@@ -200,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/chinese-baby-companies-have-problems-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:05.775Z"
+    "scrapedAt": "2026-11-10T14:38:45.492Z"
   },
   {
     "id": 3773199773,
@@ -229,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/new-eu-deforestation-law-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:05.603Z"
+    "scrapedAt": "2026-11-10T14:38:45.559Z"
   },
   {
     "id": 4134012947,
@@ -258,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/canada-and-europe-want-to-work-closer-together-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:06.010Z"
+    "scrapedAt": "2026-11-10T14:38:48.449Z"
   },
   {
     "id": 2565780445,
@@ -287,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/influencers-in-mexico-work-for-drug-groups-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:06.151Z"
+    "scrapedAt": "2026-11-10T14:38:48.424Z"
   },
   {
     "id": 2592405433,
@@ -316,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/who-will-be-the-next-james-bond-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:07.743Z"
+    "scrapedAt": "2026-11-10T14:38:48.578Z"
   },
   {
     "id": 953646044,
@@ -345,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/the-longest-train-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:07.751Z"
+    "scrapedAt": "2026-11-10T14:38:48.652Z"
   },
   {
     "id": 476519755,
@@ -374,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/why-you-forget-english-words-and-how-to-fix-it-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:08.473Z"
+    "scrapedAt": "2026-11-10T14:38:48.688Z"
   },
   {
     "id": 3308086659,
@@ -403,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/good-news-of-october-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:08.461Z"
+    "scrapedAt": "2026-11-10T14:38:48.718Z"
   },
   {
     "id": 1681805844,
@@ -432,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/made-in-qatar-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:08.466Z"
+    "scrapedAt": "2026-11-10T14:38:51.523Z"
   },
   {
     "id": 379475121,
@@ -461,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/salmon-farming-and-tech-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:08.673Z"
+    "scrapedAt": "2026-11-10T14:38:51.623Z"
   },
   {
     "id": 1024899760,
@@ -490,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/the-uk-says-yes-to-drilling-in-the-north-sea-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:10.369Z"
+    "scrapedAt": "2026-11-10T14:38:51.798Z"
   },
   {
     "id": 4051471249,
@@ -519,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/ai-drones-help-farmers-and-the-planet-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:10.292Z"
+    "scrapedAt": "2026-11-10T14:38:51.701Z"
   },
   {
     "id": 1190094529,
@@ -548,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/sydney-must-close-its-beaches-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:11.124Z"
+    "scrapedAt": "2026-11-10T14:38:51.817Z"
   },
   {
     "id": 2577216895,
@@ -577,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/no-more-horses-in-the-streets-of-new-york-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:11.160Z"
+    "scrapedAt": "2026-11-10T14:38:51.812Z"
   },
   {
     "id": 4067693699,
@@ -606,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/musk-slows-down-internet-for-ukraine-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:11.111Z"
+    "scrapedAt": "2026-11-10T14:38:54.538Z"
   },
   {
     "id": 1599145571,
@@ -635,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/to-buy-or-to-rent-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:11.116Z"
+    "scrapedAt": "2026-11-10T14:38:54.577Z"
   },
   {
     "id": 3593771987,
@@ -664,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/a-man-attacks-a-politician-in-australia-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:12.767Z"
+    "scrapedAt": "2026-11-10T14:38:55.048Z"
   },
   {
     "id": 1440195825,
@@ -693,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/israels-election-and-iran-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:13.482Z"
+    "scrapedAt": "2026-11-10T14:38:54.815Z"
   },
   {
     "id": 985748562,
@@ -722,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/a-religious-leader-in-court-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:13.701Z"
+    "scrapedAt": "2026-11-10T14:38:54.581Z"
   },
   {
     "id": 1254724743,
@@ -751,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/kenya-and-plastics-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:13.488Z"
+    "scrapedAt": "2026-11-10T14:38:57.142Z"
   },
   {
     "id": 687254074,
@@ -780,7 +838,7 @@
         "url": "https://www.newsinlevels.com/products/pumpkin-festival-level-3"
       }
     },
-    "scrapedAt": "2026-11-10T01:22:13.500Z"
+    "scrapedAt": "2026-11-10T14:38:57.602Z"
   },
   {
     "id": 3651233834,
@@ -2405,6 +2463,35 @@
       }
     },
     "scrapedAt": "2026-11-08T21:52:34.235Z"
+  },
+  {
+    "id": 1291140394,
+    "title": "One Year ago: The Grand Egyptian Museum opens",
+    "date": "10-11-2025 15:00",
+    "levels": {
+      "1": {
+        "title": "One Year ago: The Grand Egyptian Museum opens",
+        "date": "10-11-2025 15:00",
+        "content": "The Grand Egyptian Museum is now open near the pyramids of Giza in Egypt. It is one of the biggest museums in the world. It shows many beautiful things from ancient Egypt.\n\nIt takes twenty years to build and costs about one billion dollars. Egypt borrows a lot of money from Japan. Inside, visitors can see many old things, for example, all the famous gold objects from Pharaoh Tutankhamun’s tomb.\n\nThe museum will bring more tourists to Egypt and help the country’s economy. During the opening, there are fireworks and lights in the sky. Many people come to celebrate this special moment for Egypt.",
+        "words": "<strong>ancient</strong> (very old), <strong>pharaoh</strong> (the king of old Egypt), <strong>tomb</strong> (a special place where important dead people stay).",
+        "url": "https://www.newsinlevels.com/products/the-grand-egyptian-museum-opens-level-1"
+      },
+      "2": {
+        "title": "One Year ago: The Grand Egyptian Museum opens",
+        "date": "10-11-2025 15:00",
+        "content": "Egypt opened the Grand Egyptian Museum near the pyramids of Giza. It took 20 years to build and cost about one billion dollars, mostly paid with Japanese loans.\n\nThe museum shows many ancient objects and the full collection of Pharaoh Tutankhamun’s treasures. Leaders and guests from many countries came to the opening, which had fireworks and drones in the sky.\n\nThe government hopes the museum will help tourism and make more money for the economy. People in Cairo say it is a reason for pride and happiness. The museum is one of the biggest in the world and shows Egypt’s long history and culture.",
+        "words": "<strong>loan</strong> (money that someone borrows and must pay back later), <strong>ancient</strong> (very old), <strong>treasure</strong> (very valuable things such as gold, jewels, or other expensive objects).",
+        "url": "https://www.newsinlevels.com/products/the-grand-egyptian-museum-opens-level-2"
+      },
+      "3": {
+        "title": "One Year ago: The Grand Egyptian Museum opens",
+        "date": "10-11-2025 15:00",
+        "content": "The Grand Egyptian Museum has officially opened near the pyramids of Giza after 20 years of construction. It cost around one billion dollars, financed mostly through Japanese loans.\n\nThe new museum, one of the world’s largest dedicated to a single civilization, houses tens of thousands of artifacts, including all the treasures of the ancient Pharaoh Tutankhamun, shown together for the first time. Presidents, prime ministers, and royalty attended the grand opening, which featured fireworks and drone shows lighting the night sky over Cairo.\n\nThe Egyptian government hopes the museum will boost tourism and help the country’s struggling economy. Despite challenges such as the Arab Spring, the pandemic, and regional conflicts, Egypt finally celebrates a new chapter in its long history, aiming to attract millions of visitors in the coming years. Built close to the Great Pyramids, the museum symbolizes national pride and cultural heritage.",
+        "words": "<strong>artifact</strong> (an old object made by humans), <strong>heritage</strong> (traditions and culture from the past).",
+        "url": "https://www.newsinlevels.com/products/the-grand-egyptian-museum-opens-level-3"
+      }
+    },
+    "scrapedAt": "2026-11-10T14:38:41.893Z"
   },
   {
     "id": 124058815,
