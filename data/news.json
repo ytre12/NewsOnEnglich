@@ -1,5 +1,34 @@
 [
   {
+    "id": 2582812164,
+    "title": "Russell Brand goes to prison",
+    "date": "11-11-2026 07:00",
+    "levels": {
+      "1": {
+        "title": "Russell Brand goes to prison",
+        "date": "11-11-2026 07:00",
+        "content": "A London court says that famous British actor Russell Brand is guilty of big crimes. He hurts four women and must now go to prison for a long time.\n\nPolice say that more women will likely come and tell their stories now. The police say that it is good that women can speak. People will believe them now. The British prime minister thanks the women who tell the truth about Brand’s bad actions.\n\nPolice are still looking into other stories about him. Brand will find out his time in prison soon.",
+        "words": "<strong>guilty</strong> (when someone is responsible for something bad they do), <strong>likely</strong> (when something may happen or be true), <strong>prime minister</strong> (the leader of a government).",
+        "url": "https://www.newsinlevels.com/products/russell-brand-goes-to-prison-level-1"
+      },
+      "2": {
+        "title": "Russell Brand goes to prison",
+        "date": "11-11-2026 07:00",
+        "content": "British comedian Russell Brand was found guilty of rape and sexual attack in a London court. Following the verdict, police leaders say they expect more victims to come forward with new claims.\n\nOne of them explained that seeing a famous person held responsible gives other victims confidence to speak up. Brand, a former Hollywood actor once married to singer Katy Perry, now faces a long time in prison. British Prime Minister thanked the brave women who spoke out about his terrible crimes.\n\nPolice are already looking into other complaints against Brand, including one from a girl who was 16 years old at the time. The 51-year-old former star will go to court for his formal sentencing.",
+        "words": "<strong>rape</strong> (the crime of forcing another person to have sex without their consent), <strong>victim</strong> (a person harmed, injured, or killed as a result of a crime, accident, or other event), <strong>sentencing</strong> (the official proceeding where a judge gives a verdict).",
+        "url": "https://www.newsinlevels.com/products/russell-brand-goes-to-prison-level-2"
+      },
+      "3": {
+        "title": "Russell Brand goes to prison",
+        "date": "11-11-2026 07:00",
+        "content": "Following the high-profile conviction of British comedian and actor Russell Brand for rape and sexual assault, UK police chiefs expect more victims to step forward.\n\nLondon’s Metropolitan Police Commissioner stated that successful court verdicts often give additional survivors the confidence to report past abuse, knowing they will be believed. Brand, who previously starred in Hollywood films and was once married to pop singer Katy Perry, faces a lengthy prison sentence after a London court found him guilty of raping one woman and sexually assaulting three others. He also faces ongoing investigations regarding additional allegations, including one involving a 16-year-old girl at the time of the incident.\n\nBritish Prime Minister praised the victims for their courage in bringing the horrific crimes to light. As one of Britain’s most prominent public figures convicted of sex offenses in recent years, Brand remains in custody and is awaiting his formal sentencing hearing.",
+        "words": "<strong>conviction</strong> (a formal declaration by a court of law that someone is guilty of a criminal offense), <strong>allegation</strong> (a claim that someone has done something illegal or wrong, typically one made without immediate proof), <strong>courage</strong> (the ability to do something frightening or difficult without showing fear).",
+        "url": "https://www.newsinlevels.com/products/russell-brand-goes-to-prison-level-3"
+      }
+    },
+    "scrapedAt": "2026-11-11T13:53:38.957Z"
+  },
+  {
     "id": 385560079,
     "title": "Fake bomb warnings",
     "date": "10-11-2026 15:00",
@@ -26,7 +55,7 @@
         "url": "https://www.newsinlevels.com/products/fake-bomb-warnings-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:54.250Z"
+    "scrapedAt": "2026-11-11T13:53:39.267Z"
   },
   {
     "id": 1235795971,
@@ -55,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/a-footballer-dies-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:54.318Z"
+    "scrapedAt": "2026-11-11T13:53:39.260Z"
   },
   {
     "id": 2503567359,
@@ -84,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/computers-in-singapore-hospitals-stop-working-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:54.417Z"
+    "scrapedAt": "2026-11-11T13:53:39.392Z"
   },
   {
     "id": 3376479113,
@@ -113,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/what-happens-if-you-do-not-brush-your-teeth-for-a-year-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:54.386Z"
+    "scrapedAt": "2026-11-11T13:53:39.315Z"
   },
   {
     "id": 1082529748,
@@ -142,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/parents-take-children-out-of-big-schools-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:56.710Z"
+    "scrapedAt": "2026-11-11T13:53:42.252Z"
   },
   {
     "id": 1797778719,
@@ -171,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/hackers-attack-ukrainian-and-russian-emergency-apps-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:56.623Z"
+    "scrapedAt": "2026-11-11T13:53:42.543Z"
   },
   {
     "id": 3054639167,
@@ -200,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/a-bull-in-a-car-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:56.564Z"
+    "scrapedAt": "2026-11-11T13:53:42.267Z"
   },
   {
     "id": 2962393240,
@@ -229,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/patrick-stewart-dies-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:56.776Z"
+    "scrapedAt": "2026-11-11T13:53:42.496Z"
   },
   {
     "id": 23971937,
@@ -258,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/chinese-baby-companies-have-problems-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:56.704Z"
+    "scrapedAt": "2026-11-11T13:53:42.566Z"
   },
   {
     "id": 3773199773,
@@ -287,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/new-eu-deforestation-law-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:57.086Z"
+    "scrapedAt": "2026-11-11T13:53:44.336Z"
   },
   {
     "id": 4134012947,
@@ -316,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/canada-and-europe-want-to-work-closer-together-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:59.254Z"
+    "scrapedAt": "2026-11-11T13:53:45.397Z"
   },
   {
     "id": 2565780445,
@@ -345,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/influencers-in-mexico-work-for-drug-groups-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:59.006Z"
+    "scrapedAt": "2026-11-11T13:53:45.443Z"
   },
   {
     "id": 2592405433,
@@ -374,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/who-will-be-the-next-james-bond-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:59.317Z"
+    "scrapedAt": "2026-11-11T13:53:45.599Z"
   },
   {
     "id": 953646044,
@@ -403,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/the-longest-train-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:59.325Z"
+    "scrapedAt": "2026-11-11T13:53:45.450Z"
   },
   {
     "id": 476519755,
@@ -432,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/why-you-forget-english-words-and-how-to-fix-it-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:59.134Z"
+    "scrapedAt": "2026-11-11T13:53:45.629Z"
   },
   {
     "id": 3308086659,
@@ -461,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/good-news-of-october-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:59.786Z"
+    "scrapedAt": "2026-11-11T13:53:47.197Z"
   },
   {
     "id": 1681805844,
@@ -490,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/made-in-qatar-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:36:01.431Z"
+    "scrapedAt": "2026-11-11T13:53:48.528Z"
   },
   {
     "id": 379475121,
@@ -519,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/salmon-farming-and-tech-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:36:01.743Z"
+    "scrapedAt": "2026-11-11T13:53:48.431Z"
   },
   {
     "id": 1024899760,
@@ -548,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/the-uk-says-yes-to-drilling-in-the-north-sea-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:36:01.880Z"
+    "scrapedAt": "2026-11-11T13:53:48.521Z"
   },
   {
     "id": 4051471249,
@@ -577,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/ai-drones-help-farmers-and-the-planet-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:36:01.896Z"
+    "scrapedAt": "2026-11-11T13:53:48.376Z"
   },
   {
     "id": 1190094529,
@@ -606,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/sydney-must-close-its-beaches-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:36:01.776Z"
+    "scrapedAt": "2026-11-11T13:53:48.361Z"
   },
   {
     "id": 2577216895,
@@ -635,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/no-more-horses-in-the-streets-of-new-york-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:36:02.153Z"
+    "scrapedAt": "2026-11-11T13:53:50.169Z"
   },
   {
     "id": 4067693699,
@@ -664,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/musk-slows-down-internet-for-ukraine-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:36:04.026Z"
+    "scrapedAt": "2026-11-11T13:53:51.308Z"
   },
   {
     "id": 1599145571,
@@ -693,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/to-buy-or-to-rent-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:36:04.187Z"
+    "scrapedAt": "2026-11-11T13:53:51.336Z"
   },
   {
     "id": 3593771987,
@@ -722,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/a-man-attacks-a-politician-in-australia-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:36:04.221Z"
+    "scrapedAt": "2026-11-11T13:53:51.347Z"
   },
   {
     "id": 1440195825,
@@ -751,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/israels-election-and-iran-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:36:04.714Z"
+    "scrapedAt": "2026-11-11T13:53:51.528Z"
   },
   {
     "id": 985748562,
@@ -780,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/a-religious-leader-in-court-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:36:04.700Z"
+    "scrapedAt": "2026-11-11T13:53:53.267Z"
   },
   {
     "id": 1254724743,
@@ -809,7 +838,7 @@
         "url": "https://www.newsinlevels.com/products/kenya-and-plastics-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:36:06.583Z"
+    "scrapedAt": "2026-11-11T13:53:54.077Z"
   },
   {
     "id": 687254074,
@@ -2491,7 +2520,7 @@
         "url": "https://www.newsinlevels.com/products/nancy-pelosi-leaves-congress-level-3"
       }
     },
-    "scrapedAt": "2026-11-11T05:35:54.076Z"
+    "scrapedAt": "2026-11-11T13:53:39.399Z"
   },
   {
     "id": 1291140394,
