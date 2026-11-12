@@ -1,5 +1,63 @@
 [
   {
+    "id": 3078315529,
+    "title": "Love for pumpkin spice",
+    "date": "12-11-2026 15:00",
+    "levels": {
+      "1": {
+        "title": "Love for pumpkin spice",
+        "date": "12-11-2026 15:00",
+        "content": "People love pumpkin spice. The spice is a mixture of several spices. For example, they are cinnamon, nutmeg, or ginger. It smells very good. It brings happy feelings.\n\nNo pumpkin is in the mixture. Some people think that Starbucks makes pumpkin spice. The recipe is much older.\n\nAmerican settlers use the spices to keep food fresh during the winter. The foods are meat, fruit, and vegetables.\n\nIn 1976, Amelia Simmons writes a pumpkin spice recipe. She puts pumpkin spice in the first American cookbook. In the 1990s, Starbucks creates the pumpkin spice latte. Many people love it. The drink helps them welcome the fall after a hot summer.",
+        "words": "<strong>mixture</strong> (several things put together), <strong>nutmeg</strong> (a hard seed of a tropical tree), <strong>settler</strong> (a person who lives in a new country).",
+        "url": "https://www.newsinlevels.com/products/love-for-pumpkin-spice-level-1"
+      },
+      "2": {
+        "title": "Love for pumpkin spice",
+        "date": "12-11-2026 15:00",
+        "content": "Many people love pumpkin spice because it gives them warm cozy feelings. They love to drink to welcome the fall when the hot summer ends. Pumpkin spice has many spices, including cinnamon, nutmeg, and ginger, and its smell is very popular.\n\nIn the 1990s, Starbucks created with the first pumpkin spice latte, and millions of people loved it. Since that time, Starbucks sold more than 420 million cups of pumpkin spice latte in the US, and the company offers it to customers in the fall and winter.\n\nThe history of pumpkin spice is much older than the 1990s. Hundreds of years ago, American settlers used the same spices to preserve meat, fruit, and vegetables for the winter months. In 1976, author Amelia Simmons wrote a pumpkin spice recipe which she put in the first American cookbook.",
+        "words": "<strong>cozy</strong> (something that makes you feel warm and relaxed), <strong>settler</strong> (a person who moves to survive and live in a new country or area), <strong>preserve</strong> (to keep food fresh).",
+        "url": "https://www.newsinlevels.com/products/love-for-pumpkin-spice-level-2"
+      },
+      "3": {
+        "title": "Love for pumpkin spice",
+        "date": "12-11-2026 15:00",
+        "content": "The average pumpkin spice blend has cinnamon, nutmeg, ginger, cloves, and allspice, and for many consumers, it gives the warm, fuzzy feelings.\n\nFor centuries, people have associated the pumpkin spice flavor with fall. Early American settlers used the same ingredients to preserve the fall harvests of meat, fruit, and vegetables. In 1976, Amelia Simmons wrote a recipe for the flavor in the first American cookbook. In 1934, McCormick made the flavor official with the name pumpkin pie spice. The company gave an easy method to get all the spices needed for pumpkin pie in one shake.\n\nIn the early 1990s, Starbucks capitalized on the flavor, and the company added the pumpkin spice latte to its repertoire of seasonal drinks. Since then, Starbucks has sold more than 420 million cups in the US alone.\n\nPeople love pumpkin spice as its smell evokes memories. Some experts say the words pumpkin spice can spark cozy fall feelings which people crave at the end of a hot summer.",
+        "words": "<strong>blend</strong> (a mixture of different substances), <strong>capitalize</strong> <strong>on </strong>(to make profit from something), <strong>repertoire</strong> (all the items on stock).",
+        "url": "https://www.newsinlevels.com/products/love-for-pumpkin-spice-level-3"
+      }
+    },
+    "scrapedAt": "2026-11-12T14:55:37.253Z"
+  },
+  {
+    "id": 177767803,
+    "title": "AI robots in our homes",
+    "date": "12-11-2026 07:00",
+    "levels": {
+      "1": {
+        "title": "AI robots in our homes",
+        "date": "12-11-2026 07:00",
+        "content": "Tech companies want to put robots with AI into our homes. Meta makes a new robot called Max. It walks on two legs.\n\nSome people think robots which look like humans can help us clean, pick up things, and work. But other people say that robots make too many mistakes. They can break glass, fall, or get lost in small rooms. Also, home robots use cameras to see everything. This can make people feel unsafe in their own homes.\n\nScientists are teaching robots how to walk safely with the help of 3D maps. But it will take a long time before robots can safely live with us.",
+        "words": "<strong>human</strong> (a person), <strong>mistake</strong> (an action with a bad end), <strong>get lost</strong> (when you cannot find your way).",
+        "url": "https://www.newsinlevels.com/products/ai-robots-in-our-homes-level-1"
+      },
+      "2": {
+        "title": "AI robots in our homes",
+        "date": "12-11-2026 07:00",
+        "content": "Big tech companies are building humanoid robots to bring AI into our daily lives. Meta recently created a prototype robot called Max, and they hope it can work in homes and offices.\n\nSupporters say robots shaped like humans can move around rooms and use everyday tools easily. But tech critics argue that these robots are not ready for normal homes. Rooms have many small obstacles, and robots can easily break objects or fall over. To work well, these machines also need to record video of private rooms, which creates serious security and privacy risks. Researchers are using 3D maps to teach robots how to move safely, but experts still disagree on whether home robots will become part of real life anytime soon.",
+        "words": "<strong>humanoid</strong> (looking like a human), <strong>prototype</strong> (an early version of a machine or device), <strong>obstacle</strong> (an object or thing which blocks the way).",
+        "url": "https://www.newsinlevels.com/products/ai-robots-in-our-homes-level-2"
+      },
+      "3": {
+        "title": "AI robots in our homes",
+        "date": "12-11-2026 07:00",
+        "content": "Big technology companies are investing heavily in humanoid robotics, and racing to bring AI from screen interfaces into physical homes and workplaces.\n\nMeta recently developed a prototype humanoid named Max in just three months. They want to provide a physical body for its digital AI assistant. Proponents argue that building robots with human-like form allows them to navigate spaces, handle tools, and use infrastructure designed specifically for people. However, tech critics argue that current AI remains unreliable for real-world physical tasks. Human environments present unpredictable challenges and make delicate interactions such as handling fragile household objects extremely difficult to execute safely. Furthermore, developing autonomous home assistants requires gathering vast amounts of spatial data. This raises major cybersecurity concerns regarding surveillance, data privacy, and potential hacking risks.\n\nWhile researchers work on advanced 3D spatial mapping to help machines navigate rooms, experts remain divided over whether consumer humanoid robots are an inevitable step forward or an overhyped financial gamble.",
+        "words": "<strong>prototype</strong> (an early model or sample built to test a concept, design, or process before mass production), <strong>proponent</strong> (a person who advocates or speaks in favor of an idea, proposal, or project), <strong>spatial</strong> (relating to physical space).",
+        "url": "https://www.newsinlevels.com/products/ai-robots-in-our-homes-level-3"
+      }
+    },
+    "scrapedAt": "2026-11-12T14:55:37.348Z"
+  },
+  {
     "id": 706161777,
     "title": "Sharks in an aquarium",
     "date": "11-11-2026 15:00",
@@ -26,7 +84,7 @@
         "url": "https://www.newsinlevels.com/products/sharks-in-an-aquarium-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:19:59.403Z"
+    "scrapedAt": "2026-11-12T14:55:37.426Z"
   },
   {
     "id": 2582812164,
@@ -55,7 +113,7 @@
         "url": "https://www.newsinlevels.com/products/russell-brand-goes-to-prison-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:19:59.381Z"
+    "scrapedAt": "2026-11-12T14:55:37.668Z"
   },
   {
     "id": 385560079,
@@ -84,7 +142,7 @@
         "url": "https://www.newsinlevels.com/products/fake-bomb-warnings-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:19:59.407Z"
+    "scrapedAt": "2026-11-12T14:55:39.814Z"
   },
   {
     "id": 1235795971,
@@ -113,7 +171,7 @@
         "url": "https://www.newsinlevels.com/products/a-footballer-dies-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:19:59.466Z"
+    "scrapedAt": "2026-11-12T14:55:40.192Z"
   },
   {
     "id": 2503567359,
@@ -142,7 +200,7 @@
         "url": "https://www.newsinlevels.com/products/computers-in-singapore-hospitals-stop-working-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:19:59.612Z"
+    "scrapedAt": "2026-11-12T14:55:40.006Z"
   },
   {
     "id": 3376479113,
@@ -171,7 +229,7 @@
         "url": "https://www.newsinlevels.com/products/what-happens-if-you-do-not-brush-your-teeth-for-a-year-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:01.699Z"
+    "scrapedAt": "2026-11-12T14:55:40.273Z"
   },
   {
     "id": 1082529748,
@@ -200,7 +258,7 @@
         "url": "https://www.newsinlevels.com/products/parents-take-children-out-of-big-schools-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:02.126Z"
+    "scrapedAt": "2026-11-12T14:55:40.380Z"
   },
   {
     "id": 1797778719,
@@ -229,7 +287,7 @@
         "url": "https://www.newsinlevels.com/products/hackers-attack-ukrainian-and-russian-emergency-apps-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:02.258Z"
+    "scrapedAt": "2026-11-12T14:55:42.794Z"
   },
   {
     "id": 3054639167,
@@ -258,7 +316,7 @@
         "url": "https://www.newsinlevels.com/products/a-bull-in-a-car-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:02.243Z"
+    "scrapedAt": "2026-11-12T14:55:42.660Z"
   },
   {
     "id": 2962393240,
@@ -287,7 +345,7 @@
         "url": "https://www.newsinlevels.com/products/patrick-stewart-dies-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:02.371Z"
+    "scrapedAt": "2026-11-12T14:55:42.809Z"
   },
   {
     "id": 23971937,
@@ -316,7 +374,7 @@
         "url": "https://www.newsinlevels.com/products/chinese-baby-companies-have-problems-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:04.552Z"
+    "scrapedAt": "2026-11-12T14:55:43.076Z"
   },
   {
     "id": 3773199773,
@@ -345,7 +403,7 @@
         "url": "https://www.newsinlevels.com/products/new-eu-deforestation-law-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:04.628Z"
+    "scrapedAt": "2026-11-12T14:55:42.861Z"
   },
   {
     "id": 4134012947,
@@ -374,7 +432,7 @@
         "url": "https://www.newsinlevels.com/products/canada-and-europe-want-to-work-closer-together-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:05.420Z"
+    "scrapedAt": "2026-11-12T14:55:45.658Z"
   },
   {
     "id": 2565780445,
@@ -403,7 +461,7 @@
         "url": "https://www.newsinlevels.com/products/influencers-in-mexico-work-for-drug-groups-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:05.172Z"
+    "scrapedAt": "2026-11-12T14:55:42.781Z"
   },
   {
     "id": 2592405433,
@@ -432,7 +490,7 @@
         "url": "https://www.newsinlevels.com/products/who-will-be-the-next-james-bond-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:05.330Z"
+    "scrapedAt": "2026-11-12T14:55:45.820Z"
   },
   {
     "id": 953646044,
@@ -461,7 +519,7 @@
         "url": "https://www.newsinlevels.com/products/the-longest-train-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:05.465Z"
+    "scrapedAt": "2026-11-12T14:55:45.703Z"
   },
   {
     "id": 476519755,
@@ -490,7 +548,7 @@
         "url": "https://www.newsinlevels.com/products/why-you-forget-english-words-and-how-to-fix-it-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:07.230Z"
+    "scrapedAt": "2026-11-12T14:55:45.639Z"
   },
   {
     "id": 3308086659,
@@ -519,7 +577,7 @@
         "url": "https://www.newsinlevels.com/products/good-news-of-october-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:07.016Z"
+    "scrapedAt": "2026-11-12T14:55:45.756Z"
   },
   {
     "id": 1681805844,
@@ -548,7 +606,7 @@
         "url": "https://www.newsinlevels.com/products/made-in-qatar-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:07.792Z"
+    "scrapedAt": "2026-11-12T14:55:45.896Z"
   },
   {
     "id": 379475121,
@@ -577,7 +635,7 @@
         "url": "https://www.newsinlevels.com/products/salmon-farming-and-tech-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:07.945Z"
+    "scrapedAt": "2026-11-12T14:55:48.401Z"
   },
   {
     "id": 1024899760,
@@ -606,7 +664,7 @@
         "url": "https://www.newsinlevels.com/products/the-uk-says-yes-to-drilling-in-the-north-sea-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:08.089Z"
+    "scrapedAt": "2026-11-12T14:55:48.547Z"
   },
   {
     "id": 4051471249,
@@ -635,7 +693,7 @@
         "url": "https://www.newsinlevels.com/products/ai-drones-help-farmers-and-the-planet-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:08.021Z"
+    "scrapedAt": "2026-11-12T14:55:48.479Z"
   },
   {
     "id": 1190094529,
@@ -664,7 +722,7 @@
         "url": "https://www.newsinlevels.com/products/sydney-must-close-its-beaches-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:09.588Z"
+    "scrapedAt": "2026-11-12T14:55:48.537Z"
   },
   {
     "id": 2577216895,
@@ -693,7 +751,7 @@
         "url": "https://www.newsinlevels.com/products/no-more-horses-in-the-streets-of-new-york-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:09.576Z"
+    "scrapedAt": "2026-11-12T14:55:48.680Z"
   },
   {
     "id": 4067693699,
@@ -722,7 +780,7 @@
         "url": "https://www.newsinlevels.com/products/musk-slows-down-internet-for-ukraine-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:10.395Z"
+    "scrapedAt": "2026-11-12T14:55:48.676Z"
   },
   {
     "id": 1599145571,
@@ -751,7 +809,7 @@
         "url": "https://www.newsinlevels.com/products/to-buy-or-to-rent-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:10.570Z"
+    "scrapedAt": "2026-11-12T14:55:51.255Z"
   },
   {
     "id": 3593771987,
@@ -780,7 +838,7 @@
         "url": "https://www.newsinlevels.com/products/a-man-attacks-a-politician-in-australia-level-3"
       }
     },
-    "scrapedAt": "2026-11-12T00:20:10.715Z"
+    "scrapedAt": "2026-11-12T14:55:51.422Z"
   },
   {
     "id": 1440195825,
@@ -2520,7 +2578,7 @@
         "url": "https://www.newsinlevels.com/products/the-taste-of-insects-level-3"
       }
     },
-    "scrapedAt": "2026-11-08T21:52:34.235Z"
+    "scrapedAt": "2026-11-12T14:55:37.341Z"
   },
   {
     "id": 2074613235,
